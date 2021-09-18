@@ -15,14 +15,14 @@
 </race>
 <race num="3">
 <Tip Position="1" RunnerNumber="9" NameE="RUBY STARS" NameC="紅海之星" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
-<Tip Position="2" RunnerNumber="11" NameE="APOLAR WARRIOR" NameC="無極戰士" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
-<Tip Position="3" RunnerNumber="10" NameE="SINCERE BOY" NameC="超誠寶寶" JockeyNameE="H W Lai" JockeyNameC="黎海榮"/>
+<Tip Position="2" RunnerNumber="12" NameE="LUCKY VICTOR" NameC="幸運勝駒" JockeyNameE="M L Yeung" JockeyNameC="楊明綸"/>
+<Tip Position="3" RunnerNumber="11" NameE="APOLAR WARRIOR" NameC="無極戰士" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
 <Tip Position="4" RunnerNumber="2" NameE="CROWN AVENUE" NameC="榮冠大道" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
 </race>
 <race num="4">
 <Tip Position="1" RunnerNumber="2" NameE="COURAGEOUS KNIGHT" NameC="八騎士" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
-<Tip Position="2" RunnerNumber="1" NameE="MY ECSTATIC" NameC="合約精神" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="3" RunnerNumber="12" NameE="HAPPY TIME" NameC="快樂歡騰" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
+<Tip Position="2" RunnerNumber="12" NameE="HAPPY TIME" NameC="快樂歡騰" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
+<Tip Position="3" RunnerNumber="1" NameE="MY ECSTATIC" NameC="合約精神" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
 <Tip Position="4" RunnerNumber="6" NameE="TREASURE OF FIELD" NameC="安田之寶" JockeyNameE="C Schofield" JockeyNameC="史卓豐"/>
 </race>
 <race num="5">
@@ -33,8 +33,8 @@
 </race>
 <race num="6">
 <Tip Position="1" RunnerNumber="10" NameE="SOLAR POWER" NameC="星夢帝國" JockeyNameE="A Hamelin" JockeyNameC="賀銘年"/>
-<Tip Position="2" RunnerNumber="6" NameE="FLYING VICTORY" NameC="快馬飛馳" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="3" RunnerNumber="12" NameE="KUNG FU TEA" NameC="功夫茶" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
+<Tip Position="2" RunnerNumber="12" NameE="KUNG FU TEA" NameC="功夫茶" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
+<Tip Position="3" RunnerNumber="6" NameE="FLYING VICTORY" NameC="快馬飛馳" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
 <Tip Position="4" RunnerNumber="5" NameE="BEAUTY SPIRIT" NameC="美麗精神" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
 </race>
 <race num="7">
