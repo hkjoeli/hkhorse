@@ -11,13 +11,13 @@
 <Tip Position="1" RunnerNumber="8" NameE="TRAVEL GLORY" NameC="旅遊達人" JockeyNameE="A Badel" JockeyNameC="巴度"/>
 <Tip Position="2" RunnerNumber="6" NameE="ZHAN JIANG ROCKS" NameC="湛江最醒" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
 <Tip Position="3" RunnerNumber="7" NameE="ALL JOYFUL" NameC="皆大開心" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
-<Tip Position="4" RunnerNumber="5" NameE="SUN OF MAKFI" NameC="日就月將" JockeyNameE="C Schofield" JockeyNameC="史卓豐"/>
+<Tip Position="4" RunnerNumber="9" NameE="SUPERB DADDY" NameC="爸巴閉" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
 </race>
 <race num="3">
 <Tip Position="1" RunnerNumber="2" NameE="JOYFUL WIN" NameC="你知我勝" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
 <Tip Position="2" RunnerNumber="6" NameE="WHISKEY NEAT" NameC="大醇威" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
 <Tip Position="3" RunnerNumber="8" NameE="HAPPILY FRIENDS" NameC="歡樂好友" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
-<Tip Position="4" RunnerNumber="1" NameE="ARES" NameC="多姿多財" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
+<Tip Position="4" RunnerNumber="11" NameE="AUGUST MOON" NameC="月球" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
 </race>
 <race num="4">
 <Tip Position="1" RunnerNumber="4" NameE="KA FORTUNE" NameC="嘉喜旺" JockeyNameE="A Badel" JockeyNameC="巴度"/>
@@ -32,10 +32,10 @@
 <Tip Position="4" RunnerNumber="4" NameE="FLYING GIANT" NameC="威力得得" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
 </race>
 <race num="6">
-<Tip Position="1" RunnerNumber="12" NameE="WILD WEST WING" NameC="過河勁卒" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
-<Tip Position="2" RunnerNumber="9" NameE="SHINY ONE" NameC="鑽一鑽" JockeyNameE="M L Yeung" JockeyNameC="楊明綸"/>
-<Tip Position="3" RunnerNumber="8" NameE="STOICISM" NameC="勇趣" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
-<Tip Position="4" RunnerNumber="4" NameE="DIAMOND BRILLIANT" NameC="閃耀榮光" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
+<Tip Position="1" RunnerNumber="9" NameE="SHINY ONE" NameC="鑽一鑽" JockeyNameE="M L Yeung" JockeyNameC="楊明綸"/>
+<Tip Position="2" RunnerNumber="12" NameE="WILD WEST WING" NameC="過河勁卒" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
+<Tip Position="3" RunnerNumber="4" NameE="DIAMOND BRILLIANT" NameC="閃耀榮光" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
+<Tip Position="4" RunnerNumber="8" NameE="STOICISM" NameC="勇趣" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
 </race>
 <race num="7">
 <Tip Position="1" RunnerNumber="2" NameE="DECISIVE TWELVE" NameC="十二馬" JockeyNameE="A Badel" JockeyNameC="巴度"/>
