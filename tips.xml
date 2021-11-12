@@ -27,8 +27,8 @@
 </race>
 <race num="5">
 <Tip Position="1" RunnerNumber="2" NameE="GOOD NEWS" NameC="喜報" JockeyNameE="C Schofield" JockeyNameC="史卓豐"/>
-<Tip Position="2" RunnerNumber="6" NameE="MOST WELCOME" NameC="迎有" JockeyNameE="A Badel" JockeyNameC="巴度"/>
-<Tip Position="3" RunnerNumber="12" NameE="SMART WONGCHOY" NameC="醒旺財" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
+<Tip Position="2" RunnerNumber="12" NameE="SMART WONGCHOY" NameC="醒旺財" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
+<Tip Position="3" RunnerNumber="6" NameE="MOST WELCOME" NameC="迎有" JockeyNameE="A Badel" JockeyNameC="巴度"/>
 <Tip Position="4" RunnerNumber="4" NameE="PEGASUS GLORY" NameC="飛馬輝煌" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
 </race>
 <race num="6">
@@ -52,14 +52,14 @@
 <race num="9">
 <Tip Position="1" RunnerNumber="1" NameE="PACKING VICTORY" NameC="包裝長勝" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
 <Tip Position="2" RunnerNumber="2" NameE="THE GOLDEN SCENERY" NameC="中華盛景" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
-<Tip Position="3" RunnerNumber="4" NameE="ROCK YA HEART" NameC="心之行" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
-<Tip Position="4" RunnerNumber="5" NameE="WAR WEAPON" NameC="佐治勇駒" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
+<Tip Position="3" RunnerNumber="6" NameE="HURRY HURRY GAIN" NameC="快快有" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
+<Tip Position="4" RunnerNumber="4" NameE="ROCK YA HEART" NameC="心之行" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
 </race>
 <race num="10">
 <Tip Position="1" RunnerNumber="9" NameE="MASTER HERO" NameC="將俠" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
 <Tip Position="2" RunnerNumber="12" NameE="PAKISTAN FRIEND" NameC="巴基之友" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
 <Tip Position="3" RunnerNumber="5" NameE="TEMPEST EXPRESS" NameC="疾風明駒" JockeyNameE="A Badel" JockeyNameC="巴度"/>
-<Tip Position="4" RunnerNumber="13" NameE="SKY FOREVER" NameC="天行健" JockeyNameE="H W Lai" JockeyNameC="黎海榮"/>
+<Tip Position="4" RunnerNumber="2" NameE="COBHFIELD" NameC="綠茵神駒" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
 </race>
 <!--
 <trackside text=""/>
