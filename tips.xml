@@ -33,9 +33,9 @@
 </race>
 <race num="6">
 <Tip Position="1" RunnerNumber="12" NameE="AMAZING ROCKY" NameC="威妙星" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
-<Tip Position="2" RunnerNumber="7" NameE="ESCAPE ROUTE" NameC="波爾多" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
+<Tip Position="2" RunnerNumber="9" NameE="PROPICE" NameC="時時好綵" JockeyNameE="A Badel" JockeyNameC="巴度"/>
 <Tip Position="3" RunnerNumber="2" NameE="RESOLUTE" NameC="多多寶驥" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
-<Tip Position="4" RunnerNumber="5" NameE="GOOD VIEW CLARICO" NameC="佳景福星" JockeyNameE="K H Chan" JockeyNameC="陳嘉熙"/>
+<Tip Position="4" RunnerNumber="7" NameE="ESCAPE ROUTE" NameC="波爾多" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
 </race>
 <race num="7">
 <Tip Position="1" RunnerNumber="10" NameE="CHANCHENG PRINCE" NameC="禪勝寶駒" JockeyNameE="R Maia" JockeyNameC="馬雅"/>
@@ -53,7 +53,7 @@
 <Tip Position="1" RunnerNumber="2" NameE="FA FA" NameC="俏芳華" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
 <Tip Position="2" RunnerNumber="10" NameE="THE ANOMALY" NameC="變數" JockeyNameE="M L Yeung" JockeyNameC="楊明綸"/>
 <Tip Position="3" RunnerNumber="11" NameE="MERCURIAL" NameC="秒秒精彩" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
-<Tip Position="4" RunnerNumber="1" NameE="HALL OF CHAMP" NameC="勝賢" JockeyNameE="K H Chan" JockeyNameC="陳嘉熙"/>
+<Tip Position="4" RunnerNumber="5" NameE="KING'S CAPITAL" NameC="皇帝金" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
 </race>
 <!--
 <trackside text=""/>
