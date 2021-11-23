@@ -10,12 +10,12 @@
 <race num="2">
 <Tip Position="1" RunnerNumber="10" NameE="OFF THE REEL" NameC="綠續爆發" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
 <Tip Position="2" RunnerNumber="11" NameE="YEE CHEONG WARRIOR" NameC="怡昌勇士" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="3" RunnerNumber="12" NameE="TRAVEL GLORY" NameC="旅遊達人" JockeyNameE="A Badel" JockeyNameC="巴度"/>
-<Tip Position="4" RunnerNumber="6" NameE="KING DRAGON" NameC="勁力威龍" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
+<Tip Position="3" RunnerNumber="6" NameE="KING DRAGON" NameC="勁力威龍" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
+<Tip Position="4" RunnerNumber="12" NameE="TRAVEL GLORY" NameC="旅遊達人" JockeyNameE="A Badel" JockeyNameC="巴度"/>
 </race>
 <race num="3">
 <Tip Position="1" RunnerNumber="2" NameE="RUN THE TABLE" NameC="信心滿滿" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="2" RunnerNumber="10" NameE="KWAI CHUNG ELITE" NameC="葵涌精英" JockeyNameE="C Schofield" JockeyNameC="史卓豐"/>
+<Tip Position="2" RunnerNumber="10" NameE="KWAI CHUNG ELITE" NameC="葵涌精英" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
 <Tip Position="3" RunnerNumber="5" NameE="AMAZING BOY" NameC="勁叻仔" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
 <Tip Position="4" RunnerNumber="12" NameE="SMILING FACE" NameC="勝出魅力" JockeyNameE="V Borges" JockeyNameC="波健士"/>
 </race>
