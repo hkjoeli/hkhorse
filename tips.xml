@@ -22,8 +22,8 @@
 <race num="4">
 <Tip Position="1" RunnerNumber="4" NameE="SUPER HONG KONG" NameC="香港精神" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
 <Tip Position="2" RunnerNumber="1" NameE="TAILOR MADE" NameC="度身訂做" JockeyNameE="K H Chan" JockeyNameC="陳嘉熙"/>
-<Tip Position="3" RunnerNumber="2" NameE="TELECOM CHEETAH" NameC="電訊犇豹" JockeyNameE="B Shinn" JockeyNameC="薛恩"/>
-<Tip Position="4" RunnerNumber="12" NameE="SMILING FACE" NameC="勝出魅力" JockeyNameE="H W Lai" JockeyNameC="黎海榮"/>
+<Tip Position="3" RunnerNumber="12" NameE="SMILING FACE" NameC="勝出魅力" JockeyNameE="H W Lai" JockeyNameC="黎海榮"/>
+<Tip Position="4" RunnerNumber="2" NameE="TELECOM CHEETAH" NameC="電訊犇豹" JockeyNameE="B Shinn" JockeyNameC="薛恩"/>
 </race>
 <race num="5">
 <Tip Position="1" RunnerNumber="2" NameE="A SMILE LIKE YOURS" NameC="銘記知心" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
@@ -40,8 +40,8 @@
 <race num="7">
 <Tip Position="1" RunnerNumber="4" NameE="SINGAPORE SPIRIT" NameC="星洲駿馬" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
 <Tip Position="2" RunnerNumber="1" NameE="COLONEL" NameC="上校" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
-<Tip Position="3" RunnerNumber="2" NameE="HAPPY TANGO" NameC="中華威威" JockeyNameE="R Maia" JockeyNameC="馬雅"/>
-<Tip Position="4" RunnerNumber="8" NameE="HAPPY GATHERING" NameC="大家開心" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
+<Tip Position="3" RunnerNumber="8" NameE="HAPPY GATHERING" NameC="大家開心" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
+<Tip Position="4" RunnerNumber="2" NameE="HAPPY TANGO" NameC="中華威威" JockeyNameE="R Maia" JockeyNameC="馬雅"/>
 </race>
 <race num="8">
 <Tip Position="1" RunnerNumber="6" NameE="SAVVY KINGMAN" NameC="皇寶" JockeyNameE="B Shinn" JockeyNameC="薛恩"/>
