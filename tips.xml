@@ -5,7 +5,7 @@
 <Tip Position="1" RunnerNumber="5" NameE="TOYCOON" NameC="玩具達人" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
 <Tip Position="2" RunnerNumber="4" NameE="STAR OF GLORY" NameC="摘星光輝" JockeyNameE="B Shinn" JockeyNameC="薛恩"/>
 <Tip Position="3" RunnerNumber="2" NameE="JOYFUL HEART" NameC="正本開心" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="4" RunnerNumber="9" NameE="YES WE CAN" NameC="皮具之星" JockeyNameE="A Badel" JockeyNameC="巴度"/>
+<Tip Position="4" RunnerNumber="1" NameE="SUPER FAST" NameC="嘉才" JockeyNameE="R Maia" JockeyNameC="馬雅"/>
 </race>
 <race num="2">
 <Tip Position="1" RunnerNumber="9" NameE="HOLYSHOWCASING" NameC="頌聖" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
@@ -35,7 +35,7 @@
 <Tip Position="1" RunnerNumber="2" NameE="PINS PRINCE" NameC="翩翩君子" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
 <Tip Position="2" RunnerNumber="8" NameE="TURQUOISE ALPHA" NameC="興高采烈" JockeyNameE="A Badel" JockeyNameC="巴度"/>
 <Tip Position="3" RunnerNumber="9" NameE="JOYFUL GENIUS" NameC="喜悅精靈" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
-<Tip Position="4" RunnerNumber="11" NameE="BEST FOR YOU" NameC="好友利" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
+<Tip Position="4" RunnerNumber="6" NameE="SUNNY DELIGHT" NameC="日輝煌" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
 </race>
 <race num="7">
 <Tip Position="1" RunnerNumber="4" NameE="SIGHT SUCCESS" NameC="好眼光" JockeyNameE="V Borges" JockeyNameC="波健士"/>
@@ -51,15 +51,15 @@
 </race>
 <race num="9">
 <Tip Position="1" RunnerNumber="1" NameE="ULTRA EXPRESS" NameC="超速" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
-<Tip Position="2" RunnerNumber="2" NameE="ELITE PATCH" NameC="錶之銳" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
-<Tip Position="3" RunnerNumber="7" NameE="CROSSFORD" NameC="跨渡口" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="4" RunnerNumber="8" NameE="GAMEPLAYER TIMES" NameC="電玩時代" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
+<Tip Position="2" RunnerNumber="2" NameE="ELITE PATCH" NameC="錶之銳" JockeyNameE="R Maia" JockeyNameC="馬雅"/>
+<Tip Position="3" RunnerNumber="8" NameE="GAMEPLAYER TIMES" NameC="電玩時代" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
+<Tip Position="4" RunnerNumber="9" NameE="FARSHAD" NameC="童話" JockeyNameE="H N Wong" JockeyNameC="黃皓楠"/>
 </race>
 <race num="10">
 <Tip Position="1" RunnerNumber="10" NameE="ALL BEAUTY" NameC="美麗滿滿" JockeyNameE="A Badel" JockeyNameC="巴度"/>
 <Tip Position="2" RunnerNumber="12" NameE="SCIENCE PATCH" NameC="錶之科學" JockeyNameE="C Wong" JockeyNameC="黃俊"/>
 <Tip Position="3" RunnerNumber="2" NameE="BEAUTY JOY" NameC="美麗同享" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="4" RunnerNumber="3" NameE="HALL OF CHAMP" NameC="勝賢" JockeyNameE="B Shinn" JockeyNameC="薛恩"/>
+<Tip Position="4" RunnerNumber="13" NameE="SKY FOREVER" NameC="天行健" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
 </race>
 <!--
 <trackside text=""/>
