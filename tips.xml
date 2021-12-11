@@ -4,14 +4,14 @@
 <race num="1">
 <Tip Position="1" RunnerNumber="4" NameE="BEAUTY FIT" NameC="一定美麗" JockeyNameE="V Borges" JockeyNameC="波健士"/>
 <Tip Position="2" RunnerNumber="7" NameE="ALL FOR ST PAUL'S" NameC="保羅承傳" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
-<Tip Position="3" RunnerNumber="1" NameE="FAST MOST FURIOUS" NameC="百步穿雲" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="4" RunnerNumber="8" NameE="COBHFIELD" NameC="綠茵神駒" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
+<Tip Position="3" RunnerNumber="8" NameE="COBHFIELD" NameC="綠茵神駒" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
+<Tip Position="4" RunnerNumber="1" NameE="FAST MOST FURIOUS" NameC="百步穿雲" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
 </race>
 <race num="2">
 <Tip Position="1" RunnerNumber="8" NameE="HK DRAGON" NameC="龍來了" JockeyNameE="B Shinn" JockeyNameC="薛恩"/>
 <Tip Position="2" RunnerNumber="9" NameE="LADY FIRST" NameC="愛馬劍" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
-<Tip Position="3" RunnerNumber="6" NameE="GOOD RUNNER" NameC="跑得好" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="4" RunnerNumber="1" NameE="MARVEL DRAGON" NameC="鑽飛龍" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
+<Tip Position="3" RunnerNumber="1" NameE="MARVEL DRAGON" NameC="鑽飛龍" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
+<Tip Position="4" RunnerNumber="5" NameE="CIRCUIT SPIRITANTO" NameC="綫路暉華" JockeyNameE="A Badel" JockeyNameC="巴度"/>
 </race>
 <race num="3">
 <Tip Position="1" RunnerNumber="2" NameE="TEMPEST EXPRESS" NameC="疾風明駒" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
@@ -19,11 +19,35 @@
 <Tip Position="3" RunnerNumber="13" NameE="CHEVALIER PRINCE" NameC="超勁勇士" JockeyNameE="M L Yeung" JockeyNameC="楊明綸"/>
 <Tip Position="4" RunnerNumber="12" NameE="WORLD FAMOUS" NameC="全民佳知" JockeyNameE="V Borges" JockeyNameC="波健士"/>
 </race>
+<race num="4">
+<Tip Position="1" RunnerNumber="2" NameE="GLORY VASE" NameC="耀滿瓶" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
+<Tip Position="2" RunnerNumber="1" NameE="PYLEDRIVER" NameC="致勝一擊" JockeyNameE="M Dwyer" JockeyNameC="戴馬田"/>
+<Tip Position="3" RunnerNumber="8" NameE="EBAIYRA" NameC="倚蓬萊" JockeyNameE="C Soumillon" JockeyNameC="蘇銘倫"/>
+<Tip Position="4" RunnerNumber="5" NameE="MOGUL" NameC="業界巨頭" JockeyNameE="R Moore" JockeyNameC="莫雅"/>
+</race>
+<race num="5">
+<Tip Position="1" RunnerNumber="2" NameE="PIXIE KNIGHT" NameC="妙發靈機" JockeyNameE="Y Fukunaga" JockeyNameC="福永祐一"/>
+<Tip Position="2" RunnerNumber="4" NameE="WELLINGTON" NameC="福逸" JockeyNameE="A Badel" JockeyNameC="巴度"/>
+<Tip Position="3" RunnerNumber="11" NameE="COURIER WONDER" NameC="速遞奇兵" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
+<Tip Position="4" RunnerNumber="10" NameE="STRONGER" NameC="當家猴王" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
+</race>
 <race num="6">
 <Tip Position="1" RunnerNumber="11" NameE="CALIFORNIA SPANGLE" NameC="加州星球" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
 <Tip Position="2" RunnerNumber="6" NameE="FANTASTIC WAY" NameC="勝得威風" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
 <Tip Position="3" RunnerNumber="4" NameE="CALIFORNIA RAD" NameC="加州雷電" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
 <Tip Position="4" RunnerNumber="5" NameE="SCORES OF FUN" NameC="共創繽紛" JockeyNameE="V Borges" JockeyNameC="波健士"/>
+</race>
+<race num="7">
+<Tip Position="1" RunnerNumber="1" NameE="GOLDEN SIXTY" NameC="金鎗六十" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
+<Tip Position="2" RunnerNumber="11" NameE="MOTHER EARTH" NameC="后土" JockeyNameE="R Moore" JockeyNameC="莫雅"/>
+<Tip Position="3" RunnerNumber="2" NameE="DANON KINGLY" NameC="野田賢君" JockeyNameE="Y Kawada" JockeyNameC="川田將雅"/>
+<Tip Position="4" RunnerNumber="3" NameE="INDY CHAMP" NameC="冠軍車手" JockeyNameE="Y Fukunaga" JockeyNameC="福永祐一"/>
+</race>
+<race num="8">
+<Tip Position="1" RunnerNumber="8" NameE="DUBAI HONOUR" NameC="譽滿杜拜" JockeyNameE="T Marquand" JockeyNameC="馬昆"/>
+<Tip Position="2" RunnerNumber="11" NameE="LEI PAPALE" NameC="麗冠花環" JockeyNameE="C Soumillon" JockeyNameC="蘇銘倫"/>
+<Tip Position="3" RunnerNumber="2" NameE="PANFIELD" NameC="勇戰神駒" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
+<Tip Position="4" RunnerNumber="12" NameE="LOVES ONLY YOU" NameC="唯獨愛你" JockeyNameE="Y Kawada" JockeyNameC="川田將雅"/>
 </race>
 <race num="9">
 <Tip Position="1" RunnerNumber="4" NameE="EXCELLENT DADDY" NameC="逆市奇爸" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
