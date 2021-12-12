@@ -41,7 +41,7 @@
 <Tip Position="1" RunnerNumber="1" NameE="GOLDEN SIXTY" NameC="金鎗六十" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
 <Tip Position="2" RunnerNumber="11" NameE="MOTHER EARTH" NameC="后土" JockeyNameE="R Moore" JockeyNameC="莫雅"/>
 <Tip Position="3" RunnerNumber="2" NameE="DANON KINGLY" NameC="野田賢君" JockeyNameE="Y Kawada" JockeyNameC="川田將雅"/>
-<Tip Position="4" RunnerNumber="3" NameE="INDY CHAMP" NameC="冠軍車手" JockeyNameE="Y Fukunaga" JockeyNameC="福永祐一"/>
+<Tip Position="4" RunnerNumber="3" NameE="INDY CHAMP" NameC="冠軍車手" JockeyNameE="C Soumillon" JockeyNameC="蘇銘倫"/>
 </race>
 <race num="8">
 <Tip Position="1" RunnerNumber="8" NameE="DUBAI HONOUR" NameC="譽滿杜拜" JockeyNameE="T Marquand" JockeyNameC="馬昆"/>
@@ -53,13 +53,13 @@
 <Tip Position="1" RunnerNumber="4" NameE="EXCELLENT DADDY" NameC="逆市奇爸" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
 <Tip Position="2" RunnerNumber="2" NameE="CIRCUIT STELLAR" NameC="綫路之星" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
 <Tip Position="3" RunnerNumber="10" NameE="BEAUTY MISSION" NameC="美麗攻略" JockeyNameE="A Badel" JockeyNameC="巴度"/>
-<Tip Position="4" RunnerNumber="12" NameE="SUPREME SUPREME" NameC="超奇才" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
+<Tip Position="4" RunnerNumber="12" NameE="SUPREME SUPREME" NameC="超奇才" JockeyNameE="M L Yeung" JockeyNameC="楊明綸"/>
 </race>
 <race num="10">
 <Tip Position="1" RunnerNumber="2" NameE="PRIVATE ROCKET" NameC="利害了" JockeyNameE="K H Chan" JockeyNameC="陳嘉熙"/>
-<Tip Position="2" RunnerNumber="13" NameE="A LA KING" NameC="蝦餃燒賣" JockeyNameE="M L Yeung" JockeyNameC="楊明綸"/>
-<Tip Position="3" RunnerNumber="14" NameE="TORONADO PHANTOM" NameC="旋風飛影" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
-<Tip Position="4" RunnerNumber="7" NameE="PARTERRE" NameC="拍馬難追" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
+<Tip Position="2" RunnerNumber="5" NameE="SAUVESTRE" NameC="美好世界" JockeyNameE="R Moore" JockeyNameC="莫雅"/>
+<Tip Position="3" RunnerNumber="13" NameE="A LA KING" NameC="蝦餃燒賣" JockeyNameE="M L Yeung" JockeyNameC="楊明綸"/>
+<Tip Position="4" RunnerNumber="14" NameE="TORONADO PHANTOM" NameC="旋風飛影" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
 </race>
 <!--
 <trackside text=""/>
