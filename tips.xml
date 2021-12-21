@@ -16,13 +16,13 @@
 <race num="3">
 <Tip Position="1" RunnerNumber="4" NameE="SINGAPORE SPIRIT" NameC="星洲駿馬" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
 <Tip Position="2" RunnerNumber="5" NameE="FORTUNE CARRIER" NameC="有運來" JockeyNameE="A Badel" JockeyNameC="巴度"/>
-<Tip Position="3" RunnerNumber="3" NameE="SMART IDEA" NameC="有主意" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
-<Tip Position="4" RunnerNumber="8" NameE="SO AWESOME" NameC="進優自在" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
+<Tip Position="3" RunnerNumber="8" NameE="SO AWESOME" NameC="進優自在" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
+<Tip Position="4" RunnerNumber="1" NameE="SHOWINA" NameC="發贏喜" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
 </race>
 <race num="4">
 <Tip Position="1" RunnerNumber="6" NameE="ABOVE" NameC="高瞻遠矚" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
-<Tip Position="2" RunnerNumber="12" NameE="AWE" NameC="威闖" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
-<Tip Position="3" RunnerNumber="9" NameE="PERFECT TO GREAT" NameC="精彩非凡" JockeyNameE="V Borges" JockeyNameC="波健士"/>
+<Tip Position="2" RunnerNumber="9" NameE="PERFECT TO GREAT" NameC="精彩非凡" JockeyNameE="V Borges" JockeyNameC="波健士"/>
+<Tip Position="3" RunnerNumber="12" NameE="AWE" NameC="威闖" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
 <Tip Position="4" RunnerNumber="8" NameE="GOD OF DRAGON" NameC="神龍駒" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
 </race>
 <race num="5">
