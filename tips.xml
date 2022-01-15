@@ -21,9 +21,9 @@
 </race>
 <race num="4">
 <Tip Position="1" RunnerNumber="2" NameE="SPEEDY MOUSE" NameC="超音鼠" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="2" RunnerNumber="4" NameE="MIGHTY VALOR" NameC="胆大威猛" JockeyNameE="H T Mo" JockeyNameC="巫顯東"/>
-<Tip Position="3" RunnerNumber="10" NameE="SUPER FORTUNE" NameC="連連有盈" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
-<Tip Position="4" RunnerNumber="11" NameE="WILD WEST WING" NameC="過河勁卒" JockeyNameE="V Borges" JockeyNameC="波健士"/>
+<Tip Position="2" RunnerNumber="11" NameE="WILD WEST WING" NameC="過河勁卒" JockeyNameE="V Borges" JockeyNameC="波健士"/>
+<Tip Position="3" RunnerNumber="4" NameE="MIGHTY VALOR" NameC="胆大威猛" JockeyNameE="H T Mo" JockeyNameC="巫顯東"/>
+<Tip Position="4" RunnerNumber="10" NameE="SUPER FORTUNE" NameC="連連有盈" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
 </race>
 <race num="5">
 <Tip Position="1" RunnerNumber="2" NameE="WIN WIN" NameC="長長友" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
