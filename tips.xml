@@ -2,10 +2,10 @@
 <tips>
 <meeting date="23-01-2022" venue="ST" title="心水提供"/>
 <race num="1">
-<Tip Position="1" RunnerNumber="7" NameE="LUCKY GOR" NameC="幸運之神" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
-<Tip Position="2" RunnerNumber="4" NameE="CALIFORNIA VANES" NameC="加州威勝" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="3" RunnerNumber="12" NameE="EL JEFE" NameC="影疾" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
-<Tip Position="4" RunnerNumber="14" NameE="GIVE WAY PLEASE" NameC="請讓路" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
+<Tip Position="1" RunnerNumber="4" NameE="CALIFORNIA VANES" NameC="加州威勝" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="2" RunnerNumber="11" NameE="CHEVAL VALIANT" NameC="不可擋" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
+<Tip Position="3" RunnerNumber="1" NameE="ISLAND SHINE" NameC="鼓浪順風" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
+<Tip Position="4" RunnerNumber="2" NameE="TURBO POWER" NameC="得力寶駒" JockeyNameE="A Badel" JockeyNameC="巴度"/>
 </race>
 <race num="2">
 <Tip Position="1" RunnerNumber="8" NameE="THE GOLDEN SCENERY" NameC="中華盛景" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
