@@ -21,9 +21,9 @@
 </race>
 <race num="4">
 <Tip Position="1" RunnerNumber="2" NameE="KING OF THE COURT" NameC="場長勝" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
-<Tip Position="2" RunnerNumber="1" NameE="VOYAGE BUBBLE" NameC="遨遊氣泡" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="3" RunnerNumber="13" NameE="DRAGON BABY" NameC="龍寶寶" JockeyNameE="A Badel" JockeyNameC="巴度"/>
-<Tip Position="4" RunnerNumber="10" NameE="SUPER HIGHWAY" NameC="揚揚大道" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
+<Tip Position="2" RunnerNumber="13" NameE="DRAGON BABY" NameC="龍寶寶" JockeyNameE="A Badel" JockeyNameC="巴度"/>
+<Tip Position="3" RunnerNumber="1" NameE="VOYAGE BUBBLE" NameC="遨遊氣泡" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="4" RunnerNumber="8" NameE="VITRALITE" NameC="駿龍飛騰" JockeyNameE="B Shinn" JockeyNameC="薛恩"/>
 </race>
 <race num="5">
 <Tip Position="1" RunnerNumber="10" NameE="FREE FOAL" NameC="逍遙駒" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
