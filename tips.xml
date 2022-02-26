@@ -32,10 +32,10 @@
 <Tip Position="4" RunnerNumber="9" NameE="LIGHTNING BOLT" NameC="閃電" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
 </race>
 <race num="6">
-<Tip Position="1" RunnerNumber="2" NameE="ELIGERE" NameC="運來福星" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
-<Tip Position="2" RunnerNumber="1" NameE="MIRACLE VICTORY" NameC="團結必勝" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
-<Tip Position="3" RunnerNumber="6" NameE="BRILLIANT WAY" NameC="勝得出色" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
-<Tip Position="4" RunnerNumber="5" NameE="LESLIE" NameC="風繼續吹" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="1" RunnerNumber="1" NameE="MIRACLE VICTORY" NameC="團結必勝" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
+<Tip Position="2" RunnerNumber="2" NameE="ELIGERE" NameC="運來福星" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
+<Tip Position="3" RunnerNumber="5" NameE="LESLIE" NameC="風繼續吹" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="4" RunnerNumber="6" NameE="BRILLIANT WAY" NameC="勝得出色" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
 </race>
 <race num="7">
 <Tip Position="1" RunnerNumber="10" NameE="DURHAM STAR" NameC="對衡之星" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
