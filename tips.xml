@@ -17,7 +17,7 @@
 <Tip Position="1" RunnerNumber="12" NameE="EL VALIENTE" NameC="雷霆戰駒" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
 <Tip Position="2" RunnerNumber="8" NameE="BLOTTING PAPER" NameC="印水紙" JockeyNameE="A Hamelin" JockeyNameC="賀銘年"/>
 <Tip Position="3" RunnerNumber="2" NameE="GOLD COMET" NameC="金津一號" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
-<Tip Position="4" RunnerNumber="5" NameE="STEEL WIN" NameC="鋼鐵福陞" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
+<Tip Position="4" RunnerNumber="10" NameE="RUN THE TABLE" NameC="信心滿滿" JockeyNameE="D Moor" JockeyNameC="莫丹尼"/>
 </race>
 <race num="4">
 <Tip Position="1" RunnerNumber="2" NameE="NOBLE BOYZ" NameC="魅力仔" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
@@ -38,8 +38,8 @@
 <Tip Position="4" RunnerNumber="7" NameE="LE PLUS VITE" NameC="勁弗" JockeyNameE="D Moor" JockeyNameC="莫丹尼"/>
 </race>
 <race num="7">
-<Tip Position="1" RunnerNumber="2" NameE="NEARLY FINE" NameC="寶賢得得" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
-<Tip Position="2" RunnerNumber="3" NameE="DECISIVE ACTION" NameC="博愛友威" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
+<Tip Position="1" RunnerNumber="3" NameE="DECISIVE ACTION" NameC="博愛友威" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
+<Tip Position="2" RunnerNumber="2" NameE="NEARLY FINE" NameC="寶賢得得" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
 <Tip Position="3" RunnerNumber="12" NameE="EL JEFE" NameC="影疾" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
 <Tip Position="4" RunnerNumber="4" NameE="COPARTNER ERA" NameC="合夥年代" JockeyNameE="V Borges" JockeyNameC="波健士"/>
 </race>
