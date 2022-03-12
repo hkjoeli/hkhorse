@@ -46,7 +46,7 @@
 <race num="8">
 <Tip Position="1" RunnerNumber="10" NameE="BEAUTY NOVA" NameC="美麗新星" JockeyNameE="V Borges" JockeyNameC="波健士"/>
 <Tip Position="2" RunnerNumber="8" NameE="PERFECT PAIR" NameC="天生一對" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
-<Tip Position="3" RunnerNumber="9" NameE="SKYEY SUPREME" NameC="雙天至尊" JockeyNameE="K H Chan" JockeyNameC="陳嘉熙"/>
+<Tip Position="3" RunnerNumber="9" NameE="SKYEY SUPREME" NameC="雙天至尊" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
 <Tip Position="4" RunnerNumber="2" NameE="DECRYPT" NameC="駿龍駒" JockeyNameE="A Hamelin" JockeyNameC="賀銘年"/>
 </race>
 <race num="9">
@@ -59,7 +59,7 @@
 <Tip Position="1" RunnerNumber="2" NameE="MASTER MONTARO" NameC="包裝太保" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
 <Tip Position="2" RunnerNumber="8" NameE="BEAUTY FIT" NameC="一定美麗" JockeyNameE="V Borges" JockeyNameC="波健士"/>
 <Tip Position="3" RunnerNumber="5" NameE="HINCHINLOVE" NameC="手到回來" JockeyNameE="B Shinn" JockeyNameC="薛恩"/>
-<Tip Position="4" RunnerNumber="10" NameE="IGNITING" NameC="鴻運飛鷹" JockeyNameE="K H Chan" JockeyNameC="陳嘉熙"/>
+<Tip Position="4" RunnerNumber="11" NameE="E STAR" NameC="電子群星" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
 </race>
 <!--
 <trackside text=""/>
