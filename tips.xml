@@ -15,9 +15,9 @@
 </race>
 <race num="3">
 <Tip Position="1" RunnerNumber="2" NameE="MY SUGAR" NameC="糖糖幸運" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
-<Tip Position="2" RunnerNumber="1" NameE="BEAUTY JOY" NameC="美麗同享" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="3" RunnerNumber="7" NameE="LOOKING GREAT" NameC="路路醒" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
-<Tip Position="4" RunnerNumber="6" NameE="BEAUTY FIT" NameC="一定美麗" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
+<Tip Position="2" RunnerNumber="7" NameE="LOOKING GREAT" NameC="路路醒" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
+<Tip Position="3" RunnerNumber="3" NameE="CIRCUIT THREE" NameC="電路三號" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
+<Tip Position="4" RunnerNumber="4" NameE="C P BRAVE" NameC="常拼常勇" JockeyNameE="R Maia" JockeyNameC="馬雅"/>
 </race>
 <race num="4">
 <Tip Position="1" RunnerNumber="4" NameE="ROBOT WARRIOR" NameC="機械戰士" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
