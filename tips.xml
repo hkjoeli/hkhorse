@@ -1,65 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tips>
-<meeting date="27-03-2022" venue="ST" title="心水提供"/>
+<meeting date="30-03-2022" venue="ST" title="心水提供"/>
 <race num="1">
-<Tip Position="1" RunnerNumber="3" NameE="TRUST ME" NameC="二話不說" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
-<Tip Position="2" RunnerNumber="5" NameE="FLYING SEASON" NameC="神速奔馳" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
-<Tip Position="3" RunnerNumber="1" NameE="ESCAPE ROUTE" NameC="波爾多" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="4" RunnerNumber="7" NameE="ROYAL PRIDE" NameC="皇者驕傲" JockeyNameE="A Badel" JockeyNameC="巴度"/>
+<Tip Position="1" RunnerNumber="1" NameE="PERFECT TO GREAT" NameC="精彩非凡" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
+<Tip Position="2" RunnerNumber="3" NameE="PAKISTAN FRIEND" NameC="巴基之友" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
+<Tip Position="3" RunnerNumber="7" NameE="MURRAY'S PARTNERS" NameC="其利斷金" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
+<Tip Position="4" RunnerNumber="4" NameE="MISSION BRAVO" NameC="妙算歡騰" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
 </race>
 <race num="2">
-<Tip Position="1" RunnerNumber="7" NameE="DAILY BEAUTY" NameC="日日靚" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
-<Tip Position="2" RunnerNumber="9" NameE="MISSION SMART" NameC="妙算騰飛" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
-<Tip Position="3" RunnerNumber="12" NameE="SPEEDY DRAGON" NameC="龍鳳情祥" JockeyNameE="A Badel" JockeyNameC="巴度"/>
-<Tip Position="4" RunnerNumber="5" NameE="BRAVE POWER" NameC="勇敢動力" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
+<Tip Position="1" RunnerNumber="2" NameE="HANDSOME REBEL" NameC="旋里多彩" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
+<Tip Position="2" RunnerNumber="5" NameE="CROWN AVENUE" NameC="榮冠大道" JockeyNameE="B Shinn" JockeyNameC="薛恩"/>
+<Tip Position="3" RunnerNumber="1" NameE="STAR OF GLORY" NameC="摘星光輝" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
+<Tip Position="4" RunnerNumber="10" NameE="SPEED FORCE" NameC="緣份" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
 </race>
 <race num="3">
-<Tip Position="1" RunnerNumber="2" NameE="MY SUGAR" NameC="糖糖幸運" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
-<Tip Position="2" RunnerNumber="7" NameE="LOOKING GREAT" NameC="路路醒" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
-<Tip Position="3" RunnerNumber="3" NameE="CIRCUIT THREE" NameC="電路三號" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
-<Tip Position="4" RunnerNumber="4" NameE="C P BRAVE" NameC="常拼常勇" JockeyNameE="R Maia" JockeyNameC="馬雅"/>
+<Tip Position="1" RunnerNumber="2" NameE="FLYING DRAGON" NameC="龍騰飛翔" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="2" RunnerNumber="3" NameE="WHAT A LEGEND" NameC="贏多多" JockeyNameE="A Hamelin" JockeyNameC="賀銘年"/>
+<Tip Position="3" RunnerNumber="10" NameE="TEAM GOODLUCK" NameC="添有運" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
+<Tip Position="4" RunnerNumber="7" NameE="ARES" NameC="多姿多財" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
 </race>
 <race num="4">
-<Tip Position="1" RunnerNumber="4" NameE="ROBOT WARRIOR" NameC="機械戰士" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
-<Tip Position="2" RunnerNumber="3" NameE="LUCKY DIAMOND" NameC="鑽石福星" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
-<Tip Position="3" RunnerNumber="7" NameE="LEGION OF MERIT" NameC="赤火驍龍" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
-<Tip Position="4" RunnerNumber="9" NameE="EEVEE" NameC="伊貝" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
+<Tip Position="1" RunnerNumber="10" NameE="MASTERWORK" NameC="好攻勢" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
+<Tip Position="2" RunnerNumber="11" NameE="GOLDEN MISSION" NameC="金剛石" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
+<Tip Position="3" RunnerNumber="2" NameE="WISDOM PATCH" NameC="錶之智慧" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="4" RunnerNumber="4" NameE="JADE THEATRE" NameC="翡翠劇院" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
 </race>
 <race num="5">
-<Tip Position="1" RunnerNumber="5" NameE="KUMASI" NameC="樂創未來" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="2" RunnerNumber="6" NameE="BEAUTY MISSION" NameC="美麗攻略" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
-<Tip Position="3" RunnerNumber="1" NameE="WIND N GRASS" NameC="疾風勁草" JockeyNameE="A Hamelin" JockeyNameC="賀銘年"/>
-<Tip Position="4" RunnerNumber="2" NameE="CAMPIONE" NameC="時時滿意" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
+<Tip Position="1" RunnerNumber="8" NameE="KEEP YOU WARM" NameC="暖在你心" JockeyNameE="A Badel" JockeyNameC="巴度"/>
+<Tip Position="2" RunnerNumber="1" NameE="KURPANY" NameC="精靈勇士" JockeyNameE="K H Chan" JockeyNameC="陳嘉熙"/>
+<Tip Position="3" RunnerNumber="5" NameE="MASTER MONTARO" NameC="包裝太保" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
+<Tip Position="4" RunnerNumber="2" NameE="DUKE WAI" NameC="韋小寶" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
 </race>
 <race num="6">
-<Tip Position="1" RunnerNumber="2" NameE="BIRDSVILLE" NameC="必跑得" JockeyNameE="B Shinn" JockeyNameC="薛恩"/>
-<Tip Position="2" RunnerNumber="10" NameE="AUGUST MOON" NameC="月球" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
-<Tip Position="3" RunnerNumber="5" NameE="FUN N GLORY" NameC="超悅明駒" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="4" RunnerNumber="1" NameE="MOMENTUM GALAXY" NameC="銀河飛馬" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
+<Tip Position="1" RunnerNumber="3" NameE="THUNDERSTRIKE" NameC="閃耀光芒" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="2" RunnerNumber="4" NameE="FIERY DIAMOND" NameC="火鑽" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
+<Tip Position="3" RunnerNumber="8" NameE="BLISSFUL STAR" NameC="世澤歆星" JockeyNameE="M L Yeung" JockeyNameC="楊明綸"/>
+<Tip Position="4" RunnerNumber="7" NameE="HAPPY TANGO" NameC="中華威威" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
 </race>
 <race num="7">
-<Tip Position="1" RunnerNumber="5" NameE="SUPER DYNAMITE" NameC="極速飛彈" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
-<Tip Position="2" RunnerNumber="9" NameE="LUCKY GOLD" NameC="金發銀發" JockeyNameE="A Badel" JockeyNameC="巴度"/>
-<Tip Position="3" RunnerNumber="3" NameE="HORSESAIN BOLT" NameC="閃得快" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
-<Tip Position="4" RunnerNumber="1" NameE="COPARTNER AMBITION" NameC="合夥雄心" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
+<Tip Position="1" RunnerNumber="8" NameE="APACHE PASS" NameC="好好心得" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
+<Tip Position="2" RunnerNumber="3" NameE="ULTRA EXPRESS" NameC="超速" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
+<Tip Position="3" RunnerNumber="1" NameE="EVERYONE'S DELIGHT" NameC="大眾開心" JockeyNameE="A Badel" JockeyNameC="巴度"/>
+<Tip Position="4" RunnerNumber="2" NameE="TIANCHI MONSTER" NameC="天池怪俠" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
 </race>
 <race num="8">
-<Tip Position="1" RunnerNumber="11" NameE="SALUTATION" NameC="敬惑" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
-<Tip Position="2" RunnerNumber="1" NameE="MILLENNIUM FALCON" NameC="星際精英" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
-<Tip Position="3" RunnerNumber="2" NameE="KYRUS UNICORN" NameC="家樂飛駒" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
-<Tip Position="4" RunnerNumber="8" NameE="STEEL WIN" NameC="鋼鐵福陞" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
-</race>
-<race num="9">
-<Tip Position="1" RunnerNumber="13" NameE="LADY FIRST" NameC="愛馬劍" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
-<Tip Position="2" RunnerNumber="4" NameE="MY ECSTATIC" NameC="合約精神" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
-<Tip Position="3" RunnerNumber="11" NameE="SIXTH GENERATION" NameC="陸知" JockeyNameE="B Shinn" JockeyNameC="薛恩"/>
-<Tip Position="4" RunnerNumber="10" NameE="KING OF THE COURT" NameC="場長勝" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
-</race>
-<race num="10">
-<Tip Position="1" RunnerNumber="4" NameE="BEAUTY LIVE" NameC="美麗在線" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
-<Tip Position="2" RunnerNumber="1" NameE="KILINDINI" NameC="金哥兒" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
-<Tip Position="3" RunnerNumber="8" NameE="ACE ONE" NameC="祥勝霸駒" JockeyNameE="A Badel" JockeyNameC="巴度"/>
-<Tip Position="4" RunnerNumber="7" NameE="RACING FIGHTER" NameC="競技勇士" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
+<Tip Position="1" RunnerNumber="7" NameE="LIGHTNING BOLT" NameC="閃電" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
+<Tip Position="2" RunnerNumber="11" NameE="LIKE THAT" NameC="萬眾力得" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
+<Tip Position="3" RunnerNumber="5" NameE="DROPS OF GOD" NameC="神之水滴" JockeyNameE="V Borges" JockeyNameC="波健士"/>
+<Tip Position="4" RunnerNumber="8" NameE="TRADER" NameC="齊心同行" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
 </race>
 <!--
 <trackside text=""/>
