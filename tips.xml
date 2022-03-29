@@ -20,16 +20,16 @@
 <Tip Position="4" RunnerNumber="7" NameE="ARES" NameC="多姿多財" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
 </race>
 <race num="4">
-<Tip Position="1" RunnerNumber="10" NameE="MASTERWORK" NameC="好攻勢" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
-<Tip Position="2" RunnerNumber="11" NameE="GOLDEN MISSION" NameC="金剛石" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
+<Tip Position="1" RunnerNumber="11" NameE="GOLDEN MISSION" NameC="金剛石" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
+<Tip Position="2" RunnerNumber="10" NameE="MASTERWORK" NameC="好攻勢" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
 <Tip Position="3" RunnerNumber="2" NameE="WISDOM PATCH" NameC="錶之智慧" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
 <Tip Position="4" RunnerNumber="4" NameE="JADE THEATRE" NameC="翡翠劇院" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
 </race>
 <race num="5">
 <Tip Position="1" RunnerNumber="8" NameE="KEEP YOU WARM" NameC="暖在你心" JockeyNameE="A Badel" JockeyNameC="巴度"/>
 <Tip Position="2" RunnerNumber="1" NameE="KURPANY" NameC="精靈勇士" JockeyNameE="K H Chan" JockeyNameC="陳嘉熙"/>
-<Tip Position="3" RunnerNumber="5" NameE="MASTER MONTARO" NameC="包裝太保" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
-<Tip Position="4" RunnerNumber="2" NameE="DUKE WAI" NameC="韋小寶" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
+<Tip Position="3" RunnerNumber="2" NameE="DUKE WAI" NameC="韋小寶" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
+<Tip Position="4" RunnerNumber="5" NameE="MASTER MONTARO" NameC="包裝太保" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
 </race>
 <race num="6">
 <Tip Position="1" RunnerNumber="3" NameE="THUNDERSTRIKE" NameC="閃耀光芒" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
@@ -46,8 +46,8 @@
 <race num="8">
 <Tip Position="1" RunnerNumber="7" NameE="LIGHTNING BOLT" NameC="閃電" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
 <Tip Position="2" RunnerNumber="11" NameE="LIKE THAT" NameC="萬眾力得" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
-<Tip Position="3" RunnerNumber="5" NameE="DROPS OF GOD" NameC="神之水滴" JockeyNameE="V Borges" JockeyNameC="波健士"/>
-<Tip Position="4" RunnerNumber="8" NameE="TRADER" NameC="齊心同行" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="3" RunnerNumber="8" NameE="TRADER" NameC="齊心同行" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="4" RunnerNumber="1" NameE="LOVING A BOOM" NameC="年年旺" JockeyNameE="B Shinn" JockeyNameC="薛恩"/>
 </race>
 <!--
 <trackside text=""/>
