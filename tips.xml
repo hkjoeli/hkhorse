@@ -9,9 +9,9 @@
 </race>
 <race num="2">
 <Tip Position="1" RunnerNumber="7" NameE="WOODFIRE BRO" NameC="木火兄弟" JockeyNameE="M L Yeung" JockeyNameC="楊明綸"/>
-<Tip Position="2" RunnerNumber="4" NameE="LESLIE" NameC="風繼續吹" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
-<Tip Position="3" RunnerNumber="12" NameE="GOLD GOLD BABY" NameC="純金酒杯" JockeyNameE="A Badel" JockeyNameC="巴度"/>
-<Tip Position="4" RunnerNumber="3" NameE="FALCON TURBO" NameC="順意寶" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
+<Tip Position="2" RunnerNumber="12" NameE="GOLD GOLD BABY" NameC="純金酒杯" JockeyNameE="A Badel" JockeyNameC="巴度"/>
+<Tip Position="3" RunnerNumber="4" NameE="LESLIE" NameC="風繼續吹" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
+<Tip Position="4" RunnerNumber="2" NameE="RIVER VIEWS" NameC="星河小子" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
 </race>
 <race num="3">
 <Tip Position="1" RunnerNumber="8" NameE="PRECISE EXPRESS" NameC="精準快車" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
@@ -32,10 +32,10 @@
 <Tip Position="4" RunnerNumber="1" NameE="BEAUTY JOY" NameC="美麗同享" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
 </race>
 <race num="6">
-<Tip Position="1" RunnerNumber="11" NameE="KURPANY" NameC="精靈勇士" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
-<Tip Position="2" RunnerNumber="1" NameE="SKY FIELD" NameC="顯心星" JockeyNameE="B Shinn" JockeyNameC="薛恩"/>
-<Tip Position="3" RunnerNumber="6" NameE="SIGHT SUCCESS" NameC="好眼光" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="4" RunnerNumber="8" NameE="MASTER EIGHT" NameC="八仟師" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
+<Tip Position="1" RunnerNumber="6" NameE="SIGHT SUCCESS" NameC="好眼光" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="2" RunnerNumber="9" NameE="COMPUTER PATCH" NameC="錶之智能" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
+<Tip Position="3" RunnerNumber="1" NameE="SKY FIELD" NameC="顯心星" JockeyNameE="B Shinn" JockeyNameC="薛恩"/>
+<Tip Position="4" RunnerNumber="2" NameE="WELLINGTON" NameC="福逸" JockeyNameE="A Badel" JockeyNameC="巴度"/>
 </race>
 <race num="7">
 <Tip Position="1" RunnerNumber="3" NameE="NICCONI COUNTY" NameC="常常有餘" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
