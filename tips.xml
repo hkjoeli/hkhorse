@@ -32,10 +32,10 @@
 <Tip Position="4" RunnerNumber="1" NameE="CHARMING STEED" NameC="飛騰騅" JockeyNameE="K H Chan" JockeyNameC="陳嘉熙"/>
 </race>
 <race num="6">
-<Tip Position="1" RunnerNumber="7" NameE="NEARLY FINE" NameC="寶賢得得" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
-<Tip Position="2" RunnerNumber="8" NameE="THE ANOMALY" NameC="變數" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
-<Tip Position="3" RunnerNumber="4" NameE="ESCAPE ROUTE" NameC="波爾多" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
-<Tip Position="4" RunnerNumber="3" NameE="PACKING AWARD" NameC="包裝大獎" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
+<Tip Position="1" RunnerNumber="2" NameE="RED MAJESTY" NameC="赤馬雄風" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="2" RunnerNumber="3" NameE="PACKING AWARD" NameC="包裝大獎" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
+<Tip Position="3" RunnerNumber="7" NameE="NEARLY FINE" NameC="寶賢得得" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
+<Tip Position="4" RunnerNumber="8" NameE="THE ANOMALY" NameC="變數" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
 </race>
 <race num="7">
 <Tip Position="1" RunnerNumber="7" NameE="YELLOWFIN" NameC="黃腳鱲" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
