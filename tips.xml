@@ -32,10 +32,10 @@
 <Tip Position="4" RunnerNumber="9" NameE="JAZZ STEED" NameC="駿爵士" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
 </race>
 <race num="6">
-<Tip Position="1" RunnerNumber="7" NameE="DRAGON PRIDE" NameC="傲龍駒" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="2" RunnerNumber="4" NameE="BIG TWO" NameC="贏盡天下" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
-<Tip Position="3" RunnerNumber="5" NameE="REACH GOAL" NameC="一舖到位" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
-<Tip Position="4" RunnerNumber="12" NameE="SUN OF MAKFI" NameC="日就月將" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
+<Tip Position="1" RunnerNumber="12" NameE="SUN OF MAKFI" NameC="日就月將" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
+<Tip Position="2" RunnerNumber="5" NameE="REACH GOAL" NameC="一舖到位" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
+<Tip Position="3" RunnerNumber="7" NameE="DRAGON PRIDE" NameC="傲龍駒" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="4" RunnerNumber="8" NameE="KUNGFUMASTER PANDA" NameC="龍戰士" JockeyNameE="V Borges" JockeyNameC="波健士"/>
 </race>
 <race num="7">
 <Tip Position="1" RunnerNumber="5" NameE="SEE U AGAIN" NameC="想見你" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
