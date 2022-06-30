@@ -29,7 +29,7 @@
 <Tip Position="1" RunnerNumber="6" NameE="LUCKY GOR" NameC="幸運之神" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
 <Tip Position="2" RunnerNumber="4" NameE="UNITED WE STAND" NameC="同有友" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
 <Tip Position="3" RunnerNumber="1" NameE="FORTE" NameC="風流人物" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="4" RunnerNumber="12" NameE="SHINING FORTUNE" NameC="明駿福星" JockeyNameE="A Badel" JockeyNameC="巴度"/>
+<Tip Position="4" RunnerNumber="3" NameE="AMAZING ROCKY" NameC="威妙星" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
 </race>
 <race num="6">
 <Tip Position="1" RunnerNumber="7" NameE="KARUIZAWA" NameC="一澤千金" JockeyNameE="A Hamelin" JockeyNameC="賀銘年"/>
@@ -58,8 +58,8 @@
 <race num="10">
 <Tip Position="1" RunnerNumber="6" NameE="POWER KOEPP" NameC="電源之駒" JockeyNameE="A Badel" JockeyNameC="巴度"/>
 <Tip Position="2" RunnerNumber="8" NameE="KEEN UNITY" NameC="勝利同盟" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
-<Tip Position="3" RunnerNumber="4" NameE="SAKEWIN" NameC="識贏" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
-<Tip Position="4" RunnerNumber="3" NameE="STAR BRITE" NameC="自然輝煌" JockeyNameE="B Shinn" JockeyNameC="薛恩"/>
+<Tip Position="3" RunnerNumber="3" NameE="STAR BRITE" NameC="自然輝煌" JockeyNameE="B Shinn" JockeyNameC="薛恩"/>
+<Tip Position="4" RunnerNumber="4" NameE="SAKEWIN" NameC="識贏" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
 </race>
 <!--
 <trackside text=""/>
