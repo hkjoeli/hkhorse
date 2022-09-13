@@ -27,8 +27,8 @@
 </race>
 <race num="5">
 <Tip Position="1" RunnerNumber="2" NameE="TRIPLE TRIPLE" NameC="三生好運" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
-<Tip Position="2" RunnerNumber="4" NameE="HARDLY SWEARS" NameC="南莊加好" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="3" RunnerNumber="1" NameE="KOKUSHI MUSOU" NameC="國士無雙" JockeyNameE="A Badel" JockeyNameC="巴度"/>
+<Tip Position="2" RunnerNumber="1" NameE="KOKUSHI MUSOU" NameC="國士無雙" JockeyNameE="A Badel" JockeyNameC="巴度"/>
+<Tip Position="3" RunnerNumber="4" NameE="HARDLY SWEARS" NameC="南莊加好" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
 <Tip Position="4" RunnerNumber="5" NameE="SHINING FORTUNE" NameC="明駿福星" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
 </race>
 <race num="6">
@@ -46,8 +46,8 @@
 <race num="8">
 <Tip Position="1" RunnerNumber="2" NameE="PING HAI GALAXY" NameC="平海歡星" JockeyNameE="A Badel" JockeyNameC="巴度"/>
 <Tip Position="2" RunnerNumber="5" NameE="BEAUTY GLORY" NameC="美麗邂逅" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="3" RunnerNumber="11" NameE="SUPER BABY" NameC="超勁寶寶" JockeyNameE="V Borges" JockeyNameC="波健士"/>
-<Tip Position="4" RunnerNumber="6" NameE="MAGIC PHOENIX" NameC="其藝先鋒" JockeyNameE="S De Sousa" JockeyNameC="蘇兆輝"/>
+<Tip Position="3" RunnerNumber="6" NameE="MAGIC PHOENIX" NameC="其藝先鋒" JockeyNameE="S De Sousa" JockeyNameC="蘇兆輝"/>
+<Tip Position="4" RunnerNumber="11" NameE="SUPER BABY" NameC="超勁寶寶" JockeyNameE="V Borges" JockeyNameC="波健士"/>
 </race>
 <!--
 <trackside text=""/>
