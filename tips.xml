@@ -10,8 +10,8 @@
 <race num="2">
 <Tip Position="1" RunnerNumber="11" NameE="SURE WINNER" NameC="勁得裕" JockeyNameE="V Borges" JockeyNameC="波健士"/>
 <Tip Position="2" RunnerNumber="1" NameE="ISLAND SURPRISE" NameC="鼓浪精綵" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="3" RunnerNumber="6" NameE="ERNEST FEELING" NameC="真感" JockeyNameE="L Currie" JockeyNameC="嘉里"/>
-<Tip Position="4" RunnerNumber="10" NameE="SHENRON" NameC="驛驛其達" JockeyNameE="R Maia" JockeyNameC="馬雅"/>
+<Tip Position="3" RunnerNumber="10" NameE="SHENRON" NameC="驛驛其達" JockeyNameE="R Maia" JockeyNameC="馬雅"/>
+<Tip Position="4" RunnerNumber="6" NameE="ERNEST FEELING" NameC="真感" JockeyNameE="L Currie" JockeyNameC="嘉里"/>
 </race>
 <race num="3">
 <Tip Position="1" RunnerNumber="2" NameE="BIG TWO" NameC="贏盡天下" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
@@ -21,8 +21,8 @@
 </race>
 <race num="4">
 <Tip Position="1" RunnerNumber="12" NameE="PAKISTAN ZINDABAD" NameC="巴基勇士" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="2" RunnerNumber="8" NameE="THE JOLLY" NameC="歡樂洋洋" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
-<Tip Position="3" RunnerNumber="9" NameE="MEDIC ELITE" NameC="無敵精英" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
+<Tip Position="2" RunnerNumber="9" NameE="MEDIC ELITE" NameC="無敵精英" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
+<Tip Position="3" RunnerNumber="8" NameE="THE JOLLY" NameC="歡樂洋洋" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
 <Tip Position="4" RunnerNumber="11" NameE="SPEED FORCE" NameC="緣份" JockeyNameE="V Borges" JockeyNameC="波健士"/>
 </race>
 <race num="5">
