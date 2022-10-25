@@ -3,9 +3,9 @@
 <meeting date="26-10-2022" venue="ST" title="心水提供"/>
 <race num="1">
 <Tip Position="1" RunnerNumber="4" NameE="SMART FOLKS" NameC="友盈友福" JockeyNameE="A Hamelin" JockeyNameC="賀銘年"/>
-<Tip Position="2" RunnerNumber="2" NameE="HAPPY MATADOR" NameC="瀟灑一生" JockeyNameE="R Maia" JockeyNameC="馬雅"/>
-<Tip Position="3" RunnerNumber="3" NameE="WINS ALL" NameC="仍然贏" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
-<Tip Position="4" RunnerNumber="1" NameE="JAZZ STEED" NameC="駿爵士" JockeyNameE="K H Chan" JockeyNameC="陳嘉熙"/>
+<Tip Position="2" RunnerNumber="9" NameE="CALL ME LU" NameC="親愛的" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="3" RunnerNumber="1" NameE="JAZZ STEED" NameC="駿爵士" JockeyNameE="K H Chan" JockeyNameC="陳嘉熙"/>
+<Tip Position="4" RunnerNumber="6" NameE="DIAMOND SOARS" NameC="鑽飾翱翔" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
 </race>
 <race num="2">
 <Tip Position="1" RunnerNumber="3" NameE="JOLLY HONOUR" NameC="盈嘉輝" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
@@ -14,8 +14,8 @@
 <Tip Position="4" RunnerNumber="13" NameE="SPEED FORCE" NameC="緣份" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
 </race>
 <race num="3">
-<Tip Position="1" RunnerNumber="6" NameE="EUROMISSILE" NameC="歐洲導彈" JockeyNameE="M L Yeung" JockeyNameC="楊明綸"/>
-<Tip Position="2" RunnerNumber="3" NameE="HAPPY FAT CAT" NameC="天足貓" JockeyNameE="H N Wong" JockeyNameC="黃皓楠"/>
+<Tip Position="1" RunnerNumber="3" NameE="HAPPY FAT CAT" NameC="天足貓" JockeyNameE="H N Wong" JockeyNameC="黃皓楠"/>
+<Tip Position="2" RunnerNumber="6" NameE="EUROMISSILE" NameC="歐洲導彈" JockeyNameE="M L Yeung" JockeyNameC="楊明綸"/>
 <Tip Position="3" RunnerNumber="2" NameE="ASIAN ONE" NameC="亞洲力量" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
 <Tip Position="4" RunnerNumber="4" NameE="THETA HEDGE" NameC="精算其然" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
 </race>
@@ -23,7 +23,7 @@
 <Tip Position="1" RunnerNumber="1" NameE="KINGS SHIELD" NameC="黃金甲" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
 <Tip Position="2" RunnerNumber="3" NameE="BERLIN TANGO" NameC="柏林探戈" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
 <Tip Position="3" RunnerNumber="4" NameE="ALL FOR ST PAUL'S" NameC="保羅承傳" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
-<Tip Position="4" RunnerNumber="7" NameE="SO WE JOY" NameC="無心睡眠" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
+<Tip Position="4" RunnerNumber="2" NameE="MIGHTY GIANT" NameC="高大威猛" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
 </race>
 <race num="5">
 <Tip Position="1" RunnerNumber="11" NameE="TOUCH FAITH" NameC="當家信心" JockeyNameE="A Badel" JockeyNameC="巴度"/>
