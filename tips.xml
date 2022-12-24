@@ -33,21 +33,21 @@
 </race>
 <race num="6">
 <Tip Position="1" RunnerNumber="4" NameE="BRIGHT KID" NameC="特醒" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
-<Tip Position="2" RunnerNumber="12" NameE="FLYING MIGHTY" NameC="威力飛馳" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
-<Tip Position="3" RunnerNumber="11" NameE="CHATER PINS" NameC="金獅大將" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
+<Tip Position="2" RunnerNumber="11" NameE="CHATER PINS" NameC="金獅大將" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
+<Tip Position="3" RunnerNumber="12" NameE="FLYING MIGHTY" NameC="威力飛馳" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
 <Tip Position="4" RunnerNumber="9" NameE="KOWLOON GREAT" NameC="九龍神駒" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
 </race>
 <race num="7">
 <Tip Position="1" RunnerNumber="10" NameE="PUBLICIST" NameC="俠客行" JockeyNameE="M L Yeung" JockeyNameC="楊明綸"/>
 <Tip Position="2" RunnerNumber="11" NameE="DINKUM" NameC="動感先鋒" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
-<Tip Position="3" RunnerNumber="6" NameE="SOLAR WINDS" NameC="銀亮之風" JockeyNameE="H Bowman" JockeyNameC="布文"/>
+<Tip Position="3" RunnerNumber="6" NameE="SOLAR WINDS" NameC="銀亮之風" JockeyNameE="K H Chan" JockeyNameC="陳嘉熙"/>
 <Tip Position="4" RunnerNumber="4" NameE="COPARTNER AMBITION" NameC="合夥雄心" JockeyNameE="R Maia" JockeyNameC="馬雅"/>
 </race>
 <race num="8">
 <Tip Position="1" RunnerNumber="12" NameE="MARADO" NameC="鹿鼎記" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
 <Tip Position="2" RunnerNumber="3" NameE="WINNER METHOD" NameC="知道再勝" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
 <Tip Position="3" RunnerNumber="10" NameE="CHARMANDER" NameC="喜報圍家" JockeyNameE="L Currie" JockeyNameC="嘉里"/>
-<Tip Position="4" RunnerNumber="1" NameE="ERIMO" NameC="烈風" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
+<Tip Position="4" RunnerNumber="11" NameE="GOLDEN ARTIE" NameC="金佰令" JockeyNameE="R Maia" JockeyNameC="馬雅"/>
 </race>
 <race num="9">
 <Tip Position="1" RunnerNumber="1" NameE="CHANCHENG PRINCE" NameC="禪勝寶駒" JockeyNameE="R Maia" JockeyNameC="馬雅"/>
@@ -57,9 +57,9 @@
 </race>
 <race num="10">
 <Tip Position="1" RunnerNumber="3" NameE="KEEFY" NameC="瑪瑙" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
-<Tip Position="2" RunnerNumber="10" NameE="PACKING TREADMILL" NameC="包裝必勝" JockeyNameE="H Bowman" JockeyNameC="布文"/>
-<Tip Position="3" RunnerNumber="4" NameE="FANTASTIC TREASURE" NameC="佳運財" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
-<Tip Position="4" RunnerNumber="8" NameE="THE ROCK" NameC="星運子爵" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
+<Tip Position="2" RunnerNumber="4" NameE="FANTASTIC TREASURE" NameC="佳運財" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
+<Tip Position="3" RunnerNumber="10" NameE="PACKING TREADMILL" NameC="包裝必勝" JockeyNameE="H T Mo" JockeyNameC="巫顯東"/>
+<Tip Position="4" RunnerNumber="2" NameE="EXCELLENT PROPOSAL" NameC="勁搏" JockeyNameE="L Currie" JockeyNameC="嘉里"/>
 </race>
 <!--
 <trackside text=""/>
