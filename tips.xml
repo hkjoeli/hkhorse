@@ -27,9 +27,9 @@
 </race>
 <race num="5">
 <Tip Position="1" RunnerNumber="5" NameE="SUNNY DELIGHT" NameC="日輝煌" JockeyNameE="H Bowman" JockeyNameC="布文"/>
-<Tip Position="2" RunnerNumber="3" NameE="STAR CONTACT" NameC="久久為攻" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="3" RunnerNumber="8" NameE="CHIU CHOW BROTHER" NameC="潮州大兄" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
-<Tip Position="4" RunnerNumber="2" NameE="BILLIONAIRE SECRET" NameC="發財秘笈" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
+<Tip Position="2" RunnerNumber="2" NameE="BILLIONAIRE SECRET" NameC="發財秘笈" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
+<Tip Position="3" RunnerNumber="3" NameE="STAR CONTACT" NameC="久久為攻" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="4" RunnerNumber="11" NameE="WINWIN THIRTYTHREE" NameC="生生勝勝" JockeyNameE="R Maia" JockeyNameC="馬雅"/>
 </race>
 <race num="6">
 <Tip Position="1" RunnerNumber="2" NameE="COPARTNER ERA" NameC="合夥年代" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
@@ -46,8 +46,8 @@
 <race num="8">
 <Tip Position="1" RunnerNumber="12" NameE="HIGH RISE SOLDIER" NameC="高明駿將" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
 <Tip Position="2" RunnerNumber="4" NameE="NAMJONG SINGS" NameC="南莊之歌" JockeyNameE="H Bowman" JockeyNameC="布文"/>
-<Tip Position="3" RunnerNumber="3" NameE="CALIFORNIA CIBLE" NameC="加州一寶" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
-<Tip Position="4" RunnerNumber="1" NameE="ADIOS" NameC="順勢而飛" JockeyNameE="S De Sousa" JockeyNameC="蘇兆輝"/>
+<Tip Position="3" RunnerNumber="1" NameE="ADIOS" NameC="順勢而飛" JockeyNameE="S De Sousa" JockeyNameC="蘇兆輝"/>
+<Tip Position="4" RunnerNumber="3" NameE="CALIFORNIA CIBLE" NameC="加州一寶" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
 </race>
 <race num="9">
 <Tip Position="1" RunnerNumber="2" NameE="COMET SPLENDIDO" NameC="燊榮之星" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
