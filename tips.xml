@@ -26,10 +26,10 @@
 <Tip Position="4" RunnerNumber="2" NameE="VIVA POPCORN" NameC="爆谷" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
 </race>
 <race num="5">
-<Tip Position="1" RunnerNumber="6" NameE="HOSS" NameC="勝神威" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="2" RunnerNumber="3" NameE="SOLAR PARTNER" NameC="太陽拍檔" JockeyNameE="S De Sousa" JockeyNameC="蘇兆輝"/>
-<Tip Position="3" RunnerNumber="11" NameE="HEARTY WISH" NameC="誠心所願" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
-<Tip Position="4" RunnerNumber="7" NameE="INFINITE POWER" NameC="源源動力" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
+<Tip Position="1" RunnerNumber="11" NameE="HEARTY WISH" NameC="誠心所願" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
+<Tip Position="2" RunnerNumber="6" NameE="HOSS" NameC="勝神威" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="3" RunnerNumber="7" NameE="INFINITE POWER" NameC="源源動力" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
+<Tip Position="4" RunnerNumber="9" NameE="TOP TOP TEA" NameC="盛世名駒" JockeyNameE="R Maia" JockeyNameC="馬雅"/>
 </race>
 <race num="6">
 <Tip Position="1" RunnerNumber="8" NameE="ESCAPE ROUTE" NameC="波爾多" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
@@ -45,9 +45,9 @@
 </race>
 <race num="8">
 <Tip Position="1" RunnerNumber="4" NameE="MAJESTIC KNIGHT" NameC="電氣騎士" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
-<Tip Position="2" RunnerNumber="11" NameE="HOWDEEPISYOURLOVE" NameC="嫡愛心" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
-<Tip Position="3" RunnerNumber="5" NameE="HUMBLE STAR" NameC="財才" JockeyNameE="S De Sousa" JockeyNameC="蘇兆輝"/>
-<Tip Position="4" RunnerNumber="12" NameE="BRAVE STAR" NameC="勇敢巨星" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
+<Tip Position="2" RunnerNumber="12" NameE="BRAVE STAR" NameC="勇敢巨星" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
+<Tip Position="3" RunnerNumber="9" NameE="SUGAR SUGAR" NameC="鈁糖武士" JockeyNameE="K H Chan" JockeyNameC="陳嘉熙"/>
+<Tip Position="4" RunnerNumber="5" NameE="HUMBLE STAR" NameC="財才" JockeyNameE="S De Sousa" JockeyNameC="蘇兆輝"/>
 </race>
 <race num="9">
 <Tip Position="1" RunnerNumber="7" NameE="GOLD GOLD BABY" NameC="純金酒杯" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
