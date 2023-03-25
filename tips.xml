@@ -61,7 +61,12 @@
 <Tip Position="3" RunnerNumber="8" NameE="CIRCUIT MIGHTY" NameC="綫路神驊" JockeyNameE="S De Sousa" JockeyNameC="蘇兆輝"/>
 <Tip Position="4" RunnerNumber="1" NameE="ERIMO" NameC="烈風" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
 </race>
-<!--
-<trackside text=""/>
--->
+<trackside text="25/3 S2 R2 8,11,2,4"/>
+<trackside text="25/3 S2 R3 9,13,7,3"/>
+<trackside text="25/3 S2 R4 16,1,11,5"/>
+<trackside text="25/3 S2 R5 13,3,5,11"/>
+<trackside text="25/3 S2 R6 13,2,3,5"/>
+<trackside text="25/3 S2 R7 2,7,12,9"/>
+<trackside text="25/3 S2 R8 8,3,2,7"/>
+<trackside text="25/3 S2 R9 1,4,13,14"/>
 </tips>
