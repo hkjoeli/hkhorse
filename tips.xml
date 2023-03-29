@@ -17,34 +17,34 @@
 <Tip Position="1" RunnerNumber="8" NameE="EL VALIENTE" NameC="雷霆戰駒" JockeyNameE="H Bowman" JockeyNameC="布文"/>
 <Tip Position="2" RunnerNumber="2" NameE="GREEN LASER" NameC="綠登" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
 <Tip Position="3" RunnerNumber="14" NameE="SPEED FORCE" NameC="緣份" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
-<Tip Position="4" RunnerNumber="4" NameE="COLOURFUL BARON" NameC="豐盛多彩" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="4" RunnerNumber="4" NameE="COLOURFUL BARON" NameC="豐盛多彩" JockeyNameE="R Maia" JockeyNameC="馬雅"/>
 </race>
 <race num="4">
 <Tip Position="1" RunnerNumber="5" NameE="SHINING FORTUNE" NameC="明駿福星" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
 <Tip Position="2" RunnerNumber="7" NameE="CALL ME TEDDY" NameC="牛皇頭" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
-<Tip Position="3" RunnerNumber="1" NameE="CALIFORNIA CONCORD" NameC="加州凱歌" JockeyNameE="K H Chan" JockeyNameC="陳嘉熙"/>
-<Tip Position="4" RunnerNumber="11" NameE="MAGIC SUPREME" NameC="駿皇星" JockeyNameE="S De Sousa" JockeyNameC="蘇兆輝"/>
+<Tip Position="3" RunnerNumber="11" NameE="MAGIC SUPREME" NameC="駿皇星" JockeyNameE="S De Sousa" JockeyNameC="蘇兆輝"/>
+<Tip Position="4" RunnerNumber="1" NameE="CALIFORNIA CONCORD" NameC="加州凱歌" JockeyNameE="K H Chan" JockeyNameC="陳嘉熙"/>
 </race>
 <race num="5">
 <Tip Position="1" RunnerNumber="4" NameE="AMAZING TEENS" NameC="華卓晴" JockeyNameE="A Hamelin" JockeyNameC="賀銘年"/>
-<Tip Position="2" RunnerNumber="12" NameE="FORTUNE PRESIDENT" NameC="中華叻叻" JockeyNameE="V Borges" JockeyNameC="波健士"/>
-<Tip Position="3" RunnerNumber="5" NameE="NICE BIRDIE" NameC="樂捉鳥" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="4" RunnerNumber="1" NameE="RED BRICK FIGHTER" NameC="紅磚勇士" JockeyNameE="H Bowman" JockeyNameC="布文"/>
+<Tip Position="2" RunnerNumber="1" NameE="RED BRICK FIGHTER" NameC="紅磚勇士" JockeyNameE="H Bowman" JockeyNameC="布文"/>
+<Tip Position="3" RunnerNumber="12" NameE="FORTUNE PRESIDENT" NameC="中華叻叻" JockeyNameE="V Borges" JockeyNameC="波健士"/>
+<Tip Position="4" RunnerNumber="6" NameE="HIGH CLOUD" NameC="高韻" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
 </race>
 <race num="6">
 <Tip Position="1" RunnerNumber="4" NameE="HAVA NAGEELA" NameC="爽快" JockeyNameE="S De Sousa" JockeyNameC="蘇兆輝"/>
 <Tip Position="2" RunnerNumber="6" NameE="VIVA HUNTER" NameC="怪獸奇兵" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
 <Tip Position="3" RunnerNumber="1" NameE="SO WE JOY" NameC="無心睡眠" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
-<Tip Position="4" RunnerNumber="2" NameE="ROMANTIC COMBO" NameC="浪漫組合" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="4" RunnerNumber="7" NameE="MALDIVES" NameC="馬爾代夫" JockeyNameE="A Badel" JockeyNameC="巴度"/>
 </race>
 <race num="7">
-<Tip Position="1" RunnerNumber="1" NameE="THE ROCK" NameC="星運子爵" JockeyNameE="K H Chan" JockeyNameC="陳嘉熙"/>
-<Tip Position="2" RunnerNumber="6" NameE="GUMMY GUMMY" NameC="晶晶日上" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
+<Tip Position="1" RunnerNumber="6" NameE="GUMMY GUMMY" NameC="晶晶日上" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
+<Tip Position="2" RunnerNumber="1" NameE="THE ROCK" NameC="星運子爵" JockeyNameE="K H Chan" JockeyNameC="陳嘉熙"/>
 <Tip Position="3" RunnerNumber="11" NameE="SUPER KING" NameC="旭日暉" JockeyNameE="V Borges" JockeyNameC="波健士"/>
-<Tip Position="4" RunnerNumber="8" NameE="YOUTHFUL DEAL" NameC="年少有威" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="4" RunnerNumber="4" NameE="MAN STAR" NameC="文明之星" JockeyNameE="S De Sousa" JockeyNameC="蘇兆輝"/>
 </race>
 <race num="8">
-<Tip Position="1" RunnerNumber="2" NameE="NERVOUS WITNESS" NameC="緊張大師" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="1" RunnerNumber="2" NameE="NERVOUS WITNESS" NameC="緊張大師" JockeyNameE="L Currie" JockeyNameC="嘉里"/>
 <Tip Position="2" RunnerNumber="8" NameE="HARMONY AND RICH" NameC="和氣生財" JockeyNameE="H W Lai" JockeyNameC="黎海榮"/>
 <Tip Position="3" RunnerNumber="1" NameE="COMPUTER PATCH" NameC="錶之智能" JockeyNameE="H Bowman" JockeyNameC="布文"/>
 <Tip Position="4" RunnerNumber="4" NameE="KA YING MASTER" NameC="嘉應精英" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
