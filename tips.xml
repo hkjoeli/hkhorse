@@ -2,9 +2,9 @@
 <tips>
 <meeting date="09-04-2023" venue="ST" title="心水提供"/>
 <race num="1">
-<Tip Position="1" RunnerNumber="8" NameE="KA YING VICTORY" NameC="嘉應獎昇" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="2" RunnerNumber="3" NameE="HOLY LAKE" NameC="好勁力" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
-<Tip Position="3" RunnerNumber="4" NameE="JOYFUL PROSPERITY" NameC="富喜來" JockeyNameE="H Bowman" JockeyNameC="布文"/>
+<Tip Position="1" RunnerNumber="1" NameE="CERVIN" NameC="馬特峰" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
+<Tip Position="2" RunnerNumber="2" NameE="HAPPIHOOD" NameC="最佳拍檔" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
+<Tip Position="3" RunnerNumber="6" NameE="SUPER BONUS" NameC="獎金大少" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
 <Tip Position="4" RunnerNumber="7" NameE="DASHING SUCCESS" NameC="事事利高" JockeyNameE="H T Mo" JockeyNameC="巫顯東"/>
 </race>
 <race num="2">
@@ -47,7 +47,7 @@
 <Tip Position="1" RunnerNumber="1" NameE="LUCKY SWEYNESSE" NameC="金鑽貴人" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
 <Tip Position="2" RunnerNumber="2" NameE="WELLINGTON" NameC="福逸" JockeyNameE="A Badel" JockeyNameC="巴度"/>
 <Tip Position="3" RunnerNumber="7" NameE="WHIZZ KID" NameC="狀元及第" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
-<Tip Position="4" RunnerNumber="3" NameE="COURIER WONDER" NameC="速遞奇兵" JockeyNameE="H Bowman" JockeyNameC="布文"/>
+<Tip Position="4" RunnerNumber="3" NameE="COURIER WONDER" NameC="速遞奇兵" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
 </race>
 <race num="9">
 <Tip Position="1" RunnerNumber="2" NameE="WAIKUKU" NameC="夏威夷" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
