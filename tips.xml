@@ -11,13 +11,13 @@
 <Tip Position="1" RunnerNumber="6" NameE="SPARKLING DOLPHIN" NameC="海豚星" JockeyNameE="H T Mo" JockeyNameC="巫顯東"/>
 <Tip Position="2" RunnerNumber="4" NameE="SPARKLING KNIGHT" NameC="閃電烈馬" JockeyNameE="E C W Wong" JockeyNameC="黃智弘"/>
 <Tip Position="3" RunnerNumber="9" NameE="HONG KONG HALL" NameC="福國寶" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="4" RunnerNumber="8" NameE="DREAM WINNER" NameC="實現夢想" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
+<Tip Position="4" RunnerNumber="3" NameE="KING ECCELLENTE" NameC="皇帝英明" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
 </race>
 <race num="3">
-<Tip Position="1" RunnerNumber="13" NameE="HANDSOME GUYS" NameC="玉樹臨風" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
-<Tip Position="2" RunnerNumber="8" NameE="BEAUTY NOVA" NameC="美麗新星" JockeyNameE="A Hamelin" JockeyNameC="賀銘年"/>
-<Tip Position="3" RunnerNumber="7" NameE="BOYS PARTY" NameC="滿貫摯友" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
-<Tip Position="4" RunnerNumber="10" NameE="FOXHUNTER WAY" NameC="獵狐者威" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
+<Tip Position="1" RunnerNumber="10" NameE="FOXHUNTER WAY" NameC="獵狐者威" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
+<Tip Position="2" RunnerNumber="13" NameE="HANDSOME GUYS" NameC="玉樹臨風" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
+<Tip Position="3" RunnerNumber="8" NameE="BEAUTY NOVA" NameC="美麗新星" JockeyNameE="A Hamelin" JockeyNameC="賀銘年"/>
+<Tip Position="4" RunnerNumber="4" NameE="INSPIRING CITY" NameC="耀力之城" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
 </race>
 <race num="4">
 <Tip Position="1" RunnerNumber="4" NameE="MASTER OF FORTUNE" NameC="發財大師" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
