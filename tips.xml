@@ -14,8 +14,8 @@
 <Tip Position="4" RunnerNumber="1" NameE="IMPERIAL MAGEE" NameC="名門望族" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
 </race>
 <race num="3">
-<Tip Position="1" RunnerNumber="2" NameE="TOURBILLON DIAMOND" NameC="飛輪閃耀" JockeyNameE="M Dee" JockeyNameC="戴文高"/>
-<Tip Position="2" RunnerNumber="3" NameE="BEAUTY ETERNAL" NameC="永遠美麗" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="1" RunnerNumber="3" NameE="BEAUTY ETERNAL" NameC="永遠美麗" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="2" RunnerNumber="2" NameE="TOURBILLON DIAMOND" NameC="飛輪閃耀" JockeyNameE="M Dee" JockeyNameC="戴文高"/>
 <Tip Position="3" RunnerNumber="5" NameE="BELUGA" NameC="北極光" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
 <Tip Position="4" RunnerNumber="1" NameE="BEAUTY JOY" NameC="美麗同享" JockeyNameE="H Bowman" JockeyNameC="布文"/>
 </race>
@@ -29,7 +29,7 @@
 <Tip Position="1" RunnerNumber="3" NameE="FLAMINGO TRILLION" NameC="港林福將" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
 <Tip Position="2" RunnerNumber="6" NameE="STURDY RUBY" NameC="紅海勁" JockeyNameE="H Bowman" JockeyNameC="布文"/>
 <Tip Position="3" RunnerNumber="12" NameE="SPEED FAY FAY" NameC="是必飛飛" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
-<Tip Position="4" RunnerNumber="8" NameE="JOY COMING" NameC="迎樂" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
+<Tip Position="4" RunnerNumber="1" NameE="PROSECCO" NameC="勝利之皇" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
 </race>
 <race num="6">
 <Tip Position="1" RunnerNumber="2" NameE="FLYING ACE" NameC="威力奔騰" JockeyNameE="H Bowman" JockeyNameC="布文"/>
