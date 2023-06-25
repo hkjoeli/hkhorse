@@ -20,8 +20,8 @@
 <Tip Position="4" RunnerNumber="3" NameE="HEALTHY HAPPY" NameC="健康愉快" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
 </race>
 <race num="4">
-<Tip Position="1" RunnerNumber="8" NameE="BRAVE AND BOLD" NameC="天駿寶" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
-<Tip Position="2" RunnerNumber="4" NameE="WINNING DATA" NameC="大數據" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
+<Tip Position="1" RunnerNumber="4" NameE="WINNING DATA" NameC="大數據" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
+<Tip Position="2" RunnerNumber="8" NameE="BRAVE AND BOLD" NameC="天駿寶" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
 <Tip Position="3" RunnerNumber="3" NameE="TATTENHAM" NameC="馬有運" JockeyNameE="M L Yeung" JockeyNameC="楊明綸"/>
 <Tip Position="4" RunnerNumber="10" NameE="LEATHER MASTER" NameC="皮具大師" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
 </race>
@@ -38,16 +38,16 @@
 <Tip Position="4" RunnerNumber="5" NameE="PACKING TREADMILL" NameC="包裝必勝" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
 </race>
 <race num="7">
-<Tip Position="1" RunnerNumber="2" NameE="PANFIELD" NameC="勇戰神駒" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
-<Tip Position="2" RunnerNumber="5" NameE="TUCHEL" NameC="自勝者強" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="1" RunnerNumber="5" NameE="TUCHEL" NameC="自勝者強" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="2" RunnerNumber="2" NameE="PANFIELD" NameC="勇戰神駒" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
 <Tip Position="3" RunnerNumber="3" NameE="TOURBILLON DIAMOND" NameC="飛輪閃耀" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
-<Tip Position="4" RunnerNumber="7" NameE="PACKING AWARD" NameC="包裝大獎" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
+<Tip Position="4" RunnerNumber="6" NameE="SPIRITED EXPRESS" NameC="駿馬快車" JockeyNameE="M Dee" JockeyNameC="戴文高"/>
 </race>
 <race num="8">
 <Tip Position="1" RunnerNumber="10" NameE="VANQUISHER" NameC="南征北戰" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
 <Tip Position="2" RunnerNumber="9" NameE="NICETOBEMET" NameC="緣途有您" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
 <Tip Position="3" RunnerNumber="2" NameE="ENDEARED" NameC="安泰" JockeyNameE="L Currie" JockeyNameC="嘉里"/>
-<Tip Position="4" RunnerNumber="1" NameE="LUCKY GOR" NameC="幸運之神" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
+<Tip Position="4" RunnerNumber="8" NameE="MULTIDARLING" NameC="萬事靚" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
 </race>
 <race num="9">
 <Tip Position="1" RunnerNumber="10" NameE="MODULECONSTRUCTION" NameC="營造組裝" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
