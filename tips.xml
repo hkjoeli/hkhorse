@@ -2,8 +2,8 @@
 <tips>
 <meeting date="06-07-2023" venue="HV" title="心水提供"/>
 <race num="1">
-<Tip Position="1" RunnerNumber="8" NameE="DAILY BEAUTY" NameC="日日靚" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
-<Tip Position="2" RunnerNumber="2" NameE="HAPPY JAI JAI" NameC="又享耆成" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
+<Tip Position="1" RunnerNumber="2" NameE="HAPPY JAI JAI" NameC="又享耆成" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
+<Tip Position="2" RunnerNumber="8" NameE="DAILY BEAUTY" NameC="日日靚" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
 <Tip Position="3" RunnerNumber="1" NameE="CHARIZARD" NameC="噴火龍" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
 <Tip Position="4" RunnerNumber="10" NameE="BEAUTY NOVA" NameC="美麗新星" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
 </race>
@@ -15,8 +15,8 @@
 </race>
 <race num="3">
 <Tip Position="1" RunnerNumber="6" NameE="THETA HEDGE" NameC="精算其然" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="2" RunnerNumber="12" NameE="VIVA A LA" NameC="怪獸豪俠" JockeyNameE="A Badel" JockeyNameC="巴度"/>
-<Tip Position="3" RunnerNumber="11" NameE="TRAVEL GLORY" NameC="旅遊達人" JockeyNameE="H W Lai" JockeyNameC="黎海榮"/>
+<Tip Position="2" RunnerNumber="11" NameE="TRAVEL GLORY" NameC="旅遊達人" JockeyNameE="H W Lai" JockeyNameC="黎海榮"/>
+<Tip Position="3" RunnerNumber="12" NameE="VIVA A LA" NameC="怪獸豪俠" JockeyNameE="A Badel" JockeyNameC="巴度"/>
 <Tip Position="4" RunnerNumber="9" NameE="YOUNG SPARKLE" NameC="競駿無敵" JockeyNameE="A Hamelin" JockeyNameC="賀銘年"/>
 </race>
 <race num="4">
