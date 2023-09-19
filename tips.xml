@@ -11,19 +11,19 @@
 <Tip Position="1" RunnerNumber="6" NameE="COLONEL" NameC="上校" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
 <Tip Position="2" RunnerNumber="1" NameE="SAVVY CHIC" NameC="駿寶" JockeyNameE="H Bowman" JockeyNameC="布文"/>
 <Tip Position="3" RunnerNumber="8" NameE="STOICISM" NameC="勇趣" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
-<Tip Position="4" RunnerNumber="3" NameE="JOY OF SPRING" NameC="春風萬里" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
+<Tip Position="4" RunnerNumber="9" NameE="DAILY TROPHY" NameC="日日獎" JockeyNameE="L Currie" JockeyNameC="嘉里"/>
 </race>
 <race num="3">
-<Tip Position="1" RunnerNumber="7" NameE="DRAGON STAR" NameC="皇仁福星" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
-<Tip Position="2" RunnerNumber="2" NameE="FLYING SILVER" NameC="躡景追飛" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="3" RunnerNumber="4" NameE="SATIRICAL GLORY" NameC="鐵三角" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
-<Tip Position="4" RunnerNumber="5" NameE="JUNE PLANET" NameC="駿行星" JockeyNameE="H Bowman" JockeyNameC="布文"/>
+<Tip Position="1" RunnerNumber="2" NameE="FLYING SILVER" NameC="躡景追飛" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="2" RunnerNumber="7" NameE="DRAGON STAR" NameC="皇仁福星" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
+<Tip Position="3" RunnerNumber="1" NameE="OWNERS' PRAISE" NameC="馬主雄風" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
+<Tip Position="4" RunnerNumber="3" NameE="PRINCE ALEX" NameC="大力猴王" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
 </race>
 <race num="4">
 <Tip Position="1" RunnerNumber="10" NameE="CIRCUIT SPLENDOR" NameC="綫路光明" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
 <Tip Position="2" RunnerNumber="2" NameE="DIAMOND SOARS" NameC="鑽飾翱翔" JockeyNameE="K De Melo" JockeyNameC="董明朗"/>
-<Tip Position="3" RunnerNumber="6" NameE="DASHING TRIUMPH" NameC="吉吉利高" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
-<Tip Position="4" RunnerNumber="11" NameE="VIVA A LA" NameC="怪獸豪俠" JockeyNameE="A Badel" JockeyNameC="巴度"/>
+<Tip Position="3" RunnerNumber="11" NameE="VIVA A LA" NameC="怪獸豪俠" JockeyNameE="A Badel" JockeyNameC="巴度"/>
+<Tip Position="4" RunnerNumber="6" NameE="DASHING TRIUMPH" NameC="吉吉利高" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
 </race>
 <race num="5">
 <Tip Position="1" RunnerNumber="7" NameE="MELBOURNE HALL" NameC="福滿寶" JockeyNameE="H Bowman" JockeyNameC="布文"/>
