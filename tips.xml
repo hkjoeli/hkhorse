@@ -27,9 +27,9 @@
 </race>
 <race num="5">
 <Tip Position="1" RunnerNumber="3" NameE="CONCERTO" NameC="協奏曲" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
-<Tip Position="2" RunnerNumber="6" NameE="SPANGLE FORTUNE" NameC="閃耀威龍" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
-<Tip Position="3" RunnerNumber="2" NameE="FLYING SILVER" NameC="躡景追飛" JockeyNameE="H Bowman" JockeyNameC="布文"/>
-<Tip Position="4" RunnerNumber="5" NameE="FORTUNE PRESIDENT" NameC="中華叻叻" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
+<Tip Position="2" RunnerNumber="2" NameE="FLYING SILVER" NameC="躡景追飛" JockeyNameE="H Bowman" JockeyNameC="布文"/>
+<Tip Position="3" RunnerNumber="5" NameE="FORTUNE PRESIDENT" NameC="中華叻叻" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
+<Tip Position="4" RunnerNumber="6" NameE="SPANGLE FORTUNE" NameC="閃耀威龍" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
 </race>
 <race num="6">
 <Tip Position="1" RunnerNumber="10" NameE="SUPER EAGLE" NameC="宏才" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
@@ -38,10 +38,10 @@
 <Tip Position="4" RunnerNumber="7" NameE="AWESOME TREASURE" NameC="佳運發" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
 </race>
 <race num="7">
-<Tip Position="1" RunnerNumber="2" NameE="JUNEAU FLASH" NameC="至尊高飛" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
-<Tip Position="2" RunnerNumber="11" NameE="TIMESTORM" NameC="日新月著" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
-<Tip Position="3" RunnerNumber="7" NameE="LUCKY ARCHANGEL" NameC="幸運旅程" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="4" RunnerNumber="5" NameE="E BROTHER" NameC="電子兄弟" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
+<Tip Position="1" RunnerNumber="11" NameE="TIMESTORM" NameC="日新月著" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
+<Tip Position="2" RunnerNumber="2" NameE="JUNEAU FLASH" NameC="至尊高飛" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
+<Tip Position="3" RunnerNumber="9" NameE="SEE U AGAIN" NameC="想見你" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
+<Tip Position="4" RunnerNumber="8" NameE="TOGEPI" NameC="小刺蛋" JockeyNameE="H Bowman" JockeyNameC="布文"/>
 </race>
 <race num="8">
 <Tip Position="1" RunnerNumber="6" NameE="HOSS" NameC="勝神威" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
@@ -53,7 +53,7 @@
 <Tip Position="1" RunnerNumber="6" NameE="LIGHTNING BOLT" NameC="閃電" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
 <Tip Position="2" RunnerNumber="10" NameE="SWEET BRIAR" NameC="瑰麗人生" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
 <Tip Position="3" RunnerNumber="4" NameE="SIXTH GENERATION" NameC="陸知" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
-<Tip Position="4" RunnerNumber="1" NameE="REWARD SMILE" NameC="明心知遇" JockeyNameE="H Bowman" JockeyNameC="布文"/>
+<Tip Position="4" RunnerNumber="2" NameE="STREET SCREAM" NameC="桃花盛" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
 </race>
 <!--
 <trackside text=""/>
