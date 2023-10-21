@@ -51,15 +51,15 @@
 </race>
 <race num="9">
 <Tip Position="1" RunnerNumber="10" NameE="NIMBLE NIMBUS" NameC="觔斗雲" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
-<Tip Position="2" RunnerNumber="2" NameE="BOURBONAIRE" NameC="笑哥兒" JockeyNameE="A Hamelin" JockeyNameC="賀銘年"/>
-<Tip Position="3" RunnerNumber="9" NameE="CHAMPION DRAGON" NameC="龍船狀元" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
-<Tip Position="4" RunnerNumber="6" NameE="MEANINGFUL STAR" NameC="百勝名駒" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
+<Tip Position="2" RunnerNumber="9" NameE="CHAMPION DRAGON" NameC="龍船狀元" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
+<Tip Position="3" RunnerNumber="2" NameE="BOURBONAIRE" NameC="笑哥兒" JockeyNameE="A Hamelin" JockeyNameC="賀銘年"/>
+<Tip Position="4" RunnerNumber="1" NameE="SWORD POINT" NameC="知足常樂" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
 </race>
 <race num="10">
 <Tip Position="1" RunnerNumber="8" NameE="DANCING CODE" NameC="舞林密碼" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
 <Tip Position="2" RunnerNumber="7" NameE="FIND MY LOVE" NameC="紅愛舍" JockeyNameE="M L Yeung" JockeyNameC="楊明綸"/>
-<Tip Position="3" RunnerNumber="10" NameE="SUPREME LUCKY" NameC="旺旺神駒" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
-<Tip Position="4" RunnerNumber="1" NameE="MASTER EIGHT" NameC="八仟師" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
+<Tip Position="3" RunnerNumber="1" NameE="MASTER EIGHT" NameC="八仟師" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
+<Tip Position="4" RunnerNumber="10" NameE="SUPREME LUCKY" NameC="旺旺神駒" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
 </race>
 <!--
 <trackside text=""/>
