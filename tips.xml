@@ -21,9 +21,9 @@
 </race>
 <race num="4">
 <Tip Position="1" RunnerNumber="7" NameE="KING INVINCIBLE" NameC="勁無敵" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="2" RunnerNumber="10" NameE="CIRCUIT SEVEN" NameC="電路七號" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
-<Tip Position="3" RunnerNumber="4" NameE="SERGEANT PEPPER" NameC="胡椒軍曹" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
-<Tip Position="4" RunnerNumber="1" NameE="JUMBO LEGEND" NameC="銀進" JockeyNameE="K H Chan" JockeyNameC="陳嘉熙"/>
+<Tip Position="2" RunnerNumber="1" NameE="JUMBO LEGEND" NameC="銀進" JockeyNameE="K H Chan" JockeyNameC="陳嘉熙"/>
+<Tip Position="3" RunnerNumber="10" NameE="CIRCUIT SEVEN" NameC="電路七號" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
+<Tip Position="4" RunnerNumber="6" NameE="THE EQUALIZER" NameC="可圈可点" JockeyNameE="M L Yeung" JockeyNameC="楊明綸"/>
 </race>
 <race num="5">
 <Tip Position="1" RunnerNumber="8" NameE="DURHAM STAR" NameC="對衡之星" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
@@ -44,16 +44,16 @@
 <Tip Position="4" RunnerNumber="6" NameE="NERVOUS WITNESS" NameC="緊張大師" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
 </race>
 <race num="8">
-<Tip Position="1" RunnerNumber="9" NameE="VINCY" NameC="全才" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
-<Tip Position="2" RunnerNumber="1" NameE="ROYAL PRIDE" NameC="皇者驕傲" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
-<Tip Position="3" RunnerNumber="8" NameE="DAZZLING FELLOW" NameC="飛來勁" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="4" RunnerNumber="11" NameE="CIRCUIT ELITE" NameC="綫路菁英" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
+<Tip Position="1" RunnerNumber="1" NameE="ROYAL PRIDE" NameC="皇者驕傲" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
+<Tip Position="2" RunnerNumber="9" NameE="PRECISE EXPRESS" NameC="精準快車" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
+<Tip Position="3" RunnerNumber="6" NameE="FOREVER GLORIOUS" NameC="龍船快" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
+<Tip Position="4" RunnerNumber="5" NameE="REACH GOAL" NameC="一舖到位" JockeyNameE="A Badel" JockeyNameC="巴度"/>
 </race>
 <race num="9">
 <Tip Position="1" RunnerNumber="10" NameE="STREET CONQUEROR" NameC="炯炯有神" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
 <Tip Position="2" RunnerNumber="12" NameE="KILINDINI" NameC="金哥兒" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
 <Tip Position="3" RunnerNumber="6" NameE="GOLDEN ARTIE" NameC="金佰令" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
-<Tip Position="4" RunnerNumber="2" NameE="NOT USUAL STAR" NameC="非凡之星" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
+<Tip Position="4" RunnerNumber="1" NameE="ATOMIC FORCE" NameC="巴薩諾瓦" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
 </race>
 <race num="10">
 <Tip Position="1" RunnerNumber="8" NameE="BIG RED" NameC="好如意" JockeyNameE="K De Melo" JockeyNameC="董明朗"/>
