@@ -8,8 +8,8 @@
 <Tip Position="4" RunnerNumber="1" NameE="KAHOLO ANGEL" NameC="鈦易搵" JockeyNameE="E C W Wong" JockeyNameC="黃智弘"/>
 </race>
 <race num="2">
-<Tip Position="1" RunnerNumber="12" NameE="JOYFUL CHAMPION" NameC="喜悅一生" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
-<Tip Position="2" RunnerNumber="10" NameE="HAPPY HERO" NameC="國大合" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="1" RunnerNumber="10" NameE="HAPPY HERO" NameC="國大合" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="2" RunnerNumber="12" NameE="JOYFUL CHAMPION" NameC="喜悅一生" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
 <Tip Position="3" RunnerNumber="3" NameE="FIERY FLYING" NameC="烽煙載喜" JockeyNameE="H Bowman" JockeyNameC="布文"/>
 <Tip Position="4" RunnerNumber="9" NameE="FORTUNE TRIPLE" NameC="生生福運" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
 </race>
@@ -46,14 +46,14 @@
 <race num="8">
 <Tip Position="1" RunnerNumber="6" NameE="MISTER DAPPER" NameC="英駿飛駒" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
 <Tip Position="2" RunnerNumber="8" NameE="AESTHETICISM" NameC="唯美主義" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="3" RunnerNumber="4" NameE="CELTIC TIMES" NameC="佳福駒" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
-<Tip Position="4" RunnerNumber="10" NameE="NORTHERN BEAST" NameC="北海盜" JockeyNameE="H Bowman" JockeyNameC="布文"/>
+<Tip Position="3" RunnerNumber="10" NameE="NORTHERN BEAST" NameC="北海盜" JockeyNameE="H Bowman" JockeyNameC="布文"/>
+<Tip Position="4" RunnerNumber="4" NameE="CELTIC TIMES" NameC="佳福駒" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
 </race>
 <race num="9">
 <Tip Position="1" RunnerNumber="4" NameE="MODULECONSTRUCTION" NameC="營造組裝" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
 <Tip Position="2" RunnerNumber="10" NameE="SPEED SWORD" NameC="劍山鋒" JockeyNameE="A Badel" JockeyNameC="巴度"/>
 <Tip Position="3" RunnerNumber="3" NameE="SUPER FORTUNE" NameC="連連有盈" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
-<Tip Position="4" RunnerNumber="6" NameE="TORONADO PHANTOM" NameC="旋風飛影" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
+<Tip Position="4" RunnerNumber="2" NameE="VIVA CHALEUR" NameC="爆熱" JockeyNameE="H Bowman" JockeyNameC="布文"/>
 </race>
 <race num="10">
 <Tip Position="1" RunnerNumber="4" NameE="CAPITAL LEGEND" NameC="川河首駒" JockeyNameE="E C W Wong" JockeyNameC="黃智弘"/>
