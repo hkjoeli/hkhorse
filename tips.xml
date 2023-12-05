@@ -3,13 +3,13 @@
 <meeting date="06-12-2023" venue="HV" title="心水提供"/>
 <race num="1">
 <Tip Position="1" RunnerNumber="4" NameE="VALHALLA" NameC="九秒九" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
-<Tip Position="2" RunnerNumber="8" NameE="DRAGON KINGDOM" NameC="皇龍帝國" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
-<Tip Position="3" RunnerNumber="3" NameE="HERCULES" NameC="晉神" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
+<Tip Position="2" RunnerNumber="3" NameE="HERCULES" NameC="晉神" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
+<Tip Position="3" RunnerNumber="8" NameE="DRAGON KINGDOM" NameC="皇龍帝國" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
 <Tip Position="4" RunnerNumber="12" NameE="NOIR RIDER" NameC="蒲俠超得" JockeyNameE="H Doyle" JockeyNameC="杜苑欣"/>
 </race>
 <race num="2">
-<Tip Position="1" RunnerNumber="12" NameE="COMPULSORY" NameC="金牌實力" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
-<Tip Position="2" RunnerNumber="3" NameE="HAPPY JAI JAI" NameC="又享耆成" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="1" RunnerNumber="3" NameE="HAPPY JAI JAI" NameC="又享耆成" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="2" RunnerNumber="12" NameE="COMPULSORY" NameC="金牌實力" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
 <Tip Position="3" RunnerNumber="4" NameE="NICE BIRDIE" NameC="樂捉鳥" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
 <Tip Position="4" RunnerNumber="8" NameE="MEDIC ELITE" NameC="無敵精英" JockeyNameE="H Doyle" JockeyNameC="杜苑欣"/>
 </race>
