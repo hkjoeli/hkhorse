@@ -3,15 +3,15 @@
 <meeting date="17-01-2024" venue="HV" title="心水提供"/>
 <race num="1">
 <Tip Position="1" RunnerNumber="1" NameE="CLASSIC ARCHI" NameC="神舟飛駒" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
-<Tip Position="2" RunnerNumber="2" NameE="TURTLE AGAIN" NameC="滿載歸來" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
-<Tip Position="3" RunnerNumber="3" NameE="AI ONE" NameC="博愛之光" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
-<Tip Position="4" RunnerNumber="6" NameE="UNITED ENDEAVORS" NameC="勇進齊心" JockeyNameE="M L Yeung" JockeyNameC="楊明綸"/>
+<Tip Position="2" RunnerNumber="6" NameE="UNITED ENDEAVORS" NameC="勇進齊心" JockeyNameE="M L Yeung" JockeyNameC="楊明綸"/>
+<Tip Position="3" RunnerNumber="2" NameE="TURTLE AGAIN" NameC="滿載歸來" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
+<Tip Position="4" RunnerNumber="5" NameE="SUNNY BABY" NameC="樂天派" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
 </race>
 <race num="2">
 <Tip Position="1" RunnerNumber="9" NameE="STRONGEST BOY" NameC="武林至尊" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
 <Tip Position="2" RunnerNumber="10" NameE="SUPER CONTENTED" NameC="滿多福" JockeyNameE="K De Melo" JockeyNameC="董明朗"/>
-<Tip Position="3" RunnerNumber="2" NameE="CONCERTO" NameC="協奏曲" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
-<Tip Position="4" RunnerNumber="8" NameE="FLYING SILVER" NameC="躡景追飛" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
+<Tip Position="3" RunnerNumber="8" NameE="FLYING SILVER" NameC="躡景追飛" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
+<Tip Position="4" RunnerNumber="7" NameE="MR ALADDIN" NameC="同寶寶" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
 </race>
 <race num="3">
 <Tip Position="1" RunnerNumber="3" NameE="TATTENHAM" NameC="馬有運" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
@@ -32,9 +32,9 @@
 <Tip Position="4" RunnerNumber="7" NameE="WIN WIN FIGHTER" NameC="威威鬥士" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
 </race>
 <race num="6">
-<Tip Position="1" RunnerNumber="10" NameE="SUPER EAGLE" NameC="宏才" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="2" RunnerNumber="2" NameE="BEAUTY INFINITY" NameC="無限美麗" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
-<Tip Position="3" RunnerNumber="6" NameE="GOLDEN LUCK" NameC="金運來" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
+<Tip Position="1" RunnerNumber="2" NameE="BEAUTY INFINITY" NameC="無限美麗" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
+<Tip Position="2" RunnerNumber="10" NameE="SUPER EAGLE" NameC="宏才" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="3" RunnerNumber="3" NameE="HAPPY TRIO" NameC="樂加福" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
 <Tip Position="4" RunnerNumber="9" NameE="MELBOURNE HALL" NameC="福滿寶" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
 </race>
 <race num="7">
