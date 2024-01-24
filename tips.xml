@@ -26,21 +26,21 @@
 <Tip Position="4" RunnerNumber="6" NameE="UNITED ENDEAVORS" NameC="勇進齊心" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
 </race>
 <race num="5">
-<Tip Position="1" RunnerNumber="4" NameE="COLOURFUL PRINCE" NameC="顏色王子" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
-<Tip Position="2" RunnerNumber="1" NameE="FLYING DRAGON" NameC="龍騰飛翔" JockeyNameE="H Bowman" JockeyNameC="布文"/>
-<Tip Position="3" RunnerNumber="9" NameE="DIAMOND SOARS" NameC="鑽飾翱翔" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
-<Tip Position="4" RunnerNumber="10" NameE="ACA POWER" NameC="澳華威威" JockeyNameE="E C W Wong" JockeyNameC="黃智弘"/>
+<Tip Position="1" RunnerNumber="1" NameE="FLYING DRAGON" NameC="龍騰飛翔" JockeyNameE="H Bowman" JockeyNameC="布文"/>
+<Tip Position="2" RunnerNumber="9" NameE="DIAMOND SOARS" NameC="鑽飾翱翔" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
+<Tip Position="3" RunnerNumber="6" NameE="SHANGHAI STYLE" NameC="有派頭" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
+<Tip Position="4" RunnerNumber="4" NameE="COLOURFUL PRINCE" NameC="顏色王子" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
 </race>
 <race num="6">
-<Tip Position="1" RunnerNumber="4" NameE="JUDY'S GREAT" NameC="荷花之星" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="2" RunnerNumber="6" NameE="DIAMOND FLARE" NameC="鑽飾璀璨" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
-<Tip Position="3" RunnerNumber="8" NameE="SPEEDY SMARTIE" NameC="伶俐驫駒" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
-<Tip Position="4" RunnerNumber="10" NameE="NISHIKADO" NameC="大千世界" JockeyNameE="M L Yeung" JockeyNameC="楊明綸"/>
+<Tip Position="1" RunnerNumber="4" NameE="JUDY'S GREAT" NameC="荷花之星" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
+<Tip Position="2" RunnerNumber="8" NameE="SPEEDY SMARTIE" NameC="伶俐驫駒" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
+<Tip Position="3" RunnerNumber="10" NameE="NISHIKADO" NameC="大千世界" JockeyNameE="M L Yeung" JockeyNameC="楊明綸"/>
+<Tip Position="4" RunnerNumber="1" NameE="JOLLY COMPANION" NameC="良駒好友" JockeyNameE="E C W Wong" JockeyNameC="黃智弘"/>
 </race>
 <race num="7">
 <Tip Position="1" RunnerNumber="10" NameE="LADY'S CHOICE" NameC="愛馬善" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
 <Tip Position="2" RunnerNumber="4" NameE="FIERY DIAMOND" NameC="火鑽" JockeyNameE="E C W Wong" JockeyNameC="黃智弘"/>
-<Tip Position="3" RunnerNumber="3" NameE="MAGNIAC" NameC="怡勁力" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="3" RunnerNumber="3" NameE="MAGNIAC" NameC="怡勁力" JockeyNameE="H Bowman" JockeyNameC="布文"/>
 <Tip Position="4" RunnerNumber="2" NameE="CAPITAL DELIGHT" NameC="喜至寶" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
 </race>
 <race num="8">
