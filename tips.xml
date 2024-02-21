@@ -22,11 +22,11 @@
 <race num="4">
 <Tip Position="1" RunnerNumber="4" NameE="KURPANY" NameC="精靈勇士" JockeyNameE="E C W Wong" JockeyNameC="黃智弘"/>
 <Tip Position="2" RunnerNumber="8" NameE="TOMODACHI KOKOROE" NameC="好友心得" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
-<Tip Position="3" RunnerNumber="3" NameE="SON PAK FU" NameC="小霸王" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
-<Tip Position="4" RunnerNumber="7" NameE="BEAUTY CHARGE" NameC="美麗奔馳" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
+<Tip Position="3" RunnerNumber="7" NameE="BEAUTY CHARGE" NameC="美麗奔馳" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
+<Tip Position="4" RunnerNumber="3" NameE="SON PAK FU" NameC="小霸王" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
 </race>
 <race num="5">
-<Tip Position="1" RunnerNumber="3" NameE="OWNERS' PRAISE" NameC="馬主雄風" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
+<Tip Position="1" RunnerNumber="3" NameE="OWNERS' PRAISE" NameC="馬主雄風" JockeyNameE="K De Melo" JockeyNameC="董明朗"/>
 <Tip Position="2" RunnerNumber="11" NameE="SUNNY BABY" NameC="樂天派" JockeyNameE="M L Yeung" JockeyNameC="楊明綸"/>
 <Tip Position="3" RunnerNumber="12" NameE="TURTLE AGAIN" NameC="滿載歸來" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
 <Tip Position="4" RunnerNumber="1" NameE="PRECISE EXPRESS" NameC="精準快車" JockeyNameE="B Thompson" JockeyNameC="湯普新"/>
@@ -39,8 +39,8 @@
 </race>
 <race num="7">
 <Tip Position="1" RunnerNumber="12" NameE="RED HARE KING" NameC="赤兔猴王" JockeyNameE="A Badel" JockeyNameC="巴度"/>
-<Tip Position="2" RunnerNumber="9" NameE="LOVERO" NameC="開心勇駒" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
-<Tip Position="3" RunnerNumber="2" NameE="PRIME MINISTER" NameC="總理" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
+<Tip Position="2" RunnerNumber="2" NameE="PRIME MINISTER" NameC="總理" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
+<Tip Position="3" RunnerNumber="9" NameE="LOVERO" NameC="開心勇駒" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
 <Tip Position="4" RunnerNumber="8" NameE="ESCAPE ROUTE" NameC="波爾多" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
 </race>
 <race num="8">
