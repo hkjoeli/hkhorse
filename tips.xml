@@ -15,15 +15,15 @@
 </race>
 <race num="3">
 <Tip Position="1" RunnerNumber="10" NameE="LESS IS MORE" NameC="小小吾駒" JockeyNameE="H Bowman" JockeyNameC="布文"/>
-<Tip Position="2" RunnerNumber="6" NameE="LIFELINE EXPRESS" NameC="健康快車" JockeyNameE="R Moore" JockeyNameC="莫雅"/>
-<Tip Position="3" RunnerNumber="8" NameE="SILVER SPURS" NameC="銀刺勇士" JockeyNameE="B Shinn" JockeyNameC="薛恩"/>
+<Tip Position="2" RunnerNumber="8" NameE="SILVER SPURS" NameC="銀刺勇士" JockeyNameE="B Shinn" JockeyNameC="薛恩"/>
+<Tip Position="3" RunnerNumber="6" NameE="LIFELINE EXPRESS" NameC="健康快車" JockeyNameE="R Moore" JockeyNameC="莫雅"/>
 <Tip Position="4" RunnerNumber="2" NameE="ALWAYS FLUKE" NameC="果然僥倖" JockeyNameE="W Buick" JockeyNameC="布宜學"/>
 </race>
 <race num="4">
 <Tip Position="1" RunnerNumber="4" NameE="BEER PALACE" NameC="今朝更好" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
 <Tip Position="2" RunnerNumber="2" NameE="MISTER DAPPER" NameC="英駿飛駒" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
 <Tip Position="3" RunnerNumber="11" NameE="STARSHIP EIGHTY" NameC="活力多多" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
-<Tip Position="4" RunnerNumber="1" NameE="MARADO" NameC="鹿鼎記" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
+<Tip Position="4" RunnerNumber="10" NameE="JOYFUL PROSPERITY" NameC="富喜來" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
 </race>
 <race num="5">
 <Tip Position="1" RunnerNumber="5" NameE="PRAWNS ELEVEN" NameC="多利彩駒" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
