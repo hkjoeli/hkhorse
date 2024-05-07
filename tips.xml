@@ -9,9 +9,9 @@
 </race>
 <race num="2">
 <Tip Position="1" RunnerNumber="7" NameE="FLYING PHANTOM" NameC="旋風飛颺" JockeyNameE="A Badel" JockeyNameC="巴度"/>
-<Tip Position="2" RunnerNumber="11" NameE="COLONEL" NameC="上校" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
-<Tip Position="3" RunnerNumber="10" NameE="LUCKY QUALITY" NameC="戰鬥英雄" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
-<Tip Position="4" RunnerNumber="6" NameE="MR VALIANT" NameC="必先生" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
+<Tip Position="2" RunnerNumber="10" NameE="LUCKY QUALITY" NameC="戰鬥英雄" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
+<Tip Position="3" RunnerNumber="11" NameE="COLONEL" NameC="上校" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
+<Tip Position="4" RunnerNumber="8" NameE="LEAN MASTER" NameC="精益大師" JockeyNameE="E C W Wong" JockeyNameC="黃智弘"/>
 </race>
 <race num="3">
 <Tip Position="1" RunnerNumber="2" NameE="MEDIC ELITE" NameC="無敵精英" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
@@ -23,7 +23,7 @@
 <Tip Position="1" RunnerNumber="11" NameE="VALHALLA" NameC="九秒九" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
 <Tip Position="2" RunnerNumber="9" NameE="VULCANUS" NameC="星火燎原" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
 <Tip Position="3" RunnerNumber="5" NameE="ACE POWER" NameC="祥勝力駒" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
-<Tip Position="4" RunnerNumber="4" NameE="VANTASTIC CHOICE" NameC="勝利神駒" JockeyNameE="E C W Wong" JockeyNameC="黃智弘"/>
+<Tip Position="4" RunnerNumber="10" NameE="DAN ATTACK" NameC="花好月盈" JockeyNameE="A Hamelin" JockeyNameC="賀銘年"/>
 </race>
 <race num="5">
 <Tip Position="1" RunnerNumber="4" NameE="SAVVY CHIC" NameC="駿寶" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
@@ -34,8 +34,8 @@
 <race num="6">
 <Tip Position="1" RunnerNumber="4" NameE="PRECISE EXPRESS" NameC="精準快車" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
 <Tip Position="2" RunnerNumber="8" NameE="MR ALADDIN" NameC="同寶寶" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="3" RunnerNumber="6" NameE="FLYING SILVER" NameC="躡景追飛" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
-<Tip Position="4" RunnerNumber="1" NameE="ESCAPE ROUTE" NameC="波爾多" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
+<Tip Position="3" RunnerNumber="1" NameE="ESCAPE ROUTE" NameC="波爾多" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
+<Tip Position="4" RunnerNumber="6" NameE="FLYING SILVER" NameC="躡景追飛" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
 </race>
 <race num="7">
 <Tip Position="1" RunnerNumber="1" NameE="HAMERON" NameC="博望坡" JockeyNameE="H Bowman" JockeyNameC="布文"/>
@@ -53,7 +53,7 @@
 <Tip Position="1" RunnerNumber="2" NameE="SPORTS LEGEND" NameC="川河動駒" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
 <Tip Position="2" RunnerNumber="4" NameE="WINGS OF WAR" NameC="撼天鐵翼" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
 <Tip Position="3" RunnerNumber="8" NameE="SUPER JOY N FUN" NameC="時尚風趣" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="4" RunnerNumber="5" NameE="SUPER FORTUNE" NameC="連連有盈" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
+<Tip Position="4" RunnerNumber="7" NameE="LUCKY ARCHANGEL" NameC="幸運旅程" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
 </race>
 <!--
 <trackside text=""/>
