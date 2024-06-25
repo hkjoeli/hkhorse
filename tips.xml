@@ -11,7 +11,7 @@
 <Tip Position="1" RunnerNumber="5" NameE="HAYDAY" NameC="千杯敬典" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
 <Tip Position="2" RunnerNumber="7" NameE="FAST AS ROCKET" NameC="快趣神舟" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
 <Tip Position="3" RunnerNumber="12" NameE="MULTIDARLING" NameC="萬事靚" JockeyNameE="A Badel" JockeyNameC="巴度"/>
-<Tip Position="4" RunnerNumber="6" NameE="COSMO NAVIGATOR" NameC="宇宙動力" JockeyNameE="A Hamelin" JockeyNameC="賀銘年"/>
+<Tip Position="4" RunnerNumber="10" NameE="SO AWESOME" NameC="進優自在" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
 </race>
 <race num="3">
 <Tip Position="1" RunnerNumber="10" NameE="GREAT ACHIEVER" NameC="共創成果" JockeyNameE="M L Yeung" JockeyNameC="楊明綸"/>
@@ -33,14 +33,14 @@
 </race>
 <race num="6">
 <Tip Position="1" RunnerNumber="5" NameE="PACKING HERMOD" NameC="包裝天將" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="2" RunnerNumber="8" NameE="WOOD ON FIRE" NameC="木火同明" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
-<Tip Position="3" RunnerNumber="11" NameE="MR GOOD VIBES" NameC="駿先生" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
-<Tip Position="4" RunnerNumber="1" NameE="MAGIC PHOENIX" NameC="其藝先鋒" JockeyNameE="H Bowman" JockeyNameC="布文"/>
+<Tip Position="2" RunnerNumber="2" NameE="PRIME MORTAR" NameC="砂漿金剛" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
+<Tip Position="3" RunnerNumber="8" NameE="WOOD ON FIRE" NameC="木火同明" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
+<Tip Position="4" RunnerNumber="11" NameE="MR GOOD VIBES" NameC="駿先生" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
 </race>
 <race num="7">
-<Tip Position="1" RunnerNumber="1" NameE="SUPERB CAPITALIST" NameC="八駿巨昇" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
-<Tip Position="2" RunnerNumber="3" NameE="COPARTNER PRANCE" NameC="合夥奔馳" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="3" RunnerNumber="2" NameE="COLOURFUL EMPEROR" NameC="顏色大皇" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
+<Tip Position="1" RunnerNumber="3" NameE="COPARTNER PRANCE" NameC="合夥奔馳" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="2" RunnerNumber="10" NameE="REWARD SMILE" NameC="明心知遇" JockeyNameE="A Badel" JockeyNameC="巴度"/>
+<Tip Position="3" RunnerNumber="1" NameE="SUPERB CAPITALIST" NameC="八駿巨昇" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
 <Tip Position="4" RunnerNumber="9" NameE="DREAM WINNER" NameC="實現夢想" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
 </race>
 <race num="8">
