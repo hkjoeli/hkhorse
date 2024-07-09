@@ -3,8 +3,8 @@
 <meeting date="10-07-2024" venue="HV" title="心水提供"/>
 <race num="1">
 <Tip Position="1" RunnerNumber="6" NameE="JAZZ CLUB" NameC="智勁駒" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
-<Tip Position="2" RunnerNumber="8" NameE="MULTIMORE" NameC="萬事有" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="3" RunnerNumber="10" NameE="GOODMANSHIP" NameC="友誼至佳" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
+<Tip Position="2" RunnerNumber="10" NameE="GOODMANSHIP" NameC="友誼至佳" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
+<Tip Position="3" RunnerNumber="8" NameE="MULTIMORE" NameC="萬事有" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
 <Tip Position="4" RunnerNumber="7" NameE="NOBLE ONE" NameC="魅力一丁" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
 </race>
 <race num="2">
@@ -44,10 +44,10 @@
 <Tip Position="4" RunnerNumber="12" NameE="LAPRAS" NameC="背背龍" JockeyNameE="K De Melo" JockeyNameC="董明朗"/>
 </race>
 <race num="8">
-<Tip Position="1" RunnerNumber="8" NameE="KA YING CHEER" NameC="嘉應喝彩" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
-<Tip Position="2" RunnerNumber="3" NameE="YOUTHFUL SPIRITS" NameC="年少多好" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="3" RunnerNumber="2" NameE="YOUTHFUL DEAL" NameC="年少有威" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
-<Tip Position="4" RunnerNumber="6" NameE="HAPPY UNITED" NameC="萬眾開心" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
+<Tip Position="1" RunnerNumber="3" NameE="YOUTHFUL SPIRITS" NameC="年少多好" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="2" RunnerNumber="8" NameE="KA YING CHEER" NameC="嘉應喝彩" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
+<Tip Position="3" RunnerNumber="11" NameE="RICH HORSE" NameC="富貴駒" JockeyNameE="B Thompson" JockeyNameC="湯普新"/>
+<Tip Position="4" RunnerNumber="7" NameE="RED ELEGANCE" NameC="紅逸舍" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
 </race>
 <race num="9">
 <Tip Position="1" RunnerNumber="3" NameE="SUPREME AGILITY" NameC="奮鬥心" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
