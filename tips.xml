@@ -15,14 +15,14 @@
 </race>
 <race num="3">
 <Tip Position="1" RunnerNumber="1" NameE="INVINCIBLE MISSILE" NameC="聰明導彈" JockeyNameE="H Bowman" JockeyNameC="布文"/>
-<Tip Position="2" RunnerNumber="3" NameE="AROMATICA" NameC="香飄萬里" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
-<Tip Position="3" RunnerNumber="7" NameE="PERFECT PEACH" NameC="桃花多" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="2" RunnerNumber="7" NameE="PERFECT PEACH" NameC="桃花多" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="3" RunnerNumber="3" NameE="AROMATICA" NameC="香飄萬里" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
 <Tip Position="4" RunnerNumber="11" NameE="TSUEN WAN GLORY" NameC="荃程路通" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
 </race>
 <race num="4">
 <Tip Position="1" RunnerNumber="3" NameE="FOREVER GLORIOUS" NameC="龍船快" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
-<Tip Position="2" RunnerNumber="2" NameE="AFFORDABLE" NameC="亞福得寶" JockeyNameE="A Hamelin" JockeyNameC="賀銘年"/>
-<Tip Position="3" RunnerNumber="4" NameE="VOLCANIC SPARK" NameC="風火恆雲" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
+<Tip Position="2" RunnerNumber="4" NameE="VOLCANIC SPARK" NameC="風火恆雲" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
+<Tip Position="3" RunnerNumber="2" NameE="AFFORDABLE" NameC="亞福得寶" JockeyNameE="A Hamelin" JockeyNameC="賀銘年"/>
 <Tip Position="4" RunnerNumber="10" NameE="STORM WINNER" NameC="風雷暴" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
 </race>
 <race num="5">
@@ -34,7 +34,7 @@
 <race num="6">
 <Tip Position="1" RunnerNumber="13" NameE="AFFIRM" NameC="綠族威" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
 <Tip Position="2" RunnerNumber="1" NameE="OWNERS' PRAISE" NameC="馬主雄風" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
-<Tip Position="3" RunnerNumber="12" NameE="HAPPY DAILY" NameC="天天得樂" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
+<Tip Position="3" RunnerNumber="8" NameE="DRAGON FOUR SEAS" NameC="騰龍四海" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
 <Tip Position="4" RunnerNumber="11" NameE="THE AZURE" NameC="追風" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
 </race>
 <race num="7">
@@ -57,8 +57,8 @@
 </race>
 <race num="10">
 <Tip Position="1" RunnerNumber="1" NameE="HOLY LAKE" NameC="好勁力" JockeyNameE="A Hamelin" JockeyNameC="賀銘年"/>
-<Tip Position="2" RunnerNumber="6" NameE="BRIGHT INHERITANCE" NameC="光明傳承" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
-<Tip Position="3" RunnerNumber="8" NameE="THE HEIR" NameC="星運少爵" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
+<Tip Position="2" RunnerNumber="8" NameE="THE HEIR" NameC="星運少爵" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
+<Tip Position="3" RunnerNumber="6" NameE="BRIGHT INHERITANCE" NameC="光明傳承" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
 <Tip Position="4" RunnerNumber="3" NameE="YOUNG ACHIEVER" NameC="競駿飛翔" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
 </race>
 <race num="11">
