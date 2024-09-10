@@ -3,8 +3,8 @@
 <meeting date="11-09-2024" venue="HV" title="心水提供"/>
 <race num="1">
 <Tip Position="1" RunnerNumber="8" NameE="VIVA A LA" NameC="怪獸豪俠" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
-<Tip Position="2" RunnerNumber="3" NameE="SUPER EAGLE" NameC="宏才" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="3" RunnerNumber="9" NameE="WIND SPEEDER" NameC="前風" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
+<Tip Position="2" RunnerNumber="9" NameE="WIND SPEEDER" NameC="前風" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
+<Tip Position="3" RunnerNumber="3" NameE="SUPER EAGLE" NameC="宏才" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
 <Tip Position="4" RunnerNumber="4" NameE="HIGH RISE POWER" NameC="高明力量" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
 </race>
 <race num="2">
@@ -29,7 +29,7 @@
 <Tip Position="1" RunnerNumber="5" NameE="LESS IS MORE" NameC="小小吾駒" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
 <Tip Position="2" RunnerNumber="3" NameE="SERGEANT PEPPER" NameC="胡椒軍曹" JockeyNameE="E C W Wong" JockeyNameC="黃智弘"/>
 <Tip Position="3" RunnerNumber="1" NameE="MA COMET" NameC="極光彗星" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
-<Tip Position="4" RunnerNumber="7" NameE="SWEET DIAMOND" NameC="鑽石寶寶" JockeyNameE="A Badel" JockeyNameC="巴度"/>
+<Tip Position="4" RunnerNumber="6" NameE="YEE CHEONG SPIRIT" NameC="怡昌精神" JockeyNameE="K H Chan" JockeyNameC="陳嘉熙"/>
 </race>
 <race num="6">
 <Tip Position="1" RunnerNumber="3" NameE="VIVA HUNTER" NameC="怪獸奇兵" JockeyNameE="E C W Wong" JockeyNameC="黃智弘"/>
@@ -39,9 +39,9 @@
 </race>
 <race num="7">
 <Tip Position="1" RunnerNumber="8" NameE="GALVANIC" NameC="加非凡" JockeyNameE="E C W Wong" JockeyNameC="黃智弘"/>
-<Tip Position="2" RunnerNumber="7" NameE="COMET SPLENDIDO" NameC="燊榮之星" JockeyNameE="K H Chan" JockeyNameC="陳嘉熙"/>
-<Tip Position="3" RunnerNumber="9" NameE="GLORIOUS JOURNEY" NameC="本領非凡" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
-<Tip Position="4" RunnerNumber="11" NameE="I CAN" NameC="我做到" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
+<Tip Position="2" RunnerNumber="9" NameE="GLORIOUS JOURNEY" NameC="本領非凡" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
+<Tip Position="3" RunnerNumber="7" NameE="COMET SPLENDIDO" NameC="燊榮之星" JockeyNameE="K H Chan" JockeyNameC="陳嘉熙"/>
+<Tip Position="4" RunnerNumber="1" NameE="HAMERON" NameC="博望坡" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
 </race>
 <race num="8">
 <Tip Position="1" RunnerNumber="10" NameE="KA YING CHEER" NameC="嘉應喝彩" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
