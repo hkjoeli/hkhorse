@@ -3,15 +3,15 @@
 <meeting date="15-09-2024" venue="ST" title="心水提供"/>
 <race num="1">
 <Tip Position="1" RunnerNumber="3" NameE="FAMILY JEWEL" NameC="共享富裕" JockeyNameE="H Bowman" JockeyNameC="布文"/>
-<Tip Position="2" RunnerNumber="9" NameE="SPECIAL HEDGE" NameC="精算特殊" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
-<Tip Position="3" RunnerNumber="8" NameE="SOARING BRONCO" NameC="神駒馬靈" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
+<Tip Position="2" RunnerNumber="8" NameE="SOARING BRONCO" NameC="神駒馬靈" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
+<Tip Position="3" RunnerNumber="9" NameE="SPECIAL HEDGE" NameC="精算特殊" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
 <Tip Position="4" RunnerNumber="5" NameE="MISTER DAPPER" NameC="英駿飛駒" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
 </race>
 <race num="2">
 <Tip Position="1" RunnerNumber="12" NameE="HO HO STAR" NameC="可愛新星" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
 <Tip Position="2" RunnerNumber="9" NameE="SUPER JOY" NameC="最多歡笑" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
-<Tip Position="3" RunnerNumber="6" NameE="DRAGON DELIGHT" NameC="喜勝威龍" JockeyNameE="E C W Wong" JockeyNameC="黃智弘"/>
-<Tip Position="4" RunnerNumber="7" NameE="EXCELLENT DADDY" NameC="逆市奇爸" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
+<Tip Position="3" RunnerNumber="7" NameE="EXCELLENT DADDY" NameC="逆市奇爸" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
+<Tip Position="4" RunnerNumber="6" NameE="DRAGON DELIGHT" NameC="喜勝威龍" JockeyNameE="E C W Wong" JockeyNameC="黃智弘"/>
 </race>
 <race num="3">
 <Tip Position="1" RunnerNumber="10" NameE="AFFIRM" NameC="綠族威" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
@@ -20,9 +20,9 @@
 <Tip Position="4" RunnerNumber="11" NameE="URBAN TRIUMPH" NameC="全城帶勝" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
 </race>
 <race num="4">
-<Tip Position="1" RunnerNumber="5" NameE="CERVIN" NameC="馬特峰" JockeyNameE="H Bowman" JockeyNameC="布文"/>
-<Tip Position="2" RunnerNumber="11" NameE="MEDIC ELITE" NameC="無敵精英" JockeyNameE="A Hamelin" JockeyNameC="賀銘年"/>
-<Tip Position="3" RunnerNumber="2" NameE="PERFECT PEACH" NameC="桃花多" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
+<Tip Position="1" RunnerNumber="11" NameE="MEDIC ELITE" NameC="無敵精英" JockeyNameE="A Hamelin" JockeyNameC="賀銘年"/>
+<Tip Position="2" RunnerNumber="2" NameE="PERFECT PEACH" NameC="桃花多" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
+<Tip Position="3" RunnerNumber="5" NameE="CERVIN" NameC="馬特峰" JockeyNameE="H Bowman" JockeyNameC="布文"/>
 <Tip Position="4" RunnerNumber="1" NameE="CIRCUIT BLAZING" NameC="綫路通明" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
 </race>
 <race num="5">
@@ -38,10 +38,10 @@
 <Tip Position="4" RunnerNumber="1" NameE="AMAZING FUN" NameC="最好玩" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
 </race>
 <race num="7">
-<Tip Position="1" RunnerNumber="2" NameE="TOP PEAK" NameC="翹峯" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
+<Tip Position="1" RunnerNumber="3" NameE="SATIRICAL GLORY" NameC="鐵三角" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
 <Tip Position="2" RunnerNumber="5" NameE="MISSION VOICE" NameC="妙算高歌" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
-<Tip Position="3" RunnerNumber="3" NameE="SATIRICAL GLORY" NameC="鐵三角" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
-<Tip Position="4" RunnerNumber="9" NameE="CHATER GOLD" NameC="金獅勝將" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
+<Tip Position="3" RunnerNumber="1" NameE="HARMONY GALAXY" NameC="香港神駒" JockeyNameE="P N Wong" JockeyNameC="黃寶妮"/>
+<Tip Position="4" RunnerNumber="4" NameE="DEVAS TWELVE" NameC="十二神將" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
 </race>
 <race num="8">
 <Tip Position="1" RunnerNumber="1" NameE="CAPITAL DELIGHT" NameC="喜至寶" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
