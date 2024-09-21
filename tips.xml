@@ -39,26 +39,26 @@
 </race>
 <race num="7">
 <Tip Position="1" RunnerNumber="4" NameE="PACKING TREADMILL" NameC="包裝必勝" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
-<Tip Position="2" RunnerNumber="6" NameE="CHIU CHOW SPIRIT" NameC="潮州精神" JockeyNameE="A Badel" JockeyNameC="巴度"/>
-<Tip Position="3" RunnerNumber="2" NameE="FLYING ACE" NameC="威力奔騰" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
+<Tip Position="2" RunnerNumber="2" NameE="FLYING ACE" NameC="威力奔騰" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
+<Tip Position="3" RunnerNumber="6" NameE="CHIU CHOW SPIRIT" NameC="潮州精神" JockeyNameE="A Badel" JockeyNameC="巴度"/>
 <Tip Position="4" RunnerNumber="3" NameE="HEALTHY HAPPY" NameC="健康愉快" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
 </race>
 <race num="8">
-<Tip Position="1" RunnerNumber="7" NameE="MASTER MASTERMIND" NameC="智智多寶" JockeyNameE="H Bowman" JockeyNameC="布文"/>
-<Tip Position="2" RunnerNumber="8" NameE="BEER PALACE" NameC="今朝更好" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
+<Tip Position="1" RunnerNumber="8" NameE="BEER PALACE" NameC="今朝更好" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
+<Tip Position="2" RunnerNumber="7" NameE="MASTER MASTERMIND" NameC="智智多寶" JockeyNameE="H Bowman" JockeyNameC="布文"/>
 <Tip Position="3" RunnerNumber="5" NameE="HIGHLAND RAHY" NameC="智勇名駒" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
 <Tip Position="4" RunnerNumber="1" NameE="CALIFORNIA DEEPLY" NameC="加州得力" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
 </race>
 <race num="9">
 <Tip Position="1" RunnerNumber="5" NameE="LUCY IN THE SKY" NameC="鑽石星空" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
 <Tip Position="2" RunnerNumber="1" NameE="WUNDERBAR" NameC="氣勢" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="3" RunnerNumber="6" NameE="GOLDEN EMPIRE" NameC="金發盛世" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
-<Tip Position="4" RunnerNumber="3" NameE="SUGAR SUGAR" NameC="鈁糖武士" JockeyNameE="H Bowman" JockeyNameC="布文"/>
+<Tip Position="3" RunnerNumber="3" NameE="SUGAR SUGAR" NameC="鈁糖武士" JockeyNameE="H Bowman" JockeyNameC="布文"/>
+<Tip Position="4" RunnerNumber="6" NameE="GOLDEN EMPIRE" NameC="金發盛世" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
 </race>
 <race num="10">
 <Tip Position="1" RunnerNumber="11" NameE="FULL CREDIT" NameC="同祥和順" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
-<Tip Position="2" RunnerNumber="2" NameE="COPARTNER PRANCE" NameC="合夥奔馳" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="3" RunnerNumber="1" NameE="SON PAK FU" NameC="小霸王" JockeyNameE="E C W Wong" JockeyNameC="黃智弘"/>
+<Tip Position="2" RunnerNumber="1" NameE="SON PAK FU" NameC="小霸王" JockeyNameE="E C W Wong" JockeyNameC="黃智弘"/>
+<Tip Position="3" RunnerNumber="2" NameE="COPARTNER PRANCE" NameC="合夥奔馳" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
 <Tip Position="4" RunnerNumber="6" NameE="YOUNG CHAMPION" NameC="競駿輝煌" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
 </race>
 <!--
