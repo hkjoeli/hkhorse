@@ -20,10 +20,10 @@
 <Tip Position="4" RunnerNumber="3" NameE="DENFIELD" NameC="勇威神駒" JockeyNameE="H Bowman" JockeyNameC="布文"/>
 </race>
 <race num="4">
-<Tip Position="1" RunnerNumber="4" NameE="TURIN WARRIOR" NameC="都靈勇士" JockeyNameE="H Bowman" JockeyNameC="布文"/>
-<Tip Position="2" RunnerNumber="9" NameE="GALE SAGA" NameC="旋風傳奇" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
-<Tip Position="3" RunnerNumber="8" NameE="FOREMOST TEDDY" NameC="領創動力" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="4" RunnerNumber="2" NameE="SNOWALOT" NameC="錢多多" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
+<Tip Position="1" RunnerNumber="6" NameE="CAN'T GO WONG" NameC="獎星" JockeyNameE="A Badel" JockeyNameC="巴度"/>
+<Tip Position="2" RunnerNumber="1" NameE="SMART CITY" NameC="君智盛" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
+<Tip Position="3" RunnerNumber="10" NameE="SUPER BABY" NameC="超勁寶寶" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
+<Tip Position="4" RunnerNumber="8" NameE="FOREMOST TEDDY" NameC="領創動力" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
 </race>
 <race num="5">
 <Tip Position="1" RunnerNumber="3" NameE="SAMARKAND" NameC="建測羣英" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
@@ -45,9 +45,9 @@
 </race>
 <race num="8">
 <Tip Position="1" RunnerNumber="9" NameE="ARMOUR EAGLE" NameC="穿甲鷹" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
-<Tip Position="2" RunnerNumber="7" NameE="HEALTHY HEALTHY" NameC="添開心" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
+<Tip Position="2" RunnerNumber="12" NameE="SERGEANT PEPPER" NameC="胡椒軍曹" JockeyNameE="A Badel" JockeyNameC="巴度"/>
 <Tip Position="3" RunnerNumber="2" NameE="ATOMIC FORCE" NameC="巴薩諾瓦" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
-<Tip Position="4" RunnerNumber="4" NameE="O'LINER" NameC="縱橫萬里" JockeyNameE="H Bowman" JockeyNameC="布文"/>
+<Tip Position="4" RunnerNumber="8" NameE="HEROIC MASTER" NameC="英雄豪邁" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
 </race>
 <!--
 <trackside text=""/>
