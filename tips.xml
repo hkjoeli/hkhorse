@@ -61,7 +61,5 @@
 <Tip Position="3" RunnerNumber="7" NameE="CHILL CHIBI" NameC="超超比" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
 <Tip Position="4" RunnerNumber="10" NameE="RED HARE KING" NameC="赤兔猴王" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
 </race>
-<!--
-<trackside text=""/>
--->
+<trackside text="S1 提供 R1 1,5 R2 2,9 R3 9,13 R4 12,13 R5 2,9 R6 3,8 R7 7,11 R8 6,11"/>
 </tips>
