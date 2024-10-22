@@ -16,8 +16,8 @@
 <race num="3">
 <Tip Position="1" RunnerNumber="3" NameE="ONLY U" NameC="銳一" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
 <Tip Position="2" RunnerNumber="8" NameE="MILES AWAY" NameC="千里如飛" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
-<Tip Position="3" RunnerNumber="7" NameE="LUCKY BANNER" NameC="歡喜福星" JockeyNameE="E C W Wong" JockeyNameC="黃智弘"/>
-<Tip Position="4" RunnerNumber="11" NameE="PERFECT PEACH" NameC="桃花多" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
+<Tip Position="3" RunnerNumber="1" NameE="GOR MO TUEN" NameC="歌舞團" JockeyNameE="B Thompson" JockeyNameC="湯普新"/>
+<Tip Position="4" RunnerNumber="7" NameE="LUCKY BANNER" NameC="歡喜福星" JockeyNameE="E C W Wong" JockeyNameC="黃智弘"/>
 </race>
 <race num="4">
 <Tip Position="1" RunnerNumber="11" NameE="RELIABLE PROFIT" NameC="堅有利" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
@@ -29,12 +29,12 @@
 <Tip Position="1" RunnerNumber="4" NameE="FUN N FUN TOGETHER" NameC="天天耍樂" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
 <Tip Position="2" RunnerNumber="8" NameE="HINOKAMI KAGURA" NameC="火神神樂" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
 <Tip Position="3" RunnerNumber="3" NameE="SHANGHAI STYLE" NameC="有派頭" JockeyNameE="E C W Wong" JockeyNameC="黃智弘"/>
-<Tip Position="4" RunnerNumber="10" NameE="DAILY TROPHY" NameC="日日獎" JockeyNameE="B Thompson" JockeyNameC="湯普新"/>
+<Tip Position="4" RunnerNumber="9" NameE="MR VALIANT" NameC="必先生" JockeyNameE="P N Wong" JockeyNameC="黃寶妮"/>
 </race>
 <race num="6">
-<Tip Position="1" RunnerNumber="7" NameE="FLYING DRAGON" NameC="龍騰飛翔" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
-<Tip Position="2" RunnerNumber="1" NameE="GOLDEN LONG" NameC="郎善好施" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
-<Tip Position="3" RunnerNumber="9" NameE="ROBOT KNIGHT" NameC="機械騎士" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
+<Tip Position="1" RunnerNumber="1" NameE="GOLDEN LONG" NameC="郎善好施" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
+<Tip Position="2" RunnerNumber="9" NameE="ROBOT KNIGHT" NameC="機械騎士" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
+<Tip Position="3" RunnerNumber="7" NameE="FLYING DRAGON" NameC="龍騰飛翔" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
 <Tip Position="4" RunnerNumber="11" NameE="COSMO NAVIGATOR" NameC="宇宙動力" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
 </race>
 <race num="7">
