@@ -14,22 +14,22 @@
 <Tip Position="4" RunnerNumber="5" NameE="RUNNING AHEAD" NameC="領頭先駒" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
 </race>
 <race num="3">
-<Tip Position="1" RunnerNumber="10" NameE="WORLD HERO" NameC="環球英雄" JockeyNameE="A Badel" JockeyNameC="巴度"/>
-<Tip Position="2" RunnerNumber="5" NameE="CIRCUIT DUFFY" NameC="綫路達飛" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="1" RunnerNumber="5" NameE="CIRCUIT DUFFY" NameC="綫路達飛" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="2" RunnerNumber="10" NameE="WORLD HERO" NameC="環球英雄" JockeyNameE="A Badel" JockeyNameC="巴度"/>
 <Tip Position="3" RunnerNumber="9" NameE="TELECOM POWER" NameC="電訊驕陽" JockeyNameE="K De Melo" JockeyNameC="董明朗"/>
 <Tip Position="4" RunnerNumber="1" NameE="HIGH PERCENTAGE" NameC="高份數" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
 </race>
 <race num="4">
 <Tip Position="1" RunnerNumber="11" NameE="PLENTIFUL" NameC="同滿滿" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
-<Tip Position="2" RunnerNumber="4" NameE="DAN ATTACK" NameC="花好月盈" JockeyNameE="H Bowman" JockeyNameC="布文"/>
-<Tip Position="3" RunnerNumber="8" NameE="E GLORY" NameC="電子精彩" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
+<Tip Position="2" RunnerNumber="8" NameE="E GLORY" NameC="電子精彩" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
+<Tip Position="3" RunnerNumber="4" NameE="DAN ATTACK" NameC="花好月盈" JockeyNameE="H Bowman" JockeyNameC="布文"/>
 <Tip Position="4" RunnerNumber="9" NameE="DIAMOND SOARS" NameC="鑽飾翱翔" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
 </race>
 <race num="5">
 <Tip Position="1" RunnerNumber="1" NameE="ENJOY GOLF" NameC="快樂高球" JockeyNameE="H Bowman" JockeyNameC="布文"/>
 <Tip Position="2" RunnerNumber="5" NameE="SIXTH GENERATION" NameC="陸知" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
 <Tip Position="3" RunnerNumber="2" NameE="CAPITAL LEGEND" NameC="川河首駒" JockeyNameE="E C W Wong" JockeyNameC="黃智弘"/>
-<Tip Position="4" RunnerNumber="11" NameE="NINJA DERBY" NameC="瀧澤飛駒" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
+<Tip Position="4" RunnerNumber="3" NameE="HARMONY GALAXY" NameC="香港神駒" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
 </race>
 <race num="6">
 <Tip Position="1" RunnerNumber="1" NameE="HAPPY DAY" NameC="仁仁之寶" JockeyNameE="A Badel" JockeyNameC="巴度"/>
