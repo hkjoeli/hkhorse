@@ -4,8 +4,8 @@
 <race num="1">
 <Tip Position="1" RunnerNumber="12" NameE="RED MAVERICK" NameC="雄昇勇士" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
 <Tip Position="2" RunnerNumber="10" NameE="MEDIC ELITE" NameC="無敵精英" JockeyNameE="A Badel" JockeyNameC="巴度"/>
-<Tip Position="3" RunnerNumber="2" NameE="TRIPLE BLISS" NameC="三生福佑" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
-<Tip Position="4" RunnerNumber="11" NameE="SUPERB MOVE" NameC="着着領先" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
+<Tip Position="3" RunnerNumber="11" NameE="SUPERB MOVE" NameC="着着領先" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
+<Tip Position="4" RunnerNumber="2" NameE="TRIPLE BLISS" NameC="三生福佑" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
 </race>
 <race num="2">
 <Tip Position="1" RunnerNumber="1" NameE="HARMONY GALAXY" NameC="香港神駒" JockeyNameE="J McDonald" JockeyNameC="麥道朗"/>
@@ -29,7 +29,7 @@
 <Tip Position="1" RunnerNumber="2" NameE="STORMING DRAGON" NameC="勇霸龍" JockeyNameE="J McDonald" JockeyNameC="麥道朗"/>
 <Tip Position="2" RunnerNumber="6" NameE="SPICY SPANGLE" NameC="辣得金" JockeyNameE="E C W Wong" JockeyNameC="黃智弘"/>
 <Tip Position="3" RunnerNumber="5" NameE="MACANESE MASTER" NameC="銀亮濠俠" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
-<Tip Position="4" RunnerNumber="1" NameE="TRIUMPHANT MORE" NameC="凱旋升" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="4" RunnerNumber="8" NameE="CAMP FIRE" NameC="天火同心" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
 </race>
 <race num="6">
 <Tip Position="1" RunnerNumber="5" NameE="TELECOM DRAGON" NameC="電訊龍駒" JockeyNameE="H Bowman" JockeyNameC="布文"/>
