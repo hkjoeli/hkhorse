@@ -17,7 +17,7 @@
 <Tip Position="1" RunnerNumber="10" NameE="DRAGON DELIGHT" NameC="喜勝威龍" JockeyNameE="E C W Wong" JockeyNameC="黃智弘"/>
 <Tip Position="2" RunnerNumber="8" NameE="TO INFINITY" NameC="極速滿貫" JockeyNameE="H Bowman" JockeyNameC="布文"/>
 <Tip Position="3" RunnerNumber="1" NameE="HANDSOME BOMB" NameC="帥炸" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
-<Tip Position="4" RunnerNumber="3" NameE="SILVER KING" NameC="銀皇興標" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
+<Tip Position="4" RunnerNumber="5" NameE="CLASSIC CENTURY" NameC="經典時代" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
 </race>
 <race num="4">
 <Tip Position="1" RunnerNumber="9" NameE="MANAGEMENT FOLKS" NameC="管之友" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
@@ -39,9 +39,9 @@
 </race>
 <race num="7">
 <Tip Position="1" RunnerNumber="1" NameE="BEAUTY DESTINY" NameC="美麗緣分" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
-<Tip Position="2" RunnerNumber="12" NameE="WOOD ON FIRE" NameC="木火同明" JockeyNameE="M L Yeung" JockeyNameC="楊明綸"/>
-<Tip Position="3" RunnerNumber="5" NameE="CARRYON SMILING" NameC="始終如一" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
-<Tip Position="4" RunnerNumber="2" NameE="LYRICAL MOTION" NameC="風中勁松" JockeyNameE="H Bowman" JockeyNameC="布文"/>
+<Tip Position="2" RunnerNumber="10" NameE="GLORY B" NameC="光輝所願" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
+<Tip Position="3" RunnerNumber="12" NameE="WOOD ON FIRE" NameC="木火同明" JockeyNameE="M L Yeung" JockeyNameC="楊明綸"/>
+<Tip Position="4" RunnerNumber="5" NameE="CARRYON SMILING" NameC="始終如一" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
 </race>
 <race num="8">
 <Tip Position="1" RunnerNumber="9" NameE="CHARMING BABE" NameC="輕功猛男" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
@@ -53,7 +53,7 @@
 <Tip Position="1" RunnerNumber="8" NameE="WINNING STEPS" NameC="逐步贏" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
 <Tip Position="2" RunnerNumber="3" NameE="SAMARKAND" NameC="建測羣英" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
 <Tip Position="3" RunnerNumber="4" NameE="CHAIN OF GOLD" NameC="爭金奪冠" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="4" RunnerNumber="6" NameE="COMET SPLENDIDO" NameC="燊榮之星" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
+<Tip Position="4" RunnerNumber="1" NameE="CALIFORNIA VOCE" NameC="加州偟者" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
 </race>
 <!--
 <trackside text=""/>
