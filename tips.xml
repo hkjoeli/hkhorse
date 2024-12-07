@@ -2,8 +2,8 @@
 <tips>
 <meeting date="08-12-2024" venue="ST" title="心水提供"/>
 <race num="1">
-<Tip Position="1" RunnerNumber="11" NameE="HAPPY PARK" NameC="開心樂園" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
-<Tip Position="2" RunnerNumber="4" NameE="MR ENERGIA" NameC="勁先生" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="1" RunnerNumber="4" NameE="MR ENERGIA" NameC="勁先生" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="2" RunnerNumber="11" NameE="HAPPY PARK" NameC="開心樂園" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
 <Tip Position="3" RunnerNumber="3" NameE="RUN RUN TIMING" NameC="時間寶" JockeyNameE="J McDonald" JockeyNameC="麥道朗"/>
 <Tip Position="4" RunnerNumber="5" NameE="BRILLIANT EXPRESS" NameC="神馳" JockeyNameE="H Bowman" JockeyNameC="布文"/>
 </race>
@@ -19,35 +19,11 @@
 <Tip Position="3" RunnerNumber="4" NameE="DIVANO" NameC="開心寶寶" JockeyNameE="J McDonald" JockeyNameC="麥道朗"/>
 <Tip Position="4" RunnerNumber="8" NameE="PATCH OF COSMO" NameC="錶之宇宙" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
 </race>
-<race num="4">
-<Tip Position="1" RunnerNumber="4" NameE="DUBAI HONOUR" NameC="譽滿杜拜" JockeyNameE="T Marquand" JockeyNameC="馬昆"/>
-<Tip Position="2" RunnerNumber="3" NameE="LUXEMBOURG" NameC="盧森堡" JockeyNameE="R Moore" JockeyNameC="莫雅"/>
-<Tip Position="3" RunnerNumber="10" NameE="LA CITY BLANCHE" NameC="當年情" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
-<Tip Position="4" RunnerNumber="12" NameE="ENSUED" NameC="安騁" JockeyNameE="J McDonald" JockeyNameC="麥道朗"/>
-</race>
-<race num="5">
-<Tip Position="1" RunnerNumber="2" NameE="CALIFORNIA SPANGLE" NameC="加州星球" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
-<Tip Position="2" RunnerNumber="1" NameE="KA YING RISING" NameC="嘉應高昇" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="3" RunnerNumber="4" NameE="VICTOR THE WINNER" NameC="維港智能" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
-<Tip Position="4" RunnerNumber="5" NameE="INVINCIBLE SAGE" NameC="賢者無敵" JockeyNameE="B Shinn" JockeyNameC="薛恩"/>
-</race>
 <race num="6">
 <Tip Position="1" RunnerNumber="8" NameE="FAMILY JEWEL" NameC="共享富裕" JockeyNameE="J McDonald" JockeyNameC="麥道朗"/>
 <Tip Position="2" RunnerNumber="1" NameE="BRAVEHEARTS" NameC="愛心神駒" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
 <Tip Position="3" RunnerNumber="11" NameE="SUNSTRIDER" NameC="金陽飛駒" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
 <Tip Position="4" RunnerNumber="9" NameE="SIMPLE HEDGE" NameC="精算謀略" JockeyNameE="M Barzalona" JockeyNameC="巴米高"/>
-</race>
-<race num="7">
-<Tip Position="1" RunnerNumber="10" NameE="CHANCHENG GLORY" NameC="禪勝輝煌" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
-<Tip Position="2" RunnerNumber="5" NameE="BEAUTY JOY" NameC="美麗同享" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
-<Tip Position="3" RunnerNumber="2" NameE="VOYAGE BUBBLE" NameC="遨遊氣泡" JockeyNameE="J McDonald" JockeyNameC="麥道朗"/>
-<Tip Position="4" RunnerNumber="1" NameE="SOUL RUSH" NameC="神志勇進" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
-</race>
-<race num="8">
-<Tip Position="1" RunnerNumber="1" NameE="ROMANTIC WARRIOR" NameC="浪漫勇士" JockeyNameE="J McDonald" JockeyNameC="麥道朗"/>
-<Tip Position="2" RunnerNumber="3" NameE="STRAIGHT ARRON" NameC="直線力山" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
-<Tip Position="3" RunnerNumber="8" NameE="ENCOUNTERED" NameC="安遇" JockeyNameE="H Bowman" JockeyNameC="布文"/>
-<Tip Position="4" RunnerNumber="9" NameE="LIBERTY ISLAND" NameC="自由島" JockeyNameE="Y Kawada" JockeyNameC="川田將雅"/>
 </race>
 <race num="9">
 <Tip Position="1" RunnerNumber="5" NameE="BEAUTY CRESCENT" NameC="同樣美麗" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
@@ -58,10 +34,8 @@
 <race num="10">
 <Tip Position="1" RunnerNumber="9" NameE="YOUNG CHAMPION" NameC="競駿輝煌" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
 <Tip Position="2" RunnerNumber="2" NameE="HARMONY GREAT" NameC="勇取神駒" JockeyNameE="M L Yeung" JockeyNameC="楊明綸"/>
-<Tip Position="3" RunnerNumber="7" NameE="TELECOM FIGHTERS" NameC="電訊巴打" JockeyNameE="K De Melo" JockeyNameC="董明朗"/>
-<Tip Position="4" RunnerNumber="12" NameE="RUBYLOT" NameC="球星" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
+<Tip Position="3" RunnerNumber="12" NameE="RUBYLOT" NameC="球星" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
+<Tip Position="4" RunnerNumber="7" NameE="TELECOM FIGHTERS" NameC="電訊巴打" JockeyNameE="K De Melo" JockeyNameC="董明朗"/>
 </race>
-<!--
-<trackside text=""/>
--->
+<trackside text="R4 6,7,8,10 R5 1,2,9,11 R7 1,2,4,14 R8 1,2,4,6"/>
 </tips>
