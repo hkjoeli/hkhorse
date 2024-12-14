@@ -22,8 +22,8 @@
 <race num="4">
 <Tip Position="1" RunnerNumber="2" NameE="POLARIS" NameC="駿馬為伍" JockeyNameE="H Bowman" JockeyNameC="布文"/>
 <Tip Position="2" RunnerNumber="12" NameE="LOVING VIBES" NameC="天下寵兒" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
-<Tip Position="3" RunnerNumber="1" NameE="SUMMIT CHEERS" NameC="攻頂" JockeyNameE="A Badel" JockeyNameC="巴度"/>
-<Tip Position="4" RunnerNumber="4" NameE="GRAND NOVA" NameC="鴻圖新星" JockeyNameE="J McDonald" JockeyNameC="麥道朗"/>
+<Tip Position="3" RunnerNumber="4" NameE="GRAND NOVA" NameC="鴻圖新星" JockeyNameE="J McDonald" JockeyNameC="麥道朗"/>
+<Tip Position="4" RunnerNumber="1" NameE="SUMMIT CHEERS" NameC="攻頂" JockeyNameE="A Badel" JockeyNameC="巴度"/>
 </race>
 <race num="5">
 <Tip Position="1" RunnerNumber="4" NameE="FLYING LUCK" NameC="昭易搵" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
@@ -34,8 +34,8 @@
 <race num="6">
 <Tip Position="1" RunnerNumber="7" NameE="AMAZING RUN" NameC="奔妙星" JockeyNameE="H Bowman" JockeyNameC="布文"/>
 <Tip Position="2" RunnerNumber="13" NameE="CIRCUIT MAXIMUS" NameC="電路豪傑" JockeyNameE="A Pouchin" JockeyNameC="貝知仁"/>
-<Tip Position="3" RunnerNumber="5" NameE="MOTOMAN" NameC="競馬一心" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
-<Tip Position="4" RunnerNumber="3" NameE="YUEN LONG ELITE" NameC="元朗精英" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="3" RunnerNumber="3" NameE="YUEN LONG ELITE" NameC="元朗精英" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="4" RunnerNumber="5" NameE="MOTOMAN" NameC="競馬一心" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
 </race>
 <race num="7">
 <Tip Position="1" RunnerNumber="8" NameE="STELLAR EXPRESS" NameC="星際快車" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
@@ -44,9 +44,9 @@
 <Tip Position="4" RunnerNumber="9" NameE="CARROLL STREET" NameC="當家精神" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
 </race>
 <race num="8">
-<Tip Position="1" RunnerNumber="1" NameE="PACKING POWER" NameC="包裝猛將" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="2" RunnerNumber="6" NameE="HUGE WAVE" NameC="大浪圖田" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
-<Tip Position="3" RunnerNumber="8" NameE="FRANCIS MEYNELL" NameC="馬上盈" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
+<Tip Position="1" RunnerNumber="6" NameE="HUGE WAVE" NameC="大浪圖田" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
+<Tip Position="2" RunnerNumber="8" NameE="FRANCIS MEYNELL" NameC="馬上盈" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
+<Tip Position="3" RunnerNumber="4" NameE="KAHOLO ANGEL" NameC="鈦易搵" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
 <Tip Position="4" RunnerNumber="14" NameE="CHAMPION INSTINCT" NameC="快狠準" JockeyNameE="A Badel" JockeyNameC="巴度"/>
 </race>
 <race num="9">
@@ -61,7 +61,5 @@
 <Tip Position="3" RunnerNumber="11" NameE="PACKING TURBINE" NameC="包裝明駒" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
 <Tip Position="4" RunnerNumber="9" NameE="STELLAR SWIFT" NameC="紫荊歡呼" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
 </race>
-<!--
-<trackside text=""/>
--->
+<trackside text="20241215 S1 R1 1,6,11,8"/>
 </tips>
