@@ -14,10 +14,10 @@
 <Tip Position="4" RunnerNumber="4" NameE="BITS SUPERSTAR" NameC="比特星" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
 </race>
 <race num="3">
-<Tip Position="1" RunnerNumber="5" NameE="NOISY BOY" NameC="優才" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="2" RunnerNumber="10" NameE="WINNING STEPS" NameC="逐步贏" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
-<Tip Position="3" RunnerNumber="6" NameE="FRANTANCK" NameC="手到再來" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
-<Tip Position="4" RunnerNumber="9" NameE="SIMPLE HEDGE" NameC="精算謀略" JockeyNameE="A Badel" JockeyNameC="巴度"/>
+<Tip Position="1" RunnerNumber="3" NameE="ROCKET SPADE" NameC="黑桃火箭" JockeyNameE="H Bowman" JockeyNameC="布文"/>
+<Tip Position="2" RunnerNumber="5" NameE="NOISY BOY" NameC="優才" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="3" RunnerNumber="10" NameE="WINNING STEPS" NameC="逐步贏" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
+<Tip Position="4" RunnerNumber="6" NameE="FRANTANCK" NameC="手到再來" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
 </race>
 <race num="4">
 <Tip Position="1" RunnerNumber="12" NameE="CRYSTAL POWERFUL" NameC="妙玲瓏" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
@@ -53,12 +53,12 @@
 <Tip Position="1" RunnerNumber="7" NameE="BEAUTY DESTINY" NameC="美麗緣分" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
 <Tip Position="2" RunnerNumber="5" NameE="PRAWNS ELEVEN" NameC="多利彩駒" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
 <Tip Position="3" RunnerNumber="4" NameE="AURORA LADY" NameC="晨曦儷人" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="4" RunnerNumber="6" NameE="ALLGREEKTOME" NameC="雅典武士" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
+<Tip Position="4" RunnerNumber="2" NameE="KYRUS DRAGON" NameC="家樂龍駒" JockeyNameE="H Bowman" JockeyNameC="布文"/>
 </race>
 <race num="10">
 <Tip Position="1" RunnerNumber="11" NameE="FORTUNE SUPERSTAR" NameC="發財鴻星" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
-<Tip Position="2" RunnerNumber="7" NameE="AESTHETICISM" NameC="唯美主義" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="3" RunnerNumber="5" NameE="SOLEIL FIGHTER" NameC="太陽勇士" JockeyNameE="H Bowman" JockeyNameC="布文"/>
+<Tip Position="2" RunnerNumber="5" NameE="SOLEIL FIGHTER" NameC="太陽勇士" JockeyNameE="H Bowman" JockeyNameC="布文"/>
+<Tip Position="3" RunnerNumber="7" NameE="AESTHETICISM" NameC="唯美主義" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
 <Tip Position="4" RunnerNumber="12" NameE="OUR LUCKY GLORY" NameC="多利神駒" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
 </race>
 <!--
