@@ -10,8 +10,8 @@
 <race num="2">
 <Tip Position="1" RunnerNumber="2" NameE="SMASHING EXPRESS" NameC="駿彩飛馳" JockeyNameE="A Hamelin" JockeyNameC="賀銘年"/>
 <Tip Position="2" RunnerNumber="1" NameE="GO GO GO" NameC="上市魅力" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="3" RunnerNumber="11" NameE="GOLDEN FAIRY" NameC="皇金風速" JockeyNameE="A Badel" JockeyNameC="巴度"/>
-<Tip Position="4" RunnerNumber="10" NameE="CHATEAU LE PECHE" NameC="永勝金駒" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
+<Tip Position="3" RunnerNumber="10" NameE="CHATEAU LE PECHE" NameC="永勝金駒" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
+<Tip Position="4" RunnerNumber="11" NameE="GOLDEN FAIRY" NameC="皇金風速" JockeyNameE="A Badel" JockeyNameC="巴度"/>
 </race>
 <race num="3">
 <Tip Position="1" RunnerNumber="2" NameE="THRIVING BROTHERS" NameC="富國兄弟" JockeyNameE="A Pouchin" JockeyNameC="貝知仁"/>
@@ -27,13 +27,13 @@
 </race>
 <race num="5">
 <Tip Position="1" RunnerNumber="12" NameE="CIRCUIT MIGHTY" NameC="綫路神驊" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
-<Tip Position="2" RunnerNumber="3" NameE="DEVAS TWELVE" NameC="十二神將" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
-<Tip Position="3" RunnerNumber="5" NameE="BRILLIANT EXPRESS" NameC="神馳" JockeyNameE="H Bowman" JockeyNameC="布文"/>
+<Tip Position="2" RunnerNumber="5" NameE="BRILLIANT EXPRESS" NameC="神馳" JockeyNameE="H Bowman" JockeyNameC="布文"/>
+<Tip Position="3" RunnerNumber="3" NameE="DEVAS TWELVE" NameC="十二神將" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
 <Tip Position="4" RunnerNumber="6" NameE="RUN RUN TIMING" NameC="時間寶" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
 </race>
 <race num="6">
-<Tip Position="1" RunnerNumber="5" NameE="SOLID WIN" NameC="一定掂" JockeyNameE="H Bowman" JockeyNameC="布文"/>
-<Tip Position="2" RunnerNumber="3" NameE="YUEN LONG ELITE" NameC="元朗精英" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="1" RunnerNumber="3" NameE="YUEN LONG ELITE" NameC="元朗精英" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="2" RunnerNumber="5" NameE="SOLID WIN" NameC="一定掂" JockeyNameE="H Bowman" JockeyNameC="布文"/>
 <Tip Position="3" RunnerNumber="6" NameE="I AM THE BOSS" NameC="自己話事" JockeyNameE="A Hamelin" JockeyNameC="賀銘年"/>
 <Tip Position="4" RunnerNumber="7" NameE="SANTORINI" NameC="聖托里尼" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
 </race>
@@ -63,9 +63,9 @@
 </race>
 <race num="11">
 <Tip Position="1" RunnerNumber="5" NameE="MY WISH" NameC="祝願" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
-<Tip Position="2" RunnerNumber="3" NameE="MICKLEY" NameC="米奇" JockeyNameE="H Bowman" JockeyNameC="布文"/>
-<Tip Position="3" RunnerNumber="8" NameE="PRAY FOR MIR" NameC="和平波" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
-<Tip Position="4" RunnerNumber="9" NameE="STEPS AHEAD" NameC="遙遙領先" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
+<Tip Position="2" RunnerNumber="9" NameE="STEPS AHEAD" NameC="遙遙領先" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
+<Tip Position="3" RunnerNumber="2" NameE="VOYAGE SAMURAI" NameC="遨遊武士" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="4" RunnerNumber="8" NameE="FALLON" NameC="快路" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
 </race>
 <!--
 <trackside text=""/>
