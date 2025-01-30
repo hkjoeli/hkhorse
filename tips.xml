@@ -15,21 +15,21 @@
 </race>
 <race num="3">
 <Tip Position="1" RunnerNumber="9" NameE="LUCKY FIONN" NameC="幸運芙蓉" JockeyNameE="M Barzalona" JockeyNameC="巴米高"/>
-<Tip Position="2" RunnerNumber="1" NameE="SUNSTRIDER" NameC="金陽飛駒" JockeyNameE="H Bowman" JockeyNameC="布文"/>
-<Tip Position="3" RunnerNumber="10" NameE="CELTIC TIMES" NameC="佳福駒" JockeyNameE="A Hamelin" JockeyNameC="賀銘年"/>
+<Tip Position="2" RunnerNumber="10" NameE="CELTIC TIMES" NameC="佳福駒" JockeyNameE="A Hamelin" JockeyNameC="賀銘年"/>
+<Tip Position="3" RunnerNumber="1" NameE="SUNSTRIDER" NameC="金陽飛駒" JockeyNameE="H Bowman" JockeyNameC="布文"/>
 <Tip Position="4" RunnerNumber="13" NameE="SUNDAY'S SERENADE" NameC="卓越蒨鋒" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
 </race>
 <race num="4">
 <Tip Position="1" RunnerNumber="6" NameE="ENSUED" NameC="安騁" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
 <Tip Position="2" RunnerNumber="7" NameE="LA CITY BLANCHE" NameC="當年情" JockeyNameE="M Barzalona" JockeyNameC="巴米高"/>
 <Tip Position="3" RunnerNumber="9" NameE="ENCOUNTERED" NameC="安遇" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
-<Tip Position="4" RunnerNumber="3" NameE="SWORD POINT" NameC="知足常樂" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
+<Tip Position="4" RunnerNumber="5" NameE="NIMBLE NIMBUS" NameC="觔斗雲" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
 </race>
 <race num="5">
 <Tip Position="1" RunnerNumber="5" NameE="SUPER GOLDI" NameC="誠好運" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
 <Tip Position="2" RunnerNumber="4" NameE="BRILLIANT EXPRESS" NameC="神馳" JockeyNameE="H Bowman" JockeyNameC="布文"/>
-<Tip Position="3" RunnerNumber="13" NameE="ATOMIC BEAUTY" NameC="美麗歡聲" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="4" RunnerNumber="14" NameE="LUCKY GOLD" NameC="金發銀發" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
+<Tip Position="3" RunnerNumber="1" NameE="PHOENIX LIGHT" NameC="大才" JockeyNameE="C Soumillon" JockeyNameC="蘇銘倫"/>
+<Tip Position="4" RunnerNumber="13" NameE="ATOMIC BEAUTY" NameC="美麗歡聲" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
 </race>
 <race num="6">
 <Tip Position="1" RunnerNumber="2" NameE="DROMBEG BANNER" NameC="飛鷹翱翔" JockeyNameE="P N Wong" JockeyNameC="黃寶妮"/>
