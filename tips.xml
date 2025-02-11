@@ -15,9 +15,9 @@
 </race>
 <race num="3">
 <Tip Position="1" RunnerNumber="5" NameE="NOBLE DELUXE" NameC="魅力星" JockeyNameE="H Bowman" JockeyNameC="布文"/>
-<Tip Position="2" RunnerNumber="4" NameE="NATURAL HIGH" NameC="贏得自然" JockeyNameE="P N Wong" JockeyNameC="黃寶妮"/>
+<Tip Position="2" RunnerNumber="12" NameE="GIMME FIVE" NameC="五福星" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
 <Tip Position="3" RunnerNumber="10" NameE="YEAH BUDDY" NameC="辰速密碼" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
-<Tip Position="4" RunnerNumber="12" NameE="GIMME FIVE" NameC="五福星" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
+<Tip Position="4" RunnerNumber="4" NameE="NATURAL HIGH" NameC="贏得自然" JockeyNameE="P N Wong" JockeyNameC="黃寶妮"/>
 </race>
 <race num="4">
 <Tip Position="1" RunnerNumber="7" NameE="VIVA CHALEUR" NameC="爆熱" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
@@ -28,8 +28,8 @@
 <race num="5">
 <Tip Position="1" RunnerNumber="10" NameE="BRILLIANT FIRE" NameC="天火同德" JockeyNameE="P N Wong" JockeyNameC="黃寶妮"/>
 <Tip Position="2" RunnerNumber="8" NameE="LUCKY IMPACT" NameC="幸運震撼" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
-<Tip Position="3" RunnerNumber="6" NameE="FORTUNE WARRIOR" NameC="運來勇士" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
-<Tip Position="4" RunnerNumber="5" NameE="ROBOT KNIGHT" NameC="機械騎士" JockeyNameE="E C W Wong" JockeyNameC="黃智弘"/>
+<Tip Position="3" RunnerNumber="5" NameE="ROBOT KNIGHT" NameC="機械騎士" JockeyNameE="E C W Wong" JockeyNameC="黃智弘"/>
+<Tip Position="4" RunnerNumber="6" NameE="FORTUNE WARRIOR" NameC="運來勇士" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
 </race>
 <race num="6">
 <Tip Position="1" RunnerNumber="8" NameE="SKY VINO" NameC="滿心星" JockeyNameE="H Bowman" JockeyNameC="布文"/>
@@ -40,8 +40,8 @@
 <race num="7">
 <Tip Position="1" RunnerNumber="4" NameE="FULL CREDIT" NameC="同祥和順" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
 <Tip Position="2" RunnerNumber="6" NameE="TOMODACHI KOKOROE" NameC="好友心得" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
-<Tip Position="3" RunnerNumber="5" NameE="CAPITAL DELIGHT" NameC="喜至寶" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
-<Tip Position="4" RunnerNumber="9" NameE="LADY'S CHOICE" NameC="愛馬善" JockeyNameE="P N Wong" JockeyNameC="黃寶妮"/>
+<Tip Position="3" RunnerNumber="9" NameE="LADY'S CHOICE" NameC="愛馬善" JockeyNameE="P N Wong" JockeyNameC="黃寶妮"/>
+<Tip Position="4" RunnerNumber="5" NameE="CAPITAL DELIGHT" NameC="喜至寶" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
 </race>
 <race num="8">
 <Tip Position="1" RunnerNumber="12" NameE="DRAGON AIR FORCE" NameC="皇龍飛將" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
