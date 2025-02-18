@@ -11,7 +11,7 @@
 <Tip Position="1" RunnerNumber="7" NameE="GOLDEN FRIENDSHIP" NameC="友得盈" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
 <Tip Position="2" RunnerNumber="4" NameE="GAMEPLAYER ELITE" NameC="電玩精英" JockeyNameE="T Marquand" JockeyNameC="馬昆"/>
 <Tip Position="3" RunnerNumber="2" NameE="PERFECT GENERAL" NameC="精彩駿將" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
-<Tip Position="4" RunnerNumber="12" NameE="TACTICAL COMMAND" NameC="智勝攻略" JockeyNameE="A Badel" JockeyNameC="巴度"/>
+<Tip Position="4" RunnerNumber="1" NameE="GOLDEN LUCK" NameC="金運來" JockeyNameE="E C W Wong" JockeyNameC="黃智弘"/>
 </race>
 <race num="3">
 <Tip Position="1" RunnerNumber="4" NameE="MOTOMAN" NameC="競馬一心" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
@@ -20,8 +20,8 @@
 <Tip Position="4" RunnerNumber="2" NameE="FORTUNE WHISKEY" NameC="運來伍寶" JockeyNameE="T Marquand" JockeyNameC="馬昆"/>
 </race>
 <race num="4">
-<Tip Position="1" RunnerNumber="5" NameE="THESIS" NameC="論文" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
-<Tip Position="2" RunnerNumber="1" NameE="FLYING FORTRESS" NameC="非凡豪傑" JockeyNameE="H Doyle" JockeyNameC="杜苑欣"/>
+<Tip Position="1" RunnerNumber="1" NameE="FLYING FORTRESS" NameC="非凡豪傑" JockeyNameE="H Doyle" JockeyNameC="杜苑欣"/>
+<Tip Position="2" RunnerNumber="5" NameE="THESIS" NameC="論文" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
 <Tip Position="3" RunnerNumber="2" NameE="HAPPY DAILY" NameC="天天得樂" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
 <Tip Position="4" RunnerNumber="11" NameE="COURIER MAGIC" NameC="魔法速遞" JockeyNameE="B Thompson" JockeyNameC="湯普新"/>
 </race>
