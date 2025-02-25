@@ -3,8 +3,8 @@
 <meeting date="26-02-2025" venue="HV" title="心水提供"/>
 <race num="1">
 <Tip Position="1" RunnerNumber="2" NameE="RAGING BLIZZARD" NameC="精算暴雪" JockeyNameE="H Bowman" JockeyNameC="布文"/>
-<Tip Position="2" RunnerNumber="1" NameE="TAJ DRAGON" NameC="神虎龍駒" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
-<Tip Position="3" RunnerNumber="5" NameE="BRAVE STAR" NameC="勇敢巨星" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
+<Tip Position="2" RunnerNumber="5" NameE="BRAVE STAR" NameC="勇敢巨星" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
+<Tip Position="3" RunnerNumber="1" NameE="TAJ DRAGON" NameC="神虎龍駒" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
 <Tip Position="4" RunnerNumber="3" NameE="COPARTNER PRANCE" NameC="合夥奔馳" JockeyNameE="R Moore" JockeyNameC="莫雅"/>
 </race>
 <race num="2">
@@ -22,8 +22,8 @@
 <race num="4">
 <Tip Position="1" RunnerNumber="4" NameE="SOLAR RIVER" NameC="洛河" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
 <Tip Position="2" RunnerNumber="11" NameE="GLORIOUS EXPERT" NameC="專家" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
-<Tip Position="3" RunnerNumber="8" NameE="SUPER SIXTY" NameC="超強六十" JockeyNameE="A Badel" JockeyNameC="巴度"/>
-<Tip Position="4" RunnerNumber="7" NameE="SONIC PURSUIT" NameC="大千絕塵" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
+<Tip Position="3" RunnerNumber="7" NameE="SONIC PURSUIT" NameC="大千絕塵" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
+<Tip Position="4" RunnerNumber="8" NameE="SUPER SIXTY" NameC="超強六十" JockeyNameE="A Badel" JockeyNameC="巴度"/>
 </race>
 <race num="5">
 <Tip Position="1" RunnerNumber="9" NameE="WOODFIRE BRO" NameC="木火兄弟" JockeyNameE="M L Yeung" JockeyNameC="楊明綸"/>
@@ -35,7 +35,7 @@
 <Tip Position="1" RunnerNumber="4" NameE="FUN N FUN TOGETHER" NameC="天天耍樂" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
 <Tip Position="2" RunnerNumber="8" NameE="GOOD PROSPECT" NameC="飛黃" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
 <Tip Position="3" RunnerNumber="2" NameE="SIGHT HAPPY" NameC="囍眼光" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
-<Tip Position="4" RunnerNumber="3" NameE="JUDY'S GREAT" NameC="荷花之星" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
+<Tip Position="4" RunnerNumber="9" NameE="ACE POWER" NameC="祥勝力駒" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
 </race>
 <race num="7">
 <Tip Position="1" RunnerNumber="4" NameE="STURDY RUBY" NameC="紅海勁" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
@@ -46,8 +46,8 @@
 <race num="8">
 <Tip Position="1" RunnerNumber="6" NameE="GALLANT VALOUR" NameC="耀寶駒" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
 <Tip Position="2" RunnerNumber="9" NameE="AUTOMATED" NameC="新力飆" JockeyNameE="M L Yeung" JockeyNameC="楊明綸"/>
-<Tip Position="3" RunnerNumber="8" NameE="PRAWNS ELEVEN" NameC="多利彩駒" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
-<Tip Position="4" RunnerNumber="3" NameE="WINGS OF WAR" NameC="撼天鐵翼" JockeyNameE="H Bowman" JockeyNameC="布文"/>
+<Tip Position="3" RunnerNumber="3" NameE="WINGS OF WAR" NameC="撼天鐵翼" JockeyNameE="H Bowman" JockeyNameC="布文"/>
+<Tip Position="4" RunnerNumber="8" NameE="PRAWNS ELEVEN" NameC="多利彩駒" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
 </race>
 <race num="9">
 <Tip Position="1" RunnerNumber="2" NameE="RED ELEGANCE" NameC="紅逸舍" JockeyNameE="H Bowman" JockeyNameC="布文"/>
