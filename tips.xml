@@ -14,22 +14,22 @@
 <Tip Position="4" RunnerNumber="12" NameE="WIND SPEEDER" NameC="前風" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
 </race>
 <race num="3">
-<Tip Position="1" RunnerNumber="10" NameE="LUCKY IMPACT" NameC="幸運震撼" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
-<Tip Position="2" RunnerNumber="2" NameE="SHANGHAI STYLE" NameC="有派頭" JockeyNameE="P N Wong" JockeyNameC="黃寶妮"/>
-<Tip Position="3" RunnerNumber="1" NameE="THESIS" NameC="論文" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
+<Tip Position="1" RunnerNumber="2" NameE="SHANGHAI STYLE" NameC="有派頭" JockeyNameE="P N Wong" JockeyNameC="黃寶妮"/>
+<Tip Position="2" RunnerNumber="10" NameE="LUCKY IMPACT" NameC="幸運震撼" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
+<Tip Position="3" RunnerNumber="8" NameE="RUN RUN TIMING" NameC="時間寶" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
 <Tip Position="4" RunnerNumber="5" NameE="CHILL KAKA" NameC="超加加" JockeyNameE="R Kingscote" JockeyNameC="金誠剛"/>
 </race>
 <race num="4">
 <Tip Position="1" RunnerNumber="10" NameE="CHEER FOR SOUTH" NameC="南區旺" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
 <Tip Position="2" RunnerNumber="6" NameE="FLYING ROMANTIC" NameC="威力勇驥" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
 <Tip Position="3" RunnerNumber="11" NameE="DIAMOND SOARS" NameC="鑽飾翱翔" JockeyNameE="B Thompson" JockeyNameC="湯普新"/>
-<Tip Position="4" RunnerNumber="2" NameE="HINOKAMI KAGURA" NameC="火神神樂" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
+<Tip Position="4" RunnerNumber="4" NameE="SKY PROPHET" NameC="漣心星" JockeyNameE="E C W Wong" JockeyNameC="黃智弘"/>
 </race>
 <race num="5">
 <Tip Position="1" RunnerNumber="4" NameE="PATCH OF TIME" NameC="手錶之星" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
 <Tip Position="2" RunnerNumber="8" NameE="LOOKS OUTSTANDING" NameC="譽友駿駒" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
-<Tip Position="3" RunnerNumber="1" NameE="EVERSTAR" NameC="廚神" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
-<Tip Position="4" RunnerNumber="11" NameE="CALIFORNIA STAR" NameC="加州星馳" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
+<Tip Position="3" RunnerNumber="11" NameE="CALIFORNIA STAR" NameC="加州星馳" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
+<Tip Position="4" RunnerNumber="1" NameE="EVERSTAR" NameC="廚神" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
 </race>
 <race num="6">
 <Tip Position="1" RunnerNumber="11" NameE="CONFRINGO" NameC="閃亮老撾" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
@@ -47,7 +47,7 @@
 <Tip Position="1" RunnerNumber="4" NameE="YELLOWFIN" NameC="黃腳鱲" JockeyNameE="D McDonogh" JockeyNameC="麥當能"/>
 <Tip Position="2" RunnerNumber="2" NameE="FLAMINGO TRILLION" NameC="港林福將" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
 <Tip Position="3" RunnerNumber="11" NameE="NEVER PETER OUT" NameC="天威" JockeyNameE="M L Yeung" JockeyNameC="楊明綸"/>
-<Tip Position="4" RunnerNumber="7" NameE="PERFECT TEAM" NameC="精彩動力" JockeyNameE="E C W Wong" JockeyNameC="黃智弘"/>
+<Tip Position="4" RunnerNumber="10" NameE="FIGHTING MACHINE" NameC="堅闖" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
 </race>
 <race num="9">
 <Tip Position="1" RunnerNumber="3" NameE="SELF IMPROVEMENT" NameC="自強不息" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
