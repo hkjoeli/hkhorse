@@ -33,15 +33,15 @@
 </race>
 <race num="6">
 <Tip Position="1" RunnerNumber="6" NameE="THE HEIR" NameC="星運少爵" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
-<Tip Position="2" RunnerNumber="2" NameE="COMET SPLENDIDO" NameC="燊榮之星" JockeyNameE="H Bowman" JockeyNameC="布文"/>
-<Tip Position="3" RunnerNumber="5" NameE="RED MAJESTY" NameC="赤馬雄風" JockeyNameE="M L Yeung" JockeyNameC="楊明綸"/>
-<Tip Position="4" RunnerNumber="11" NameE="SOARING BRONCO" NameC="神駒馬靈" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
+<Tip Position="2" RunnerNumber="2" NameE="FOREMOST TEDDY" NameC="領創動力" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
+<Tip Position="3" RunnerNumber="11" NameE="SOARING BRONCO" NameC="神駒馬靈" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
+<Tip Position="4" RunnerNumber="10" NameE="SANTORINI" NameC="聖托里尼" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
 </race>
 <race num="7">
-<Tip Position="1" RunnerNumber="1" NameE="DRAGON FOUR SEAS" NameC="騰龍四海" JockeyNameE="H Bowman" JockeyNameC="布文"/>
-<Tip Position="2" RunnerNumber="10" NameE="ACCOLADE START" NameC="賞豐泰" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
-<Tip Position="3" RunnerNumber="2" NameE="MOTOMAN" NameC="競馬一心" JockeyNameE="J Orman" JockeyNameC="奧爾民"/>
-<Tip Position="4" RunnerNumber="4" NameE="HAPPY PARK" NameC="開心樂園" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
+<Tip Position="1" RunnerNumber="2" NameE="MOTOMAN" NameC="競馬一心" JockeyNameE="J Orman" JockeyNameC="奧爾民"/>
+<Tip Position="2" RunnerNumber="1" NameE="DRAGON FOUR SEAS" NameC="騰龍四海" JockeyNameE="H Bowman" JockeyNameC="布文"/>
+<Tip Position="3" RunnerNumber="4" NameE="HAPPY PARK" NameC="開心樂園" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
+<Tip Position="4" RunnerNumber="10" NameE="ACCOLADE START" NameC="賞豐泰" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
 </race>
 <race num="8">
 <Tip Position="1" RunnerNumber="10" NameE="MIGHTY COMMANDER" NameC="三軍勇將" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
@@ -53,7 +53,7 @@
 <Tip Position="1" RunnerNumber="1" NameE="KAHOLO ANGEL" NameC="鈦易搵" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
 <Tip Position="2" RunnerNumber="4" NameE="ROMANTIC SON" NameC="友愛心得" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
 <Tip Position="3" RunnerNumber="3" NameE="BEAUTY INFINITY" NameC="無限美麗" JockeyNameE="R Kingscote" JockeyNameC="金誠剛"/>
-<Tip Position="4" RunnerNumber="7" NameE="KING OF FIGHTERS" NameC="佛亮老撾" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
+<Tip Position="4" RunnerNumber="2" NameE="VIEW OF THE WORLD" NameC="觀天下" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
 </race>
 <!--
 <trackside text=""/>
