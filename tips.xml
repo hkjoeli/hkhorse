@@ -5,7 +5,7 @@
 <Tip Position="1" RunnerNumber="4" NameE="CAMP FIRE" NameC="天火同心" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
 <Tip Position="2" RunnerNumber="9" NameE="PATCH OF WATCH" NameC="錶之多多" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
 <Tip Position="3" RunnerNumber="7" NameE="RAGNARR" NameC="快樂奇兵" JockeyNameE="H Bowman" JockeyNameC="布文"/>
-<Tip Position="4" RunnerNumber="2" NameE="SPICY SO SMART" NameC="辣得駕勢" JockeyNameE="A Hamelin" JockeyNameC="賀銘年"/>
+<Tip Position="4" RunnerNumber="12" NameE="DIAMOND SOARS" NameC="鑽飾翱翔" JockeyNameE="E C W Wong" JockeyNameC="黃智弘"/>
 </race>
 <race num="2">
 <Tip Position="1" RunnerNumber="10" NameE="MANAGEMENT FOLKS" NameC="管之友" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
@@ -22,8 +22,8 @@
 <race num="4">
 <Tip Position="1" RunnerNumber="4" NameE="POWER KOEPP" NameC="電源之駒" JockeyNameE="A Badel" JockeyNameC="巴度"/>
 <Tip Position="2" RunnerNumber="1" NameE="WINGS OF WAR" NameC="撼天鐵翼" JockeyNameE="H Bowman" JockeyNameC="布文"/>
-<Tip Position="3" RunnerNumber="5" NameE="DENFIELD" NameC="勇威神駒" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="4" RunnerNumber="3" NameE="KA YING VICTORY" NameC="嘉應獎昇" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
+<Tip Position="3" RunnerNumber="3" NameE="KA YING VICTORY" NameC="嘉應獎昇" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
+<Tip Position="4" RunnerNumber="5" NameE="DENFIELD" NameC="勇威神駒" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
 </race>
 <race num="5">
 <Tip Position="1" RunnerNumber="7" NameE="GENERAL SMART" NameC="志醒大將" JockeyNameE="H T Mo" JockeyNameC="巫顯東"/>
