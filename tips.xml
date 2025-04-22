@@ -15,8 +15,8 @@
 </race>
 <race num="3">
 <Tip Position="1" RunnerNumber="2" NameE="PRIME MORTAR" NameC="砂漿金剛" JockeyNameE="J Orman" JockeyNameC="奧爾民"/>
-<Tip Position="2" RunnerNumber="12" NameE="TELECOM POWER" NameC="電訊驕陽" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
-<Tip Position="3" RunnerNumber="4" NameE="TOP PEAK" NameC="翹峯" JockeyNameE="H Bowman" JockeyNameC="布文"/>
+<Tip Position="2" RunnerNumber="4" NameE="TOP PEAK" NameC="翹峯" JockeyNameE="H Bowman" JockeyNameC="布文"/>
+<Tip Position="3" RunnerNumber="12" NameE="TELECOM POWER" NameC="電訊驕陽" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
 <Tip Position="4" RunnerNumber="8" NameE="WISEMAN" NameC="贏得爽" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
 </race>
 <race num="4">
@@ -32,16 +32,16 @@
 <Tip Position="4" RunnerNumber="1" NameE="JUMBO TREASURE" NameC="寶進" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
 </race>
 <race num="6">
-<Tip Position="1" RunnerNumber="7" NameE="WAH MAY WAI WAI" NameC="華美之威" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
-<Tip Position="2" RunnerNumber="2" NameE="SKY VINO" NameC="滿心星" JockeyNameE="H Bowman" JockeyNameC="布文"/>
+<Tip Position="1" RunnerNumber="2" NameE="SKY VINO" NameC="滿心星" JockeyNameE="H Bowman" JockeyNameC="布文"/>
+<Tip Position="2" RunnerNumber="7" NameE="WAH MAY WAI WAI" NameC="華美之威" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
 <Tip Position="3" RunnerNumber="5" NameE="FIREFOOT" NameC="風起雲湧" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
 <Tip Position="4" RunnerNumber="11" NameE="COURIER MAGIC" NameC="魔法速遞" JockeyNameE="A Badel" JockeyNameC="巴度"/>
 </race>
 <race num="7">
 <Tip Position="1" RunnerNumber="5" NameE="KING OF FIGHTERS" NameC="佛亮老撾" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
 <Tip Position="2" RunnerNumber="6" NameE="POWER KOEPP" NameC="電源之駒" JockeyNameE="A Badel" JockeyNameC="巴度"/>
-<Tip Position="3" RunnerNumber="7" NameE="NORDIC DRAGON" NameC="雪勇神駒" JockeyNameE="A Hamelin" JockeyNameC="賀銘年"/>
-<Tip Position="4" RunnerNumber="4" NameE="LUCKY EIGHT" NameC="運高八斗" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
+<Tip Position="3" RunnerNumber="9" NameE="WATCH THIS ONE" NameC="好多利高" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
+<Tip Position="4" RunnerNumber="7" NameE="NORDIC DRAGON" NameC="雪勇神駒" JockeyNameE="A Hamelin" JockeyNameC="賀銘年"/>
 </race>
 <race num="8">
 <Tip Position="1" RunnerNumber="12" NameE="PARENTS' LOVE" NameC="勝萬金" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
