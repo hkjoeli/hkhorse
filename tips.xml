@@ -4,8 +4,8 @@
 <race num="1">
 <Tip Position="1" RunnerNumber="6" NameE="SKY PROPHET" NameC="漣心星" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
 <Tip Position="2" RunnerNumber="1" NameE="FOREMOST TEDDY" NameC="領創動力" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
-<Tip Position="3" RunnerNumber="8" NameE="FIRE BALL" NameC="紅鬃烈馬" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
-<Tip Position="4" RunnerNumber="5" NameE="CALIFORNIA MOXIE" NameC="加州活力" JockeyNameE="H Bowman" JockeyNameC="布文"/>
+<Tip Position="3" RunnerNumber="5" NameE="CALIFORNIA MOXIE" NameC="加州活力" JockeyNameE="H Bowman" JockeyNameC="布文"/>
+<Tip Position="4" RunnerNumber="8" NameE="FIRE BALL" NameC="紅鬃烈馬" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
 </race>
 <race num="2">
 <Tip Position="1" RunnerNumber="2" NameE="TOP TIME" NameC="醒目先駒" JockeyNameE="K De Melo" JockeyNameC="董明朗"/>
@@ -20,8 +20,8 @@
 <Tip Position="4" RunnerNumber="5" NameE="WONDER KIT" NameC="傑出漢子" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
 </race>
 <race num="4">
-<Tip Position="1" RunnerNumber="7" NameE="SPICY SPANGLE" NameC="辣得金" JockeyNameE="A Hamelin" JockeyNameC="賀銘年"/>
-<Tip Position="2" RunnerNumber="1" NameE="YEE CHEONG SPIRIT" NameC="怡昌精神" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="1" RunnerNumber="1" NameE="YEE CHEONG SPIRIT" NameC="怡昌精神" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="2" RunnerNumber="7" NameE="SPICY SPANGLE" NameC="辣得金" JockeyNameE="A Hamelin" JockeyNameC="賀銘年"/>
 <Tip Position="3" RunnerNumber="4" NameE="LUCKY ARCHANGEL" NameC="幸運旅程" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
 <Tip Position="4" RunnerNumber="5" NameE="NEBRASKAN" NameC="獵寶勤" JockeyNameE="H Bowman" JockeyNameC="布文"/>
 </race>
