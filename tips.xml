@@ -2,9 +2,9 @@
 <tips>
 <meeting date="04-05-2025" venue="ST" title="心水提供"/>
 <race num="1">
-<Tip Position="1" RunnerNumber="1" NameE="THE ALL OUT" NameC="渾身解數" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="2" RunnerNumber="4" NameE="QUICK MONEY" NameC="不勞而獲" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
-<Tip Position="3" RunnerNumber="2" NameE="KIAMA" NameC="解碼" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
+<Tip Position="1" RunnerNumber="4" NameE="QUICK MONEY" NameC="不勞而獲" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
+<Tip Position="2" RunnerNumber="2" NameE="KIAMA" NameC="解碼" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
+<Tip Position="3" RunnerNumber="1" NameE="THE ALL OUT" NameC="渾身解數" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
 <Tip Position="4" RunnerNumber="5" NameE="SPARKLE AND GOLD" NameC="神燦金剛" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
 </race>
 <race num="2">
