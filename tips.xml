@@ -23,7 +23,7 @@
 <Tip Position="1" RunnerNumber="8" NameE="FASHION LEGEND" NameC="川河型駒" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
 <Tip Position="2" RunnerNumber="11" NameE="MEEPMEEP" NameC="大利好運" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
 <Tip Position="3" RunnerNumber="2" NameE="CONSPIRATOR" NameC="運籌帷幄" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
-<Tip Position="4" RunnerNumber="4" NameE="FLOOF" NameC="歡樂老撾" JockeyNameE="J Orman" JockeyNameC="奧爾民"/>
+<Tip Position="4" RunnerNumber="5" NameE="CHARMING STEED" NameC="飛騰騅" JockeyNameE="E C W Wong" JockeyNameC="黃智弘"/>
 </race>
 <race num="5">
 <Tip Position="1" RunnerNumber="2" NameE="NEVER TOO SOON" NameC="快搏" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
@@ -39,8 +39,8 @@
 </race>
 <race num="7">
 <Tip Position="1" RunnerNumber="4" NameE="NEVER PETER OUT" NameC="天威" JockeyNameE="M L Yeung" JockeyNameC="楊明綸"/>
-<Tip Position="2" RunnerNumber="1" NameE="TALENTS AMBITION" NameC="精英雄心" JockeyNameE="H Bowman" JockeyNameC="布文"/>
-<Tip Position="3" RunnerNumber="2" NameE="BUNDLE OF CHARM" NameC="魅力寶駒" JockeyNameE="A Hamelin" JockeyNameC="賀銘年"/>
+<Tip Position="2" RunnerNumber="2" NameE="BUNDLE OF CHARM" NameC="魅力寶駒" JockeyNameE="A Hamelin" JockeyNameC="賀銘年"/>
+<Tip Position="3" RunnerNumber="1" NameE="TALENTS AMBITION" NameC="精英雄心" JockeyNameE="H Bowman" JockeyNameC="布文"/>
 <Tip Position="4" RunnerNumber="6" NameE="FIGHTING MACHINE" NameC="堅闖" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
 </race>
 <race num="8">
