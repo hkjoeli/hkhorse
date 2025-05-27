@@ -5,19 +5,19 @@
 <Tip Position="1" RunnerNumber="11" NameE="FLYING PHANTOM" NameC="旋風飛颺" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
 <Tip Position="2" RunnerNumber="10" NameE="DOUBLE SHOW" NameC="飛躍凱旋" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
 <Tip Position="3" RunnerNumber="3" NameE="WINNING HEART" NameC="三代同心" JockeyNameE="A Badel" JockeyNameC="巴度"/>
-<Tip Position="4" RunnerNumber="6" NameE="JOYFUL LIFE" NameC="欣樂人生" JockeyNameE="E C W Wong" JockeyNameC="黃智弘"/>
+<Tip Position="4" RunnerNumber="5" NameE="EVER SMART" NameC="有心意" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
 </race>
 <race num="2">
 <Tip Position="1" RunnerNumber="9" NameE="SO AWESOME" NameC="進優自在" JockeyNameE="A Badel" JockeyNameC="巴度"/>
-<Tip Position="2" RunnerNumber="1" NameE="ORIENTAL SURPRISE" NameC="東方魅影" JockeyNameE="B Thompson" JockeyNameC="湯普新"/>
-<Tip Position="3" RunnerNumber="5" NameE="NOTTHESILLYONE" NameC="大番薯" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
+<Tip Position="2" RunnerNumber="5" NameE="NOTTHESILLYONE" NameC="大番薯" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
+<Tip Position="3" RunnerNumber="1" NameE="ORIENTAL SURPRISE" NameC="東方魅影" JockeyNameE="B Thompson" JockeyNameC="湯普新"/>
 <Tip Position="4" RunnerNumber="4" NameE="CAMP FIRE" NameC="天火同心" JockeyNameE="H Bowman" JockeyNameC="布文"/>
 </race>
 <race num="3">
 <Tip Position="1" RunnerNumber="10" NameE="HAKKA RADIANCE" NameC="客家之光" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
 <Tip Position="2" RunnerNumber="9" NameE="KINGLY DEMEANOR" NameC="竣誠駒" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
-<Tip Position="3" RunnerNumber="7" NameE="MANAGEMENT FOLKS" NameC="管之友" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
-<Tip Position="4" RunnerNumber="1" NameE="BEAUTY VIVA" NameC="爆出美麗" JockeyNameE="H Bowman" JockeyNameC="布文"/>
+<Tip Position="3" RunnerNumber="1" NameE="BEAUTY VIVA" NameC="爆出美麗" JockeyNameE="H Bowman" JockeyNameC="布文"/>
+<Tip Position="4" RunnerNumber="7" NameE="MANAGEMENT FOLKS" NameC="管之友" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
 </race>
 <race num="4">
 <Tip Position="1" RunnerNumber="7" NameE="COUNTRY DANCER" NameC="鄉村樂韻" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
@@ -46,8 +46,8 @@
 <race num="8">
 <Tip Position="1" RunnerNumber="8" NameE="ICONICAL" NameC="飈誌" JockeyNameE="H Bowman" JockeyNameC="布文"/>
 <Tip Position="2" RunnerNumber="11" NameE="RUN RUN TIMING" NameC="時間寶" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
-<Tip Position="3" RunnerNumber="3" NameE="SKY VINO" NameC="滿心星" JockeyNameE="E C W Wong" JockeyNameC="黃智弘"/>
-<Tip Position="4" RunnerNumber="5" NameE="AMAZING AWARD" NameC="奮鬥輝煌" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
+<Tip Position="3" RunnerNumber="5" NameE="AMAZING AWARD" NameC="奮鬥輝煌" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
+<Tip Position="4" RunnerNumber="3" NameE="SKY VINO" NameC="滿心星" JockeyNameE="E C W Wong" JockeyNameC="黃智弘"/>
 </race>
 <race num="9">
 <Tip Position="1" RunnerNumber="10" NameE="GOKO WIN" NameC="超霸勝" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
