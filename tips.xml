@@ -14,22 +14,22 @@
 <Tip Position="4" RunnerNumber="1" NameE="FLYING TING LOK" NameC="螢影飛馳" JockeyNameE="H Bowman" JockeyNameC="布文"/>
 </race>
 <race num="3">
-<Tip Position="1" RunnerNumber="5" NameE="ICONICAL" NameC="飈誌" JockeyNameE="H Bowman" JockeyNameC="布文"/>
-<Tip Position="2" RunnerNumber="10" NameE="SMART CITY" NameC="君智盛" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
-<Tip Position="3" RunnerNumber="9" NameE="ZETTA FORCE" NameC="小皇爺" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
-<Tip Position="4" RunnerNumber="1" NameE="FLAGSHIP WARRIOR" NameC="旗幟鬥士" JockeyNameE="E C W Wong" JockeyNameC="黃智弘"/>
+<Tip Position="1" RunnerNumber="9" NameE="LESLIE" NameC="風繼續吹" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="2" RunnerNumber="5" NameE="ICONICAL" NameC="飈誌" JockeyNameE="H Bowman" JockeyNameC="布文"/>
+<Tip Position="3" RunnerNumber="2" NameE="FORERUNNER" NameC="博愛先鋒" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
+<Tip Position="4" RunnerNumber="10" NameE="SMART CITY" NameC="君智盛" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
 </race>
 <race num="4">
-<Tip Position="1" RunnerNumber="7" NameE="LOVEISINTHEAIR" NameC="嫡愛好" JockeyNameE="J Orman" JockeyNameC="奧爾民"/>
-<Tip Position="2" RunnerNumber="2" NameE="SMART FIGHTER" NameC="你知我得" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
-<Tip Position="3" RunnerNumber="1" NameE="KNOW AT HEART" NameC="心裡有數" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
+<Tip Position="1" RunnerNumber="2" NameE="SMART FIGHTER" NameC="你知我得" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
+<Tip Position="2" RunnerNumber="7" NameE="LOVEISINTHEAIR" NameC="嫡愛好" JockeyNameE="J Orman" JockeyNameC="奧爾民"/>
+<Tip Position="3" RunnerNumber="12" NameE="AUTUMN DELIGHT" NameC="喜勝駿駒" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
 <Tip Position="4" RunnerNumber="10" NameE="REWARDING TWINKLE" NameC="駿馬之星" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
 </race>
 <race num="5">
 <Tip Position="1" RunnerNumber="6" NameE="GREAT SPIRIT" NameC="好精神" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
 <Tip Position="2" RunnerNumber="4" NameE="SATIRICAL FAN" NameC="好好紛" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
 <Tip Position="3" RunnerNumber="12" NameE="STERLING WONGCHOY" NameC="至旺財" JockeyNameE="M L Yeung" JockeyNameC="楊明綸"/>
-<Tip Position="4" RunnerNumber="7" NameE="STORMI" NameC="翠兒威威" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
+<Tip Position="4" RunnerNumber="8" NameE="CAPITAL LEGEND" NameC="川河首駒" JockeyNameE="E C W Wong" JockeyNameC="黃智弘"/>
 </race>
 <race num="6">
 <Tip Position="1" RunnerNumber="4" NameE="HONG LOK GOLF" NameC="康樂高球" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
@@ -53,7 +53,7 @@
 <Tip Position="1" RunnerNumber="1" NameE="CHATEAUNEUF" NameC="飲杯" JockeyNameE="E C W Wong" JockeyNameC="黃智弘"/>
 <Tip Position="2" RunnerNumber="11" NameE="SOVEREIGN FUND" NameC="金牌活力" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
 <Tip Position="3" RunnerNumber="9" NameE="EVERSTAR" NameC="廚神" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
-<Tip Position="4" RunnerNumber="4" NameE="KING MILES" NameC="安康萬里" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="4" RunnerNumber="6" NameE="FATAL BLOW" NameC="決一劍" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
 </race>
 <!--
 <trackside text=""/>
