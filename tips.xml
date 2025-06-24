@@ -41,18 +41,18 @@
 <Tip Position="1" RunnerNumber="3" NameE="WROTE A NEW PAGE" NameC="龍文鞭影" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
 <Tip Position="2" RunnerNumber="5" NameE="SETANTA" NameC="駟跑得" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
 <Tip Position="3" RunnerNumber="2" NameE="CAPITAL LEGEND" NameC="川河首駒" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
-<Tip Position="4" RunnerNumber="6" NameE="AMAZING GAZE" NameC="凝妙星" JockeyNameE="H Bowman" JockeyNameC="布文"/>
+<Tip Position="4" RunnerNumber="7" NameE="CALIFORNIA MOXIE" NameC="加州活力" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
 </race>
 <race num="8">
 <Tip Position="1" RunnerNumber="1" NameE="SKY TRUST" NameC="信心星" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
-<Tip Position="2" RunnerNumber="6" NameE="ROMANTIC LAOS" NameC="浪漫老撾" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
-<Tip Position="3" RunnerNumber="12" NameE="ANOTHER ZONDA" NameC="暴風之子" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
+<Tip Position="2" RunnerNumber="12" NameE="ANOTHER ZONDA" NameC="暴風之子" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
+<Tip Position="3" RunnerNumber="6" NameE="ROMANTIC LAOS" NameC="浪漫老撾" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
 <Tip Position="4" RunnerNumber="3" NameE="AESTHETICISM" NameC="唯美主義" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
 </race>
 <race num="9">
 <Tip Position="1" RunnerNumber="7" NameE="DRAGON FOUR SEAS" NameC="騰龍四海" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="2" RunnerNumber="1" NameE="STORM RIDER" NameC="風雲武士" JockeyNameE="H Bowman" JockeyNameC="布文"/>
-<Tip Position="3" RunnerNumber="6" NameE="TRIUMPHANT MORE" NameC="凱旋升" JockeyNameE="J Orman" JockeyNameC="奧爾民"/>
+<Tip Position="2" RunnerNumber="6" NameE="TRIUMPHANT MORE" NameC="凱旋升" JockeyNameE="J Orman" JockeyNameC="奧爾民"/>
+<Tip Position="3" RunnerNumber="1" NameE="STORM RIDER" NameC="風雲武士" JockeyNameE="H Bowman" JockeyNameC="布文"/>
 <Tip Position="4" RunnerNumber="10" NameE="STORMING DRAGON" NameC="勇霸龍" JockeyNameE="B Thompson" JockeyNameC="湯普新"/>
 </race>
 <!--
