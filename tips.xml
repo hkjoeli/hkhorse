@@ -5,7 +5,7 @@
 <Tip Position="1" RunnerNumber="11" NameE="FAIRY HORSE" NameC="夢幻駿駒" JockeyNameE="E C W Wong" JockeyNameC="黃智弘"/>
 <Tip Position="2" RunnerNumber="7" NameE="YOUNG HORIZON" NameC="競駿天下" JockeyNameE="H Bowman" JockeyNameC="布文"/>
 <Tip Position="3" RunnerNumber="4" NameE="SIGHT DREAMER" NameC="巧眼光" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
-<Tip Position="4" RunnerNumber="5" NameE="FIGHT TIME" NameC="凱旋幸運" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="4" RunnerNumber="12" NameE="NINJA DERBY" NameC="瀧澤飛駒" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
 </race>
 <race num="2">
 <Tip Position="1" RunnerNumber="2" NameE="HE WAS ME" NameC="劍無情" JockeyNameE="A Hamelin" JockeyNameC="賀銘年"/>
@@ -62,8 +62,8 @@
 <Tip Position="4" RunnerNumber="4" NameE="YOUNG SUPERSTAR" NameC="競駿先鋒" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
 </race>
 <race num="11">
-<Tip Position="1" RunnerNumber="1" NameE="SUPERB KID" NameC="巴閉仔" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
-<Tip Position="2" RunnerNumber="14" NameE="MASTER OF ALL" NameC="勇冠群英" JockeyNameE="A Badel" JockeyNameC="巴度"/>
+<Tip Position="1" RunnerNumber="14" NameE="MASTER OF ALL" NameC="勇冠群英" JockeyNameE="A Badel" JockeyNameC="巴度"/>
+<Tip Position="2" RunnerNumber="1" NameE="SUPERB KID" NameC="巴閉仔" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
 <Tip Position="3" RunnerNumber="11" NameE="MASTER CHAMPION" NameC="長勝金剛" JockeyNameE="H T Mo" JockeyNameC="巫顯東"/>
 <Tip Position="4" RunnerNumber="13" NameE="SOLID CAR" NameC="實力加" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
 </race>
