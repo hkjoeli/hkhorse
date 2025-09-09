@@ -3,9 +3,9 @@
 <meeting date="10-09-2025" venue="HV" title="心水提供"/>
 <race num="1">
 <Tip Position="1" RunnerNumber="7" NameE="WOODFIRE CHAMP" NameC="木火龍駒" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
-<Tip Position="2" RunnerNumber="10" NameE="LUCKY GENERATIONS" NameC="幸運傳承" JockeyNameE="J Orman" JockeyNameC="奧爾民"/>
-<Tip Position="3" RunnerNumber="5" NameE="RUN YES RUN" NameC="東昇鉞" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
-<Tip Position="4" RunnerNumber="3" NameE="NOBLE GO" NameC="魅力心" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
+<Tip Position="2" RunnerNumber="3" NameE="NOBLE GO" NameC="魅力心" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
+<Tip Position="3" RunnerNumber="10" NameE="LUCKY GENERATIONS" NameC="幸運傳承" JockeyNameE="J Orman" JockeyNameC="奧爾民"/>
+<Tip Position="4" RunnerNumber="5" NameE="RUN YES RUN" NameC="東昇鉞" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
 </race>
 <race num="2">
 <Tip Position="1" RunnerNumber="8" NameE="PERFECTO MOMENTS" NameC="勁爽" JockeyNameE="M L Yeung" JockeyNameC="楊明綸"/>
@@ -32,9 +32,9 @@
 <Tip Position="4" RunnerNumber="1" NameE="EMBRACES" NameC="納百川" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
 </race>
 <race num="6">
-<Tip Position="1" RunnerNumber="3" NameE="NORTHERN BEAST" NameC="北海盜" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
-<Tip Position="2" RunnerNumber="2" NameE="STURDY RUBY" NameC="紅海勁" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
-<Tip Position="3" RunnerNumber="11" NameE="SIGHT SUPREME" NameC="超眼光" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
+<Tip Position="1" RunnerNumber="11" NameE="SIGHT SUPREME" NameC="超眼光" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
+<Tip Position="2" RunnerNumber="3" NameE="NORTHERN BEAST" NameC="北海盜" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
+<Tip Position="3" RunnerNumber="2" NameE="STURDY RUBY" NameC="紅海勁" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
 <Tip Position="4" RunnerNumber="4" NameE="AMAZING RUN" NameC="奔妙星" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
 </race>
 <race num="7">
