@@ -2,8 +2,8 @@
 <tips>
 <meeting date="28-09-2025" venue="ST" title="心水提供"/>
 <race num="1">
-<Tip Position="1" RunnerNumber="8" NameE="SPEEDY SMARTIE" NameC="伶俐驫駒" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
-<Tip Position="2" RunnerNumber="11" NameE="DOUBLE BINGO" NameC="東方寶寶" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
+<Tip Position="1" RunnerNumber="11" NameE="DOUBLE BINGO" NameC="東方寶寶" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
+<Tip Position="2" RunnerNumber="8" NameE="SPEEDY SMARTIE" NameC="伶俐驫駒" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
 <Tip Position="3" RunnerNumber="12" NameE="SONIC BOOM" NameC="快馬加鞭" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
 <Tip Position="4" RunnerNumber="2" NameE="NOTTHESILLYONE" NameC="大番薯" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
 </race>
@@ -16,8 +16,8 @@
 <race num="3">
 <Tip Position="1" RunnerNumber="2" NameE="SMART BEAUTY" NameC="美麗多盈" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
 <Tip Position="2" RunnerNumber="1" NameE="CELESTIAL HARMONY" NameC="悠悠乾坤" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
-<Tip Position="3" RunnerNumber="8" NameE="SMASHING EXPRESS" NameC="駿彩飛馳" JockeyNameE="H Bowman" JockeyNameC="布文"/>
-<Tip Position="4" RunnerNumber="4" NameE="CERVIN" NameC="馬特峰" JockeyNameE="K De Melo" JockeyNameC="董明朗"/>
+<Tip Position="3" RunnerNumber="4" NameE="CERVIN" NameC="馬特峰" JockeyNameE="K De Melo" JockeyNameC="董明朗"/>
+<Tip Position="4" RunnerNumber="8" NameE="SMASHING EXPRESS" NameC="駿彩飛馳" JockeyNameE="H Bowman" JockeyNameC="布文"/>
 </race>
 <race num="4">
 <Tip Position="1" RunnerNumber="3" NameE="YEE CHEONG SPIRIT" NameC="怡昌精神" JockeyNameE="H Bowman" JockeyNameC="布文"/>
@@ -35,7 +35,7 @@
 <Tip Position="1" RunnerNumber="4" NameE="THE AUSPICIOUS" NameC="豐辰" JockeyNameE="J Orman" JockeyNameC="奧爾民"/>
 <Tip Position="2" RunnerNumber="6" NameE="CONSPIRACY WITNESS" NameC="古惑大師" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
 <Tip Position="3" RunnerNumber="3" NameE="SUPREME AGILITY" NameC="奮鬥心" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
-<Tip Position="4" RunnerNumber="9" NameE="SIGHT DREAMER" NameC="巧眼光" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
+<Tip Position="4" RunnerNumber="2" NameE="GOOD LUCK WIN" NameC="寶成智星" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
 </race>
 <race num="7">
 <Tip Position="1" RunnerNumber="2" NameE="BUNDLE OF CHARM" NameC="魅力寶駒" JockeyNameE="H Bowman" JockeyNameC="布文"/>
