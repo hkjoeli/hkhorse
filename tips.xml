@@ -4,7 +4,7 @@
 <race num="1">
 <Tip Position="1" RunnerNumber="4" NameE="WINDICATOR FAMILY" NameC="威威父子" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
 <Tip Position="2" RunnerNumber="12" NameE="THE WAY WE WIN" NameC="不假外求" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
-<Tip Position="3" RunnerNumber="2" NameE="CASHISCASH" NameC="志在福星" JockeyNameE="H Bowman" JockeyNameC="布文"/>
+<Tip Position="3" RunnerNumber="1" NameE="IRON LEGION" NameC="鐵甲驌龍" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
 <Tip Position="4" RunnerNumber="6" NameE="TEAM HAPPY" NameC="添喜運" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
 </race>
 <race num="2">
@@ -16,8 +16,8 @@
 <race num="3">
 <Tip Position="1" RunnerNumber="2" NameE="LUCKY BLESSING" NameC="幸運福星" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
 <Tip Position="2" RunnerNumber="6" NameE="RAGNARR" NameC="快樂奇兵" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="3" RunnerNumber="9" NameE="YOU'REMYEVERYTHING" NameC="讓愛高飛" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
-<Tip Position="4" RunnerNumber="1" NameE="RIDING HIGH" NameC="同喜" JockeyNameE="J Orman" JockeyNameC="奧爾民"/>
+<Tip Position="3" RunnerNumber="4" NameE="SUPER CHARIZZARD" NameC="超勁火力" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
+<Tip Position="4" RunnerNumber="14" NameE="EVER SMART" NameC="有心意" JockeyNameE="A Badel" JockeyNameC="巴度"/>
 </race>
 <race num="4">
 <Tip Position="1" RunnerNumber="4" NameE="NYX GLUCK" NameC="嵐臣" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
@@ -58,8 +58,8 @@
 <race num="10">
 <Tip Position="1" RunnerNumber="3" NameE="ANODE" NameC="正極" JockeyNameE="R Kingscote" JockeyNameC="金誠剛"/>
 <Tip Position="2" RunnerNumber="11" NameE="SHAMUS STORM" NameC="紫荊拼搏" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
-<Tip Position="3" RunnerNumber="4" NameE="TOP DRAGON" NameC="喜尊龍" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="4" RunnerNumber="2" NameE="SUPERB KID" NameC="巴閉仔" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
+<Tip Position="3" RunnerNumber="2" NameE="SUPERB KID" NameC="巴閉仔" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
+<Tip Position="4" RunnerNumber="4" NameE="TOP DRAGON" NameC="喜尊龍" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
 </race>
 <!--
 <trackside text=""/>
