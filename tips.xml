@@ -16,14 +16,14 @@
 <race num="3">
 <Tip Position="1" RunnerNumber="4" NameE="GIMME FIVE" NameC="五福星" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
 <Tip Position="2" RunnerNumber="2" NameE="BITS SUPERSTAR" NameC="比特星" JockeyNameE="P N Wong" JockeyNameC="黃寶妮"/>
-<Tip Position="3" RunnerNumber="10" NameE="MEEPMEEP" NameC="大利好運" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
-<Tip Position="4" RunnerNumber="1" NameE="RAINBOW WARRIOR" NameC="彩虹戰士" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
+<Tip Position="3" RunnerNumber="1" NameE="RAINBOW WARRIOR" NameC="彩虹戰士" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
+<Tip Position="4" RunnerNumber="10" NameE="MEEPMEEP" NameC="大利好運" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
 </race>
 <race num="4">
 <Tip Position="1" RunnerNumber="8" NameE="SUPERB GUY" NameC="巴閉佬" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
-<Tip Position="2" RunnerNumber="3" NameE="THE HEIR" NameC="星運少爵" JockeyNameE="E C W Wong" JockeyNameC="黃智弘"/>
-<Tip Position="3" RunnerNumber="2" NameE="GOOD LUCK BABE" NameC="開心五月" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
-<Tip Position="4" RunnerNumber="6" NameE="EXCEL WONGCHOY" NameC="超旺財" JockeyNameE="R Kingscote" JockeyNameC="金誠剛"/>
+<Tip Position="2" RunnerNumber="2" NameE="GOOD LUCK BABE" NameC="開心五月" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
+<Tip Position="3" RunnerNumber="7" NameE="INNO SUPER" NameC="創科群英" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
+<Tip Position="4" RunnerNumber="3" NameE="THE HEIR" NameC="星運少爵" JockeyNameE="E C W Wong" JockeyNameC="黃智弘"/>
 </race>
 <race num="5">
 <Tip Position="1" RunnerNumber="2" NameE="WAVE GARDEN" NameC="大浪園田" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
@@ -35,7 +35,7 @@
 <Tip Position="1" RunnerNumber="4" NameE="GOOD GOOD" NameC="小飛俠" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
 <Tip Position="2" RunnerNumber="10" NameE="FIGHT TIME" NameC="凱旋幸運" JockeyNameE="P N Wong" JockeyNameC="黃寶妮"/>
 <Tip Position="3" RunnerNumber="9" NameE="DASHING DRAGON" NameC="長勝威龍" JockeyNameE="E C W Wong" JockeyNameC="黃智弘"/>
-<Tip Position="4" RunnerNumber="11" NameE="BULL ATTITUDE" NameC="林寶精神" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
+<Tip Position="4" RunnerNumber="14" NameE="BEAUTY MISSILE" NameC="特別美麗" JockeyNameE="A Badel" JockeyNameC="巴度"/>
 </race>
 <race num="7">
 <Tip Position="1" RunnerNumber="7" NameE="ALSONSO" NameC="展雄威" JockeyNameE="A Badel" JockeyNameC="巴度"/>
