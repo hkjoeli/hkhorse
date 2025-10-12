@@ -16,8 +16,8 @@
 <race num="3">
 <Tip Position="1" RunnerNumber="4" NameE="GIMME FIVE" NameC="五福星" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
 <Tip Position="2" RunnerNumber="2" NameE="BITS SUPERSTAR" NameC="比特星" JockeyNameE="P N Wong" JockeyNameC="黃寶妮"/>
-<Tip Position="3" RunnerNumber="1" NameE="RAINBOW WARRIOR" NameC="彩虹戰士" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
-<Tip Position="4" RunnerNumber="10" NameE="MEEPMEEP" NameC="大利好運" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
+<Tip Position="3" RunnerNumber="10" NameE="MEEPMEEP" NameC="大利好運" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
+<Tip Position="4" RunnerNumber="1" NameE="RAINBOW WARRIOR" NameC="彩虹戰士" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
 </race>
 <race num="4">
 <Tip Position="1" RunnerNumber="8" NameE="SUPERB GUY" NameC="巴閉佬" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
