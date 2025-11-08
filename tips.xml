@@ -23,7 +23,7 @@
 <Tip Position="1" RunnerNumber="6" NameE="HAPPY UNIVERSE" NameC="開心宇宙" JockeyNameE="R Kingscote" JockeyNameC="金誠剛"/>
 <Tip Position="2" RunnerNumber="5" NameE="THE AUSPICIOUS" NameC="豐辰" JockeyNameE="J Orman" JockeyNameC="奧爾民"/>
 <Tip Position="3" RunnerNumber="1" NameE="FLYING KNIGHT" NameC="逍遙騎士" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
-<Tip Position="4" RunnerNumber="11" NameE="VOLCANIC SPARK" NameC="風火恆雲" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
+<Tip Position="4" RunnerNumber="11" NameE="GALLANT EPOCH" NameC="威武年代" JockeyNameE="K De Melo" JockeyNameC="董明朗"/>
 </race>
 <race num="5">
 <Tip Position="1" RunnerNumber="7" NameE="BIGTIME GENERATION" NameC="仁者荃承" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
@@ -52,14 +52,14 @@
 <race num="9">
 <Tip Position="1" RunnerNumber="11" NameE="TIN FOOK" NameC="天福" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
 <Tip Position="2" RunnerNumber="3" NameE="THE BOOM BOX" NameC="膨才" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
-<Tip Position="3" RunnerNumber="9" NameE="NOVA KNIGHT" NameC="吉星騎士" JockeyNameE="M L Yeung" JockeyNameC="楊明綸"/>
-<Tip Position="4" RunnerNumber="7" NameE="COLOURFUL GAN" NameC="顏色的顏" JockeyNameE="H Doyle" JockeyNameC="杜苑欣"/>
+<Tip Position="3" RunnerNumber="7" NameE="COLOURFUL GAN" NameC="顏色的顏" JockeyNameE="H Doyle" JockeyNameC="杜苑欣"/>
+<Tip Position="4" RunnerNumber="9" NameE="NOVA KNIGHT" NameC="吉星騎士" JockeyNameE="M L Yeung" JockeyNameC="楊明綸"/>
 </race>
 <race num="10">
 <Tip Position="1" RunnerNumber="8" NameE="STEPS AHEAD" NameC="遙遙領先" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
 <Tip Position="2" RunnerNumber="1" NameE="VICTOR THE WINNER" NameC="維港智能" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
-<Tip Position="3" RunnerNumber="11" NameE="AERIS NOVA" NameC="風再起時" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
-<Tip Position="4" RunnerNumber="4" NameE="MUGEN" NameC="綠族無限" JockeyNameE="P N Wong" JockeyNameC="黃寶妮"/>
+<Tip Position="3" RunnerNumber="4" NameE="MUGEN" NameC="綠族無限" JockeyNameE="P N Wong" JockeyNameC="黃寶妮"/>
+<Tip Position="4" RunnerNumber="11" NameE="AERIS NOVA" NameC="風再起時" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
 </race>
 <!--
 <trackside text=""/>
