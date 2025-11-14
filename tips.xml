@@ -53,13 +53,13 @@
 <Tip Position="1" RunnerNumber="5" NameE="TURIN MASCOT" NameC="都靈福星" JockeyNameE="J McDonald" JockeyNameC="麥道朗"/>
 <Tip Position="2" RunnerNumber="12" NameE="PRECISION GOAL" NameC="天時明駒" JockeyNameE="H Doyle" JockeyNameC="杜苑欣"/>
 <Tip Position="3" RunnerNumber="7" NameE="RELIABLE PROFIT" NameC="堅有利" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="4" RunnerNumber="1" NameE="SNOWFIELD" NameC="飛雪神駒" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
+<Tip Position="4" RunnerNumber="6" NameE="KEMPES" NameC="肯佩斯" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
 </race>
 <race num="10">
 <Tip Position="1" RunnerNumber="6" NameE="MORGAN SUCCESS" NameC="龍城精將" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
 <Tip Position="2" RunnerNumber="2" NameE="WINNING GOLD" NameC="金勝名駒" JockeyNameE="E C W Wong" JockeyNameC="黃智弘"/>
-<Tip Position="3" RunnerNumber="5" NameE="BEAUTY BOLT" NameC="美麗星晨" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="4" RunnerNumber="8" NameE="FORTUNE BOY" NameC="火焰閃爍" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
+<Tip Position="3" RunnerNumber="8" NameE="FORTUNE BOY" NameC="火焰閃爍" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
+<Tip Position="4" RunnerNumber="5" NameE="BEAUTY BOLT" NameC="美麗星晨" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
 </race>
 <!--
 <trackside text=""/>
