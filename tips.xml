@@ -14,10 +14,10 @@
 <Tip Position="4" RunnerNumber="2" NameE="SAVVY BRILLIANT" NameC="耀寶" JockeyNameE="H Doyle" JockeyNameC="杜苑欣"/>
 </race>
 <race num="3">
-<Tip Position="1" RunnerNumber="1" NameE="MAJESTIC VALOUR" NameC="勇者為皇" JockeyNameE="R Moore" JockeyNameC="莫雅"/>
-<Tip Position="2" RunnerNumber="7" NameE="AQUAMAN" NameC="海王" JockeyNameE="R Kingscote" JockeyNameC="金誠剛"/>
-<Tip Position="3" RunnerNumber="10" NameE="STORMY KNIGHT" NameC="閃電武士" JockeyNameE="H Bowman" JockeyNameC="布文"/>
-<Tip Position="4" RunnerNumber="6" NameE="JUBILANT STAR" NameC="福聚" JockeyNameE="J McDonald" JockeyNameC="麥道朗"/>
+<Tip Position="1" RunnerNumber="7" NameE="AQUAMAN" NameC="海王" JockeyNameE="R Kingscote" JockeyNameC="金誠剛"/>
+<Tip Position="2" RunnerNumber="10" NameE="STORMY KNIGHT" NameC="閃電武士" JockeyNameE="H Bowman" JockeyNameC="布文"/>
+<Tip Position="3" RunnerNumber="1" NameE="MAJESTIC VALOUR" NameC="勇者為皇" JockeyNameE="R Moore" JockeyNameC="莫雅"/>
+<Tip Position="4" RunnerNumber="14" NameE="LUCKY MCQUEEN" NameC="幸運愉快" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
 </race>
 <race num="4">
 <Tip Position="1" RunnerNumber="2" NameE="AL RIFFA" NameC="班霸實力" JockeyNameE="D B McMonagle" JockeyNameC="麥文堅"/>
@@ -38,10 +38,10 @@
 <Tip Position="4" RunnerNumber="9" NameE="PANACEA" NameC="自然動力" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
 </race>
 <race num="7">
-<Tip Position="1" RunnerNumber="7" NameE="HAPPY TOGETHER" NameC="越駿歡欣" JockeyNameE="A Badel" JockeyNameC="巴度"/>
+<Tip Position="1" RunnerNumber="7" NameE="PRAY FOR MIR" NameC="和平波" JockeyNameE="A Badel" JockeyNameC="巴度"/>
 <Tip Position="2" RunnerNumber="3" NameE="DOCKLANDS" NameC="港邊小區" JockeyNameE="T Marquand" JockeyNameC="馬昆"/>
-<Tip Position="3" RunnerNumber="4" NameE="BEAUTY JOY" NameC="美麗同享" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
-<Tip Position="4" RunnerNumber="5" NameE="GALAXY PATCH" NameC="錶之銀河" JockeyNameE="J McDonald" JockeyNameC="麥道朗"/>
+<Tip Position="3" RunnerNumber="11" NameE="COPARTNER PRANCE" NameC="合夥奔馳" JockeyNameE="M Guyon" JockeyNameC="紀仁安"/>
+<Tip Position="4" RunnerNumber="4" NameE="BEAUTY JOY" NameC="美麗同享" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
 </race>
 <race num="8">
 <Tip Position="1" RunnerNumber="6" NameE="CHANCHENG GLORY" NameC="禪勝輝煌" JockeyNameE="M Guyon" JockeyNameC="紀仁安"/>
@@ -50,8 +50,8 @@
 <Tip Position="4" RunnerNumber="2" NameE="BELLAGIO OPERA" NameC="寶徠歌劇" JockeyNameE="K Yokoyama" JockeyNameC="橫山和生"/>
 </race>
 <race num="9">
-<Tip Position="1" RunnerNumber="6" NameE="LUCKY MY WAY" NameC="幸運多彩" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
-<Tip Position="2" RunnerNumber="7" NameE="DRAGON JOY" NameC="皇仁歡星" JockeyNameE="H Doyle" JockeyNameC="杜苑欣"/>
+<Tip Position="1" RunnerNumber="7" NameE="DRAGON JOY" NameC="皇仁歡星" JockeyNameE="H Doyle" JockeyNameC="杜苑欣"/>
+<Tip Position="2" RunnerNumber="6" NameE="LUCKY MY WAY" NameC="幸運多彩" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
 <Tip Position="3" RunnerNumber="1" NameE="JUNEAU PRIDE" NameC="至尊高超" JockeyNameE="R Moore" JockeyNameC="莫雅"/>
 <Tip Position="4" RunnerNumber="5" NameE="URANUS STAR" NameC="開心三寶" JockeyNameE="M Guyon" JockeyNameC="紀仁安"/>
 </race>
