@@ -4,8 +4,8 @@
 <race num="1">
 <Tip Position="1" RunnerNumber="12" NameE="STAR ELEGANCE" NameC="八心之星" JockeyNameE="J Orman" JockeyNameC="奧爾民"/>
 <Tip Position="2" RunnerNumber="7" NameE="GORGEOUS VICTORY" NameC="華麗再贏" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
-<Tip Position="3" RunnerNumber="3" NameE="TURIN CHAMPIONS" NameC="都靈冠星" JockeyNameE="H Bowman" JockeyNameC="布文"/>
-<Tip Position="4" RunnerNumber="11" NameE="FOREVER FANCY" NameC="一路精彩" JockeyNameE="D Probert" JockeyNameC="潘大衛"/>
+<Tip Position="3" RunnerNumber="11" NameE="FOREVER FANCY" NameC="一路精彩" JockeyNameE="D Probert" JockeyNameC="潘大衛"/>
+<Tip Position="4" RunnerNumber="3" NameE="TURIN CHAMPIONS" NameC="都靈冠星" JockeyNameE="H Bowman" JockeyNameC="布文"/>
 </race>
 <race num="2">
 <Tip Position="1" RunnerNumber="8" NameE="VIGOR EYE" NameC="銳目" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
@@ -53,7 +53,7 @@
 <Tip Position="1" RunnerNumber="11" NameE="EVERSTAR" NameC="廚神" JockeyNameE="M Guyon" JockeyNameC="紀仁安"/>
 <Tip Position="2" RunnerNumber="12" NameE="MASK RIDER" NameC="假面騎士" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
 <Tip Position="3" RunnerNumber="8" NameE="RELIABLE PROFIT" NameC="堅有利" JockeyNameE="J Orman" JockeyNameC="奧爾民"/>
-<Tip Position="4" RunnerNumber="1" NameE="NEW FOREST" NameC="新意馬" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
+<Tip Position="4" RunnerNumber="2" NameE="PERFECT TEAM" NameC="精彩動力" JockeyNameE="E C W Wong" JockeyNameC="黃智弘"/>
 </race>
 <race num="10">
 <Tip Position="1" RunnerNumber="4" NameE="PRESTIGE ALWAYS" NameC="盈妍威楓" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
