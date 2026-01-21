@@ -3,7 +3,7 @@
 <meeting date="21-01-2026" venue="ST" title="心水提供"/>
 <race num="1">
 <Tip Position="1" RunnerNumber="7" NameE="RICH HORSE" NameC="富貴駒" JockeyNameE="J Orman" JockeyNameC="奧爾民"/>
-<Tip Position="2" RunnerNumber="4" NameE="GENERAL SMART" NameC="志醒大將" JockeyNameE="H Bowman" JockeyNameC="布文"/>
+<Tip Position="2" RunnerNumber="4" NameE="GENERAL SMART" NameC="志醒大將" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
 <Tip Position="3" RunnerNumber="11" NameE="MACANESE MASTER" NameC="銀亮濠俠" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
 <Tip Position="4" RunnerNumber="10" NameE="NOBLE DELUXE" NameC="魅力星" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
 </race>
@@ -17,7 +17,7 @@
 <Tip Position="1" RunnerNumber="10" NameE="SPEEDY SMARTIE" NameC="伶俐驫駒" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
 <Tip Position="2" RunnerNumber="11" NameE="JUICY DRAGON" NameC="起舞奜奜" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
 <Tip Position="3" RunnerNumber="2" NameE="DAY DAY VICTORY" NameC="瑤瑤日上" JockeyNameE="A Badel" JockeyNameC="巴度"/>
-<Tip Position="4" RunnerNumber="6" NameE="MONTA FRUTTA" NameC="花果猴王" JockeyNameE="H Bowman" JockeyNameC="布文"/>
+<Tip Position="4" RunnerNumber="6" NameE="MONTA FRUTTA" NameC="花果猴王" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
 </race>
 <race num="4">
 <Tip Position="1" RunnerNumber="6" NameE="NEW FOREST" NameC="新意馬" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
@@ -28,7 +28,7 @@
 <race num="5">
 <Tip Position="1" RunnerNumber="4" NameE="FORTUNE WHISKEY" NameC="運來伍寶" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
 <Tip Position="2" RunnerNumber="7" NameE="FLYING TING LOK" NameC="螢影飛馳" JockeyNameE="J Orman" JockeyNameC="奧爾民"/>
-<Tip Position="3" RunnerNumber="2" NameE="VULCANUS" NameC="星火燎原" JockeyNameE="H Bowman" JockeyNameC="布文"/>
+<Tip Position="3" RunnerNumber="2" NameE="VULCANUS" NameC="星火燎原" JockeyNameE="M Guyon" JockeyNameC="紀仁安"/>
 <Tip Position="4" RunnerNumber="9" NameE="SO MY FOLKS" NameC="嘉嘉友福" JockeyNameE="D B McMonagle" JockeyNameC="麥文堅"/>
 </race>
 <race num="6">
@@ -38,16 +38,16 @@
 <Tip Position="4" RunnerNumber="10" NameE="YODA'S CHOICE" NameC="精明選擇" JockeyNameE="M Guyon" JockeyNameC="紀仁安"/>
 </race>
 <race num="7">
-<Tip Position="1" RunnerNumber="6" NameE="SIGHT DREAMER" NameC="巧眼光" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
+<Tip Position="1" RunnerNumber="14" NameE="CONSPIRACY WITNESS" NameC="古惑大師" JockeyNameE="M L Yeung" JockeyNameC="楊明綸"/>
 <Tip Position="2" RunnerNumber="5" NameE="FASHION LEGEND" NameC="川河型駒" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
-<Tip Position="3" RunnerNumber="1" NameE="NEVER PETER OUT" NameC="天威" JockeyNameE="H T Mo" JockeyNameC="巫顯東"/>
-<Tip Position="4" RunnerNumber="10" NameE="MEGA FORCE" NameC="十力" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
+<Tip Position="3" RunnerNumber="6" NameE="SIGHT DREAMER" NameC="巧眼光" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
+<Tip Position="4" RunnerNumber="1" NameE="NEVER PETER OUT" NameC="天威" JockeyNameE="H T Mo" JockeyNameC="巫顯東"/>
 </race>
 <race num="8">
 <Tip Position="1" RunnerNumber="2" NameE="WONDERSTAR" NameC="手到齊來" JockeyNameE="M Guyon" JockeyNameC="紀仁安"/>
 <Tip Position="2" RunnerNumber="10" NameE="PARENTS' LOVE" NameC="勝萬金" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
-<Tip Position="3" RunnerNumber="6" NameE="GUMMY GUMMY" NameC="晶晶日上" JockeyNameE="R Kingscote" JockeyNameC="金誠剛"/>
-<Tip Position="4" RunnerNumber="4" NameE="THUNDER BLAZE" NameC="風火輪" JockeyNameE="J Orman" JockeyNameC="奧爾民"/>
+<Tip Position="3" RunnerNumber="4" NameE="THUNDER BLAZE" NameC="風火輪" JockeyNameE="J Orman" JockeyNameC="奧爾民"/>
+<Tip Position="4" RunnerNumber="6" NameE="GUMMY GUMMY" NameC="晶晶日上" JockeyNameE="R Kingscote" JockeyNameC="金誠剛"/>
 </race>
 <race num="9">
 <Tip Position="1" RunnerNumber="4" NameE="ANOTHER WORLD" NameC="不同世界" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
