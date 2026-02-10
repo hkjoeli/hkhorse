@@ -15,9 +15,9 @@
 </race>
 <race num="3">
 <Tip Position="1" RunnerNumber="7" NameE="KOLACHI" NameC="至高心得" JockeyNameE="D B McMonagle" JockeyNameC="麥文堅"/>
-<Tip Position="2" RunnerNumber="3" NameE="ABSOLUTE AWAKENED" NameC="活力精神" JockeyNameE="H Bowman" JockeyNameC="布文"/>
-<Tip Position="3" RunnerNumber="4" NameE="PRESTIGE RICKY" NameC="瑞祺威楓" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
-<Tip Position="4" RunnerNumber="8" NameE="INNO SUPER" NameC="創科群英" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
+<Tip Position="2" RunnerNumber="4" NameE="PRESTIGE RICKY" NameC="瑞祺威楓" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
+<Tip Position="3" RunnerNumber="3" NameE="ABSOLUTE AWAKENED" NameC="活力精神" JockeyNameE="H Bowman" JockeyNameC="布文"/>
+<Tip Position="4" RunnerNumber="12" NameE="SETANTA" NameC="駟跑得" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
 </race>
 <race num="4">
 <Tip Position="1" RunnerNumber="3" NameE="FORTUNE WHISKEY" NameC="運來伍寶" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
@@ -26,8 +26,8 @@
 <Tip Position="4" RunnerNumber="5" NameE="LIGHTNING ACE" NameC="悠然常勝" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
 </race>
 <race num="5">
-<Tip Position="1" RunnerNumber="6" NameE="STAR PERFORMER" NameC="枕頭之星" JockeyNameE="A Badel" JockeyNameC="巴度"/>
-<Tip Position="2" RunnerNumber="7" NameE="HAPPY UNITED" NameC="萬眾開心" JockeyNameE="M Guyon" JockeyNameC="紀仁安"/>
+<Tip Position="1" RunnerNumber="7" NameE="HAPPY UNITED" NameC="萬眾開心" JockeyNameE="M Guyon" JockeyNameC="紀仁安"/>
+<Tip Position="2" RunnerNumber="6" NameE="STAR PERFORMER" NameC="枕頭之星" JockeyNameE="A Badel" JockeyNameC="巴度"/>
 <Tip Position="3" RunnerNumber="3" NameE="HARMONY FIRE" NameC="天火同人" JockeyNameE="D B McMonagle" JockeyNameC="麥文堅"/>
 <Tip Position="4" RunnerNumber="2" NameE="BUNTA BABY" NameC="品德寶寶" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
 </race>
@@ -41,7 +41,7 @@
 <Tip Position="1" RunnerNumber="11" NameE="BLAZING BEAM" NameC="前衛火影" JockeyNameE="R Kingscote" JockeyNameC="金誠剛"/>
 <Tip Position="2" RunnerNumber="3" NameE="FLYING WROTE" NameC="東來欣賞" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
 <Tip Position="3" RunnerNumber="8" NameE="ZETA HEDGE" NameC="精算奕然" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
-<Tip Position="4" RunnerNumber="2" NameE="GIANT LEAP" NameC="日馳千里" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
+<Tip Position="4" RunnerNumber="10" NameE="KING GLORIOSO" NameC="皇帝英豪" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
 </race>
 <race num="8">
 <Tip Position="1" RunnerNumber="3" NameE="SPORTS LEGEND" NameC="川河動駒" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
@@ -50,9 +50,9 @@
 <Tip Position="4" RunnerNumber="11" NameE="AMAZING KID" NameC="福星小子" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
 </race>
 <race num="9">
-<Tip Position="1" RunnerNumber="6" NameE="LUCKY EIGHT" NameC="運高八斗" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
-<Tip Position="2" RunnerNumber="1" NameE="HARMONY N BLESSED" NameC="人和家興" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
-<Tip Position="3" RunnerNumber="4" NameE="SPICY GOLD" NameC="椒椒醒" JockeyNameE="D B McMonagle" JockeyNameC="麥文堅"/>
+<Tip Position="1" RunnerNumber="4" NameE="SPICY GOLD" NameC="椒椒醒" JockeyNameE="D B McMonagle" JockeyNameC="麥文堅"/>
+<Tip Position="2" RunnerNumber="6" NameE="LUCKY EIGHT" NameC="運高八斗" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
+<Tip Position="3" RunnerNumber="1" NameE="HARMONY N BLESSED" NameC="人和家興" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
 <Tip Position="4" RunnerNumber="3" NameE="LUCKY PLANET" NameC="幸運星球" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
 </race>
 <!--
