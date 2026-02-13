@@ -2,8 +2,8 @@
 <tips>
 <meeting date="14-02-2026" venue="ST" title="心水提供"/>
 <race num="1">
-<Tip Position="1" RunnerNumber="9" NameE="NOBLE FANS" NameC="魅力知福" JockeyNameE="M L Yeung" JockeyNameC="楊明綸"/>
-<Tip Position="2" RunnerNumber="10" NameE="GOR GOR" NameC="暴風一族" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
+<Tip Position="1" RunnerNumber="10" NameE="GOR GOR" NameC="暴風一族" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
+<Tip Position="2" RunnerNumber="9" NameE="NOBLE FANS" NameC="魅力知福" JockeyNameE="M L Yeung" JockeyNameC="楊明綸"/>
 <Tip Position="3" RunnerNumber="7" NameE="RUBY SAILING" NameC="紅海風帆" JockeyNameE="E C W Wong" JockeyNameC="黃智弘"/>
 <Tip Position="4" RunnerNumber="8" NameE="INCREDIBLE MOMENT" NameC="非凡時刻" JockeyNameE="R Kingscote" JockeyNameC="金誠剛"/>
 </race>
@@ -52,14 +52,14 @@
 <race num="9">
 <Tip Position="1" RunnerNumber="10" NameE="LOOKING BRIGHT" NameC="路路勁" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
 <Tip Position="2" RunnerNumber="12" NameE="SPARKLING FELLOW" NameC="飛來閃耀" JockeyNameE="A Badel" JockeyNameC="巴度"/>
-<Tip Position="3" RunnerNumber="4" NameE="SIGHT HERMOSO" NameC="俏眼光" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
-<Tip Position="4" RunnerNumber="11" NameE="PI LEGEND" NameC="偵探傳奇" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
+<Tip Position="3" RunnerNumber="11" NameE="PI LEGEND" NameC="偵探傳奇" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
+<Tip Position="4" RunnerNumber="4" NameE="SIGHT HERMOSO" NameC="俏眼光" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
 </race>
 <race num="10">
 <Tip Position="1" RunnerNumber="7" NameE="ENTHUSIUM" NameC="安帝" JockeyNameE="A Badel" JockeyNameC="巴度"/>
-<Tip Position="2" RunnerNumber="1" NameE="GLITTERING LEGEND" NameC="川河耀駒" JockeyNameE="H Bowman" JockeyNameC="布文"/>
-<Tip Position="3" RunnerNumber="11" NameE="WITHOUT COMPARE" NameC="凌登" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
-<Tip Position="4" RunnerNumber="6" NameE="CHILL EASY" NameC="超輕鬆" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
+<Tip Position="2" RunnerNumber="11" NameE="WITHOUT COMPARE" NameC="凌登" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
+<Tip Position="3" RunnerNumber="1" NameE="GLITTERING LEGEND" NameC="川河耀駒" JockeyNameE="H Bowman" JockeyNameC="布文"/>
+<Tip Position="4" RunnerNumber="4" NameE="NATURAL NUMBERS" NameC="天然數字" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
 </race>
 <!--
 <trackside text=""/>
