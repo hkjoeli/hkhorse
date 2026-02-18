@@ -14,10 +14,10 @@
 <Tip Position="4" RunnerNumber="10" NameE="SUPREME VOYAGER" NameC="杭至尊" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
 </race>
 <race num="3">
-<Tip Position="1" RunnerNumber="4" NameE="FORZA TORO" NameC="哥倫布" JockeyNameE="H Bowman" JockeyNameC="布文"/>
+<Tip Position="1" RunnerNumber="7" NameE="VICTOR SUPREME" NameC="捷威" JockeyNameE="D B McMonagle" JockeyNameC="麥文堅"/>
 <Tip Position="2" RunnerNumber="1" NameE="BUCEPHALAS" NameC="鬥志波" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
-<Tip Position="3" RunnerNumber="10" NameE="FLYING BOOM" NameC="勤德天下" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
-<Tip Position="4" RunnerNumber="11" NameE="PING HAI COMET" NameC="平海之星" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
+<Tip Position="3" RunnerNumber="11" NameE="PING HAI COMET" NameC="平海之星" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
+<Tip Position="4" RunnerNumber="8" NameE="PEARL OF PANG'S" NameC="彭玥" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
 </race>
 <race num="4">
 <Tip Position="1" RunnerNumber="8" NameE="QUICK MONEY" NameC="不勞而獲" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
@@ -44,8 +44,8 @@
 <Tip Position="4" RunnerNumber="8" NameE="BROWNNEEDSFURTHER" NameC="星辰千帥" JockeyNameE="J Orman" JockeyNameC="奧爾民"/>
 </race>
 <race num="8">
-<Tip Position="1" RunnerNumber="7" NameE="VULCANUS" NameC="星火燎原" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
-<Tip Position="2" RunnerNumber="3" NameE="MASTER OF ALL" NameC="勇冠群英" JockeyNameE="M L Yeung" JockeyNameC="楊明綸"/>
+<Tip Position="1" RunnerNumber="3" NameE="MASTER OF ALL" NameC="勇冠群英" JockeyNameE="M L Yeung" JockeyNameC="楊明綸"/>
+<Tip Position="2" RunnerNumber="7" NameE="VULCANUS" NameC="星火燎原" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
 <Tip Position="3" RunnerNumber="8" NameE="FIT FOR BEAUTY" NameC="一世美麗" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
 <Tip Position="4" RunnerNumber="6" NameE="NEW FUTURE FOLKS" NameC="帥帥友福" JockeyNameE="H Bowman" JockeyNameC="布文"/>
 </race>
