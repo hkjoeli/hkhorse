@@ -9,7 +9,7 @@
 </race>
 <race num="2">
 <Tip Position="1" RunnerNumber="11" NameE="DECISION LINK" NameC="有情有義" JockeyNameE="A Badel" JockeyNameC="巴度"/>
-<Tip Position="2" RunnerNumber="2" NameE="MR COOL" NameC="紅衣醒目" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
+<Tip Position="2" RunnerNumber="2" NameE="MR COOL" NameC="紅衣醒目" JockeyNameE="D B McMonagle" JockeyNameC="麥文堅"/>
 <Tip Position="3" RunnerNumber="7" NameE="CALIFORNIA BAY" NameC="加州勇勝" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
 <Tip Position="4" RunnerNumber="13" NameE="FIGHT TIME" NameC="凱旋幸運" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
 </race>
@@ -29,7 +29,7 @@
 <Tip Position="1" RunnerNumber="6" NameE="CONRAD PATCH" NameC="錶之浩瀚" JockeyNameE="H Bowman" JockeyNameC="布文"/>
 <Tip Position="2" RunnerNumber="7" NameE="HEALTHY PONY" NameC="健康小馬" JockeyNameE="R Kingscote" JockeyNameC="金誠剛"/>
 <Tip Position="3" RunnerNumber="1" NameE="REAL GENTLEMAN" NameC="君子" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
-<Tip Position="4" RunnerNumber="3" NameE="ISLAND BUDDY" NameC="鼓浪好友" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
+<Tip Position="4" RunnerNumber="4" NameE="HAPPY SHOOTER" NameC="逍遙人生" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
 </race>
 <race num="6">
 <Tip Position="1" RunnerNumber="6" NameE="PERFECTDAY" NameC="臻至辰" JockeyNameE="J McDonald" JockeyNameC="麥道朗"/>
@@ -45,7 +45,7 @@
 </race>
 <race num="8">
 <Tip Position="1" RunnerNumber="6" NameE="AURIO" NameC="志滿同行" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="2" RunnerNumber="1" NameE="LUCY IN THE SKY" NameC="鑽石星空" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
+<Tip Position="2" RunnerNumber="1" NameE="LUCY IN THE SKY" NameC="鑽石星空" JockeyNameE="M Guyon" JockeyNameC="紀仁安"/>
 <Tip Position="3" RunnerNumber="9" NameE="WUKONG JEWELLERY" NameC="首飾悟空" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
 <Tip Position="4" RunnerNumber="4" NameE="RISING FORCE" NameC="扶搖勢勁" JockeyNameE="R Kingscote" JockeyNameC="金誠剛"/>
 </race>
@@ -65,7 +65,7 @@
 <Tip Position="1" RunnerNumber="1" NameE="HEALTHY HAPPY" NameC="健康愉快" JockeyNameE="E C W Wong" JockeyNameC="黃智弘"/>
 <Tip Position="2" RunnerNumber="2" NameE="BEAUTY ETERNAL" NameC="永遠美麗" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
 <Tip Position="3" RunnerNumber="9" NameE="EMBLAZON" NameC="會當凌" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
-<Tip Position="4" RunnerNumber="11" NameE="MID WINTER WIND" NameC="駿跑得" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
+<Tip Position="4" RunnerNumber="10" NameE="JUNEAU PRIDE" NameC="至尊高超" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
 </race>
 <!--
 <trackside text=""/>
