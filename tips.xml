@@ -10,8 +10,8 @@
 <race num="2">
 <Tip Position="1" RunnerNumber="6" NameE="SMART FIGHTER" NameC="你知我得" JockeyNameE="A Badel" JockeyNameC="巴度"/>
 <Tip Position="2" RunnerNumber="8" NameE="LUCKY MCQUEEN" NameC="幸運愉快" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
-<Tip Position="3" RunnerNumber="1" NameE="JOKER ORBIT" NameC="莊家班" JockeyNameE="H Bowman" JockeyNameC="布文"/>
-<Tip Position="4" RunnerNumber="9" NameE="VIVA FIRECRACKER" NameC="爆竹" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
+<Tip Position="3" RunnerNumber="9" NameE="VIVA FIRECRACKER" NameC="爆竹" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
+<Tip Position="4" RunnerNumber="1" NameE="JOKER ORBIT" NameC="莊家班" JockeyNameE="H Bowman" JockeyNameC="布文"/>
 </race>
 <race num="3">
 <Tip Position="1" RunnerNumber="7" NameE="TO INFINITY" NameC="極速滿貫" JockeyNameE="J Orman" JockeyNameC="奧爾民"/>
@@ -28,8 +28,8 @@
 <race num="5">
 <Tip Position="1" RunnerNumber="6" NameE="VULCANUS" NameC="星火燎原" JockeyNameE="H Bowman" JockeyNameC="布文"/>
 <Tip Position="2" RunnerNumber="5" NameE="SUGAR SUGAR" NameC="鈁糖武士" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
-<Tip Position="3" RunnerNumber="1" NameE="KING MILES" NameC="安康萬里" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
-<Tip Position="4" RunnerNumber="3" NameE="BIENVENUE" NameC="天外迎天" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="3" RunnerNumber="3" NameE="BIENVENUE" NameC="天外迎天" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="4" RunnerNumber="1" NameE="KING MILES" NameC="安康萬里" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
 </race>
 <race num="6">
 <Tip Position="1" RunnerNumber="3" NameE="FUN ELITE" NameC="中環精英" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
