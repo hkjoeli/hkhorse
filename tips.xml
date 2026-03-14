@@ -4,14 +4,14 @@
 <race num="1">
 <Tip Position="1" RunnerNumber="12" NameE="PHANTOM CYCLONE" NameC="幻影旋風" JockeyNameE="R Kingscote" JockeyNameC="金誠剛"/>
 <Tip Position="2" RunnerNumber="10" NameE="SMART BEAUTY" NameC="美麗多盈" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
-<Tip Position="3" RunnerNumber="7" NameE="FAMILY FORTUNE" NameC="富裕君子" JockeyNameE="D B McMonagle" JockeyNameC="麥文堅"/>
-<Tip Position="4" RunnerNumber="9" NameE="MEEPMEEP" NameC="大利好運" JockeyNameE="H Bowman" JockeyNameC="布文"/>
+<Tip Position="3" RunnerNumber="9" NameE="MEEPMEEP" NameC="大利好運" JockeyNameE="H Bowman" JockeyNameC="布文"/>
+<Tip Position="4" RunnerNumber="7" NameE="FAMILY FORTUNE" NameC="富裕君子" JockeyNameE="D B McMonagle" JockeyNameC="麥文堅"/>
 </race>
 <race num="2">
 <Tip Position="1" RunnerNumber="9" NameE="MAJESTIC DELIGHT" NameC="首駿" JockeyNameE="H Bowman" JockeyNameC="布文"/>
 <Tip Position="2" RunnerNumber="12" NameE="RICH HORSE" NameC="富貴駒" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
-<Tip Position="3" RunnerNumber="5" NameE="REWARDING TWINKLE" NameC="駿馬之星" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
-<Tip Position="4" RunnerNumber="2" NameE="BASIC INSTINCT" NameC="本能" JockeyNameE="R Kingscote" JockeyNameC="金誠剛"/>
+<Tip Position="3" RunnerNumber="2" NameE="BASIC INSTINCT" NameC="本能" JockeyNameE="R Kingscote" JockeyNameC="金誠剛"/>
+<Tip Position="4" RunnerNumber="5" NameE="REWARDING TWINKLE" NameC="駿馬之星" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
 </race>
 <race num="3">
 <Tip Position="1" RunnerNumber="7" NameE="RUSSET GLOW" NameC="安定神駒" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
@@ -50,16 +50,16 @@
 <Tip Position="4" RunnerNumber="4" NameE="DEFINITIVE" NameC="時時精準" JockeyNameE="D B McMonagle" JockeyNameC="麥文堅"/>
 </race>
 <race num="9">
-<Tip Position="1" RunnerNumber="4" NameE="LET'S HAVE FUN" NameC="共創歡欣" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="2" RunnerNumber="12" NameE="SPECIAL HEDGE" NameC="精算特殊" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
-<Tip Position="3" RunnerNumber="9" NameE="AMAZING DUCK" NameC="君達得" JockeyNameE="R Kingscote" JockeyNameC="金誠剛"/>
-<Tip Position="4" RunnerNumber="2" NameE="RUN RUN SMART" NameC="自動自覺" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
+<Tip Position="1" RunnerNumber="12" NameE="SPECIAL HEDGE" NameC="精算特殊" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
+<Tip Position="2" RunnerNumber="9" NameE="AMAZING DUCK" NameC="君達得" JockeyNameE="R Kingscote" JockeyNameC="金誠剛"/>
+<Tip Position="3" RunnerNumber="7" NameE="BRIGHT DAY" NameC="朗日自強" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
+<Tip Position="4" RunnerNumber="4" NameE="LET'S HAVE FUN" NameC="共創歡欣" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
 </race>
 <race num="10">
 <Tip Position="1" RunnerNumber="9" NameE="WUKONG JEWELLERY" NameC="首飾悟空" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
 <Tip Position="2" RunnerNumber="3" NameE="RED SEA" NameC="赤海" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
 <Tip Position="3" RunnerNumber="7" NameE="THUNDER KIT" NameC="傑出雷霆" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
-<Tip Position="4" RunnerNumber="12" NameE="LO PAN SPIRIT" NameC="魯班精神" JockeyNameE="H T Mo" JockeyNameC="巫顯東"/>
+<Tip Position="4" RunnerNumber="4" NameE="SMART GOLF" NameC="醒目高球" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
 </race>
 <race num="11">
 <Tip Position="1" RunnerNumber="7" NameE="FIT FOR BEAUTY" NameC="一世美麗" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
