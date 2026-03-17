@@ -20,16 +20,16 @@
 <Tip Position="4" RunnerNumber="7" NameE="HONEST WITNESS" NameC="可靠大師" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
 </race>
 <race num="4">
-<Tip Position="1" RunnerNumber="1" NameE="VERY GRATEFUL" NameC="凱皇寶" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
-<Tip Position="2" RunnerNumber="9" NameE="LEGEND STAR" NameC="有盈勇士" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
+<Tip Position="1" RunnerNumber="9" NameE="LEGEND STAR" NameC="有盈勇士" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
+<Tip Position="2" RunnerNumber="1" NameE="VERY GRATEFUL" NameC="凱皇寶" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
 <Tip Position="3" RunnerNumber="6" NameE="MARVEL AND GOLD" NameC="神異金剛" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
 <Tip Position="4" RunnerNumber="12" NameE="WORLD HERO" NameC="環球英雄" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
 </race>
 <race num="5">
-<Tip Position="1" RunnerNumber="1" NameE="KING OBERON" NameC="勝多多" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
-<Tip Position="2" RunnerNumber="9" NameE="HOLMES A COURT" NameC="風火猴王" JockeyNameE="H Bowman" JockeyNameC="布文"/>
-<Tip Position="3" RunnerNumber="6" NameE="SKY CAP" NameC="富心星" JockeyNameE="D B McMonagle" JockeyNameC="麥文堅"/>
-<Tip Position="4" RunnerNumber="5" NameE="RAINBOW SEVEN" NameC="彩虹七色" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="1" RunnerNumber="6" NameE="SKY CAP" NameC="富心星" JockeyNameE="D B McMonagle" JockeyNameC="麥文堅"/>
+<Tip Position="2" RunnerNumber="1" NameE="KING OBERON" NameC="勝多多" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
+<Tip Position="3" RunnerNumber="9" NameE="HOLMES A COURT" NameC="風火猴王" JockeyNameE="H Bowman" JockeyNameC="布文"/>
+<Tip Position="4" RunnerNumber="12" NameE="WINNING CHAMPION" NameC="過關勇士" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
 </race>
 <race num="6">
 <Tip Position="1" RunnerNumber="6" NameE="RELIABLE DAD" NameC="愛心波" JockeyNameE="J Orman" JockeyNameC="奧爾民"/>
@@ -50,10 +50,10 @@
 <Tip Position="4" RunnerNumber="1" NameE="MASTEROFMYUNIVERSE" NameC="真心傳奇" JockeyNameE="D B McMonagle" JockeyNameC="麥文堅"/>
 </race>
 <race num="9">
-<Tip Position="1" RunnerNumber="7" NameE="SAMARKAND" NameC="建測羣英" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
+<Tip Position="1" RunnerNumber="7" NameE="VIOLET STAR" NameC="紫辰之星" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
 <Tip Position="2" RunnerNumber="1" NameE="MAX QUE" NameC="勁沙塵" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
 <Tip Position="3" RunnerNumber="9" NameE="STORMI" NameC="翠兒威威" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
-<Tip Position="4" RunnerNumber="2" NameE="NOISY BOY" NameC="優才" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
+<Tip Position="4" RunnerNumber="6" NameE="FORTUNATE SON" NameC="將義" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
 </race>
 <!--
 <trackside text=""/>
