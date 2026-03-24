@@ -35,7 +35,7 @@
 <Tip Position="1" RunnerNumber="5" NameE="MOTOR" NameC="馬達" JockeyNameE="H Bowman" JockeyNameC="布文"/>
 <Tip Position="2" RunnerNumber="1" NameE="HAYDAY" NameC="千杯敬典" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
 <Tip Position="3" RunnerNumber="12" NameE="CALL TO COMMAND" NameC="八里旺" JockeyNameE="M L Yeung" JockeyNameC="楊明綸"/>
-<Tip Position="4" RunnerNumber="6" NameE="SILVER SPURS" NameC="銀刺勇士" JockeyNameE="D B McMonagle" JockeyNameC="麥文堅"/>
+<Tip Position="4" RunnerNumber="9" NameE="AMAZING FUN" NameC="最好玩" JockeyNameE="R Kingscote" JockeyNameC="金誠剛"/>
 </race>
 <race num="7">
 <Tip Position="1" RunnerNumber="1" NameE="VICTOR THE RAPID" NameC="維港激流" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
@@ -46,8 +46,8 @@
 <race num="8">
 <Tip Position="1" RunnerNumber="6" NameE="KING LOTUS" NameC="蓮冠皇" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
 <Tip Position="2" RunnerNumber="7" NameE="WITHOUT COMPARE" NameC="凌登" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
-<Tip Position="3" RunnerNumber="8" NameE="CALIFORNIA MOXIE" NameC="加州活力" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="4" RunnerNumber="11" NameE="FLUORESCENCE" NameC="熒光" JockeyNameE="P N Wong" JockeyNameC="黃寶妮"/>
+<Tip Position="3" RunnerNumber="11" NameE="FLUORESCENCE" NameC="熒光" JockeyNameE="P N Wong" JockeyNameC="黃寶妮"/>
+<Tip Position="4" RunnerNumber="5" NameE="KEEFY" NameC="瑪瑙" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
 </race>
 <race num="9">
 <Tip Position="1" RunnerNumber="1" NameE="SYMBOL OF STRENGTH" NameC="乘數表" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
