@@ -10,8 +10,8 @@
 <race num="2">
 <Tip Position="1" RunnerNumber="10" NameE="WAH MAY WAI WAI" NameC="華美之威" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
 <Tip Position="2" RunnerNumber="9" NameE="DRAGON SUNRISE" NameC="龍又生" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="3" RunnerNumber="12" NameE="SMART TRIO" NameC="常多笑" JockeyNameE="P N Wong" JockeyNameC="黃寶妮"/>
-<Tip Position="4" RunnerNumber="3" NameE="ZETTA FORCE" NameC="小皇爺" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
+<Tip Position="3" RunnerNumber="1" NameE="FLOOF" NameC="歡樂老撾" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
+<Tip Position="4" RunnerNumber="2" NameE="POWER SUMMIT" NameC="問鼎巔峰" JockeyNameE="J Orman" JockeyNameC="奧爾民"/>
 </race>
 <race num="3">
 <Tip Position="1" RunnerNumber="7" NameE="RED BRICK WARRIOR" NameC="紅磚戰士" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
@@ -21,8 +21,8 @@
 </race>
 <race num="4">
 <Tip Position="1" RunnerNumber="1" NameE="ENTHRALLED" NameC="安可" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="2" RunnerNumber="3" NameE="NOBLE PURSUIT" NameC="大千氣象" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
-<Tip Position="3" RunnerNumber="10" NameE="KINGLY DEMEANOR" NameC="竣誠駒" JockeyNameE="M L Yeung" JockeyNameC="楊明綸"/>
+<Tip Position="2" RunnerNumber="10" NameE="KINGLY DEMEANOR" NameC="竣誠駒" JockeyNameE="M L Yeung" JockeyNameC="楊明綸"/>
+<Tip Position="3" RunnerNumber="3" NameE="NOBLE PURSUIT" NameC="大千氣象" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
 <Tip Position="4" RunnerNumber="12" NameE="SPLENDID FORCE" NameC="揚威四海" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
 </race>
 <race num="5">
@@ -32,10 +32,10 @@
 <Tip Position="4" RunnerNumber="10" NameE="WIN METHOD" NameC="知道穩勝" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
 </race>
 <race num="6">
-<Tip Position="1" RunnerNumber="9" NameE="CLOUD NINE" NameC="快樂神駒" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
-<Tip Position="2" RunnerNumber="2" NameE="NORTHERN FIRE BALL" NameC="北地烈馬" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
+<Tip Position="1" RunnerNumber="2" NameE="NORTHERN FIRE BALL" NameC="北地烈馬" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
+<Tip Position="2" RunnerNumber="9" NameE="CLOUD NINE" NameC="快樂神駒" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
 <Tip Position="3" RunnerNumber="1" NameE="MOTOR" NameC="馬達" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
-<Tip Position="4" RunnerNumber="8" NameE="QUARTZ LEGEND" NameC="川河石駒" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
+<Tip Position="4" RunnerNumber="6" NameE="RYUI KOKOROE" NameC="龍威心得" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
 </race>
 <race num="7">
 <Tip Position="1" RunnerNumber="6" NameE="THE HEIR" NameC="星運少爵" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
