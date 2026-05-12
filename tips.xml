@@ -8,10 +8,10 @@
 <Tip Position="4" RunnerNumber="5" NameE="TELECOM POWER" NameC="電訊驕陽" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
 </race>
 <race num="2">
-<Tip Position="1" RunnerNumber="6" NameE="RELENTLESS PURSUIT" NameC="大千赤風" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
-<Tip Position="2" RunnerNumber="4" NameE="WORLD HERO" NameC="環球英雄" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
-<Tip Position="3" RunnerNumber="10" NameE="FORZA LEADER" NameC="領袖勁力" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
-<Tip Position="4" RunnerNumber="8" NameE="FORERUNNER" NameC="博愛先鋒" JockeyNameE="A Badel" JockeyNameC="巴度"/>
+<Tip Position="1" RunnerNumber="12" NameE="NEBRASKAN" NameC="獵寶勤" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
+<Tip Position="2" RunnerNumber="1" NameE="BEAUTY GLORY" NameC="美麗邂逅" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
+<Tip Position="3" RunnerNumber="11" NameE="AWESOME TREASURE" NameC="佳運發" JockeyNameE="P N Wong" JockeyNameC="黃寶妮"/>
+<Tip Position="4" RunnerNumber="10" NameE="FORZA LEADER" NameC="領袖勁力" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
 </race>
 <race num="3">
 <Tip Position="1" RunnerNumber="7" NameE="ROMANTIC GLADIATOR" NameC="浪漫鬥士" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
@@ -20,8 +20,8 @@
 <Tip Position="4" RunnerNumber="9" NameE="SUPER UNICORN" NameC="勁好運" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
 </race>
 <race num="4">
-<Tip Position="1" RunnerNumber="1" NameE="MIGHTY STEED" NameC="勁進駒" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="2" RunnerNumber="12" NameE="LAKESHORE HERO" NameC="翠湖烈風" JockeyNameE="P N Wong" JockeyNameC="黃寶妮"/>
+<Tip Position="1" RunnerNumber="12" NameE="LAKESHORE HERO" NameC="翠湖烈風" JockeyNameE="P N Wong" JockeyNameC="黃寶妮"/>
+<Tip Position="2" RunnerNumber="1" NameE="MIGHTY STEED" NameC="勁進駒" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
 <Tip Position="3" RunnerNumber="3" NameE="MEGA MASTERMIND" NameC="睿智多寶" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
 <Tip Position="4" RunnerNumber="7" NameE="ACE POWER" NameC="祥勝力駒" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
 </race>
