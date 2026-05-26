@@ -27,20 +27,20 @@
 </race>
 <race num="5">
 <Tip Position="1" RunnerNumber="10" NameE="GHORGAN" NameC="確好勁" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
-<Tip Position="2" RunnerNumber="4" NameE="A AMERIC TE SPECSO" NameC="有財有勢" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
-<Tip Position="3" RunnerNumber="3" NameE="GLITTERING LEGEND" NameC="川河耀駒" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
+<Tip Position="2" RunnerNumber="3" NameE="GLITTERING LEGEND" NameC="川河耀駒" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
+<Tip Position="3" RunnerNumber="4" NameE="A AMERIC TE SPECSO" NameC="有財有勢" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
 <Tip Position="4" RunnerNumber="2" NameE="ARMOR GOLDEN EAGLE" NameC="穿甲金鷹" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
 </race>
 <race num="6">
 <Tip Position="1" RunnerNumber="12" NameE="WINNING CHAMPION" NameC="過關勇士" JockeyNameE="L Hewitson" JockeyNameC="希威森"/>
 <Tip Position="2" RunnerNumber="8" NameE="DAN ATTACK" NameC="花好月盈" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
-<Tip Position="3" RunnerNumber="1" NameE="CROSSBORDERDUDE" NameC="跨境駿馬" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="4" RunnerNumber="3" NameE="TOURBILLON GOLFER" NameC="飛輪霸" JockeyNameE="E Brown" JockeyNameC="布浩榮"/>
+<Tip Position="3" RunnerNumber="3" NameE="TOURBILLON GOLFER" NameC="飛輪霸" JockeyNameE="E Brown" JockeyNameC="布浩榮"/>
+<Tip Position="4" RunnerNumber="1" NameE="CROSSBORDERDUDE" NameC="跨境駿馬" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
 </race>
 <race num="7">
 <Tip Position="1" RunnerNumber="12" NameE="LEAN MASTER" NameC="精益大師" JockeyNameE="P N Wong" JockeyNameC="黃寶妮"/>
-<Tip Position="2" RunnerNumber="1" NameE="SPIRIT OF PEACE" NameC="泰泰精神" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="3" RunnerNumber="3" NameE="HAYDAY" NameC="千杯敬典" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
+<Tip Position="2" RunnerNumber="3" NameE="HAYDAY" NameC="千杯敬典" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
+<Tip Position="3" RunnerNumber="1" NameE="SPIRIT OF PEACE" NameC="泰泰精神" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
 <Tip Position="4" RunnerNumber="8" NameE="SOO KOO" NameC="君至酷" JockeyNameE="M L Yeung" JockeyNameC="楊明綸"/>
 </race>
 <race num="8">
