@@ -2,16 +2,16 @@
 <tips>
 <meeting date="15-07-2026" venue="HV" title="心水提供"/>
 <race num="1">
-<Tip Position="1" RunnerNumber="5" NameE="SETANTA" NameC="駟跑得" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
-<Tip Position="2" RunnerNumber="6" NameE="TO INFINITY" NameC="極速滿貫" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
-<Tip Position="3" RunnerNumber="2" NameE="CONRAD THE GREAT" NameC="勇者無敵" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
-<Tip Position="4" RunnerNumber="4" NameE="OUR LUCKY GLORY" NameC="多利神駒" JockeyNameE="A Badel" JockeyNameC="巴度"/>
+<Tip Position="1" RunnerNumber="4" NameE="OUR LUCKY GLORY" NameC="多利神駒" JockeyNameE="A Badel" JockeyNameC="巴度"/>
+<Tip Position="2" RunnerNumber="5" NameE="SETANTA" NameC="駟跑得" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
+<Tip Position="3" RunnerNumber="6" NameE="TO INFINITY" NameC="極速滿貫" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
+<Tip Position="4" RunnerNumber="2" NameE="CONRAD THE GREAT" NameC="勇者無敵" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
 </race>
 <race num="2">
 <Tip Position="1" RunnerNumber="4" NameE="GENIUS BABY" NameC="團結戰靈" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
 <Tip Position="2" RunnerNumber="3" NameE="JOLLY BONUS" NameC="好運多彩" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
-<Tip Position="3" RunnerNumber="6" NameE="I AM BACK" NameC="勝利君子" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
-<Tip Position="4" RunnerNumber="1" NameE="FIND MY LOVE" NameC="紅愛舍" JockeyNameE="H Bowman" JockeyNameC="布文"/>
+<Tip Position="3" RunnerNumber="1" NameE="FIND MY LOVE" NameC="紅愛舍" JockeyNameE="H Bowman" JockeyNameC="布文"/>
+<Tip Position="4" RunnerNumber="6" NameE="I AM BACK" NameC="勝利君子" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
 </race>
 <race num="3">
 <Tip Position="1" RunnerNumber="4" NameE="ROMANTIC LAOS" NameC="浪漫老撾" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
@@ -23,7 +23,7 @@
 <Tip Position="1" RunnerNumber="1" NameE="SKY DEEP" NameC="深心星" JockeyNameE="J Moreira" JockeyNameC="莫雷拉"/>
 <Tip Position="2" RunnerNumber="9" NameE="PRESTIGE RICKY" NameC="瑞祺威楓" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
 <Tip Position="3" RunnerNumber="4" NameE="TAKE ACTION" NameC="先到先得" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
-<Tip Position="4" RunnerNumber="3" NameE="LIGHT YEARS GLORY" NameC="光年程祥" JockeyNameE="H Bowman" JockeyNameC="布文"/>
+<Tip Position="4" RunnerNumber="5" NameE="VERY GRATEFUL" NameC="凱皇寶" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
 </race>
 <race num="5">
 <Tip Position="1" RunnerNumber="8" NameE="MY TRIUMPH" NameC="帶贏來" JockeyNameE="E C W Wong" JockeyNameC="黃智弘"/>
@@ -35,7 +35,7 @@
 <Tip Position="1" RunnerNumber="4" NameE="COPARTNER FLEET" NameC="合夥飛馳" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
 <Tip Position="2" RunnerNumber="6" NameE="GRATIFIDE" NameC="時時開心" JockeyNameE="R Kingscote" JockeyNameC="金誠剛"/>
 <Tip Position="3" RunnerNumber="12" NameE="STORMY KNIGHT" NameC="閃電武士" JockeyNameE="M L Yeung" JockeyNameC="楊明綸"/>
-<Tip Position="4" RunnerNumber="3" NameE="REAL GENTLEMAN" NameC="君子" JockeyNameE="H T Mo" JockeyNameC="巫顯東"/>
+<Tip Position="4" RunnerNumber="8" NameE="LITTLE MONSTER" NameC="小魔怪" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
 </race>
 <race num="7">
 <Tip Position="1" RunnerNumber="4" NameE="CALL ME TOPSEED" NameC="傲視同群" JockeyNameE="J Orman" JockeyNameC="奧爾民"/>
@@ -51,9 +51,9 @@
 </race>
 <race num="9">
 <Tip Position="1" RunnerNumber="4" NameE="THUNDER KIT" NameC="傑出雷霆" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
-<Tip Position="2" RunnerNumber="3" NameE="HARMONY N BLESSED" NameC="人和家興" JockeyNameE="H Bowman" JockeyNameC="布文"/>
-<Tip Position="3" RunnerNumber="10" NameE="KING OF FIGHTERS" NameC="佛亮老撾" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
-<Tip Position="4" RunnerNumber="9" NameE="FLYING KNIGHT" NameC="逍遙騎士" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
+<Tip Position="2" RunnerNumber="10" NameE="KING OF FIGHTERS" NameC="佛亮老撾" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
+<Tip Position="3" RunnerNumber="9" NameE="FLYING KNIGHT" NameC="逍遙騎士" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
+<Tip Position="4" RunnerNumber="3" NameE="HARMONY N BLESSED" NameC="人和家興" JockeyNameE="H Bowman" JockeyNameC="布文"/>
 </race>
 <!--
 <trackside text=""/>
