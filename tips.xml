@@ -3,8 +3,8 @@
 <meeting date="13-09-2026" venue="ST" title="心水提供"/>
 <race num="1">
 <Tip Position="1" RunnerNumber="14" NameE="EXCEED THE WISH" NameC="星之願" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
-<Tip Position="2" RunnerNumber="4" NameE="YOUNG FIGHTER" NameC="競駿勇士" JockeyNameE="E C W Wong" JockeyNameC="黃智弘"/>
-<Tip Position="3" RunnerNumber="11" NameE="SUPERB GUY" NameC="巴閉佬" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="2" RunnerNumber="11" NameE="SUPERB GUY" NameC="巴閉佬" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="3" RunnerNumber="4" NameE="YOUNG FIGHTER" NameC="競駿勇士" JockeyNameE="E C W Wong" JockeyNameC="黃智弘"/>
 <Tip Position="4" RunnerNumber="10" NameE="RATTAN GALAXY" NameC="籐王駒" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
 </race>
 <race num="2">
@@ -14,9 +14,9 @@
 <Tip Position="4" RunnerNumber="2" NameE="LOOKING BRIGHT" NameC="路路勁" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
 </race>
 <race num="3">
-<Tip Position="1" RunnerNumber="13" NameE="DRACO" NameC="快樂老撾" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
-<Tip Position="2" RunnerNumber="7" NameE="WINNING NOW" NameC="勝在當下" JockeyNameE="P N Wong" JockeyNameC="黃寶妮"/>
-<Tip Position="3" RunnerNumber="14" NameE="SPEEDY TRIDENT" NameC="海洋帝君" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
+<Tip Position="1" RunnerNumber="14" NameE="SPEEDY TRIDENT" NameC="海洋帝君" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
+<Tip Position="2" RunnerNumber="13" NameE="DRACO" NameC="快樂老撾" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
+<Tip Position="3" RunnerNumber="7" NameE="WINNING NOW" NameC="勝在當下" JockeyNameE="P N Wong" JockeyNameC="黃寶妮"/>
 <Tip Position="4" RunnerNumber="9" NameE="COLOURFUL WINNER" NameC="多彩多姿" JockeyNameE="J Orman" JockeyNameC="奧爾民"/>
 </race>
 <race num="4">
@@ -28,12 +28,12 @@
 <race num="5">
 <Tip Position="1" RunnerNumber="6" NameE="WORLD HERO" NameC="環球英雄" JockeyNameE="H Bentley" JockeyNameC="班德禮"/>
 <Tip Position="2" RunnerNumber="5" NameE="OLDTOWN" NameC="鋁神" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
-<Tip Position="3" RunnerNumber="4" NameE="WITHOUT RHYME" NameC="御登" JockeyNameE="Y L Chung" JockeyNameC="鍾易禮"/>
+<Tip Position="3" RunnerNumber="13" NameE="APEX GLORY" NameC="領駿輝煌" JockeyNameE="P N Wong" JockeyNameC="黃寶妮"/>
 <Tip Position="4" RunnerNumber="10" NameE="SPIRITED STEED" NameC="烈進駒" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
 </race>
 <race num="6">
-<Tip Position="1" RunnerNumber="4" NameE="FLYING BOOM" NameC="勤德天下" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
-<Tip Position="2" RunnerNumber="9" NameE="GORGEOUS VICTORY" NameC="華麗再贏" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="1" RunnerNumber="9" NameE="GORGEOUS VICTORY" NameC="華麗再贏" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
+<Tip Position="2" RunnerNumber="4" NameE="FLYING BOOM" NameC="勤德天下" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
 <Tip Position="3" RunnerNumber="13" NameE="LUCK IS BACK" NameC="金駒永騰" JockeyNameE="E C W Wong" JockeyNameC="黃智弘"/>
 <Tip Position="4" RunnerNumber="8" NameE="GOOD GOOD" NameC="小飛俠" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
 </race>
