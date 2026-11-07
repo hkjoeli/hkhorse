@@ -10,8 +10,8 @@
 <race num="2">
 <Tip Position="1" RunnerNumber="1" NameE="MACANESE MASTER" NameC="銀亮濠俠" JockeyNameE="H Y Yuen" JockeyNameC="袁幸堯"/>
 <Tip Position="2" RunnerNumber="10" NameE="SWAGGER BRO" NameC="猛將兄" JockeyNameE="S Osborne" JockeyNameC="奧璇璧"/>
-<Tip Position="3" RunnerNumber="2" NameE="SHINYU KOKOROE" NameC="摯友心得" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
-<Tip Position="4" RunnerNumber="3" NameE="DIAMOND SPARKLE" NameC="鑽飾閃耀" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
+<Tip Position="3" RunnerNumber="3" NameE="DIAMOND SPARKLE" NameC="鑽飾閃耀" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
+<Tip Position="4" RunnerNumber="7" NameE="WAVE GARDEN" NameC="大浪園田" JockeyNameE="R Kingscote" JockeyNameC="金誠剛"/>
 </race>
 <race num="3">
 <Tip Position="1" RunnerNumber="9" NameE="KANSAS" NameC="多威心得" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
@@ -34,8 +34,8 @@
 <race num="6">
 <Tip Position="1" RunnerNumber="1" NameE="LADY'S LOVE" NameC="愛馬心" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
 <Tip Position="2" RunnerNumber="5" NameE="CALIFORNIA WAVES" NameC="加州熱浪" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
-<Tip Position="3" RunnerNumber="4" NameE="BEAUTY AWARD" NameC="美麗大獎" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
-<Tip Position="4" RunnerNumber="14" NameE="SUPERB KID" NameC="巴閉仔" JockeyNameE="S Osborne" JockeyNameC="奧璇璧"/>
+<Tip Position="3" RunnerNumber="14" NameE="SUPERB KID" NameC="巴閉仔" JockeyNameE="S Osborne" JockeyNameC="奧璇璧"/>
+<Tip Position="4" RunnerNumber="4" NameE="BEAUTY AWARD" NameC="美麗大獎" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
 </race>
 <race num="7">
 <Tip Position="1" RunnerNumber="2" NameE="TAGLINE" NameC="展雄駿" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
