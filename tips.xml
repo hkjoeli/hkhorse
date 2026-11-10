@@ -11,13 +11,13 @@
 <Tip Position="1" RunnerNumber="9" NameE="WINNING NOW" NameC="勝在當下" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
 <Tip Position="2" RunnerNumber="6" NameE="MAJESTIC LIFE" NameC="駿美一生" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
 <Tip Position="3" RunnerNumber="4" NameE="LAKESHORE HERO" NameC="翠湖烈風" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="4" RunnerNumber="5" NameE="RUSSET GLOW" NameC="安定神駒" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
+<Tip Position="4" RunnerNumber="1" NameE="KING ALLOY" NameC="皇金合" JockeyNameE="R Kingscote" JockeyNameC="金誠剛"/>
 </race>
 <race num="3">
 <Tip Position="1" RunnerNumber="4" NameE="BEAUTY SHOW" NameC="美麗登場" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
 <Tip Position="2" RunnerNumber="5" NameE="COLOURFUL GOLD" NameC="豐勝多彩" JockeyNameE="A Badel" JockeyNameC="巴度"/>
-<Tip Position="3" RunnerNumber="11" NameE="MASTER PHOENIX" NameC="馬鳳凰" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
-<Tip Position="4" RunnerNumber="1" NameE="ARGENTO OCEAN" NameC="當家精彩" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
+<Tip Position="3" RunnerNumber="1" NameE="ARGENTO OCEAN" NameC="當家精彩" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
+<Tip Position="4" RunnerNumber="11" NameE="MASTER PHOENIX" NameC="馬鳳凰" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
 </race>
 <race num="4">
 <Tip Position="1" RunnerNumber="5" NameE="CIRCUIT FIERY" NameC="綫路萬里" JockeyNameE="S Osborne" JockeyNameC="奧璇璧"/>
