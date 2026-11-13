@@ -16,8 +16,8 @@
 <race num="3">
 <Tip Position="1" RunnerNumber="5" NameE="HAPPYDEARHAPPYDEER" NameC="一鹿歡騰" JockeyNameE="P N Wong" JockeyNameC="黃寶妮"/>
 <Tip Position="2" RunnerNumber="4" NameE="HAILTOTHEVICTORS" NameC="光輝歲月" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
-<Tip Position="3" RunnerNumber="10" NameE="HAPPY ACTION" NameC="喜行" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
-<Tip Position="4" RunnerNumber="7" NameE="CELESTIAL HARMONY" NameC="悠悠乾坤" JockeyNameE="S Osborne" JockeyNameC="奧璇璧"/>
+<Tip Position="3" RunnerNumber="6" NameE="SPEEDY TRIDENT" NameC="海洋帝君" JockeyNameE="M L Yeung" JockeyNameC="楊明綸"/>
+<Tip Position="4" RunnerNumber="10" NameE="QUICK MONEY" NameC="不勞而獲" JockeyNameE="A Atzeni" JockeyNameC="艾兆禮"/>
 </race>
 <race num="4">
 <Tip Position="1" RunnerNumber="10" NameE="STORM RUNNER" NameC="步風雷" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
@@ -34,8 +34,8 @@
 <race num="6">
 <Tip Position="1" RunnerNumber="4" NameE="YODA'S CHOICE" NameC="精明選擇" JockeyNameE="H Y Yuen" JockeyNameC="袁幸堯"/>
 <Tip Position="2" RunnerNumber="10" NameE="CALIFORNIA STAR" NameC="加州星馳" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
-<Tip Position="3" RunnerNumber="7" NameE="CHILL KAKA" NameC="超加加" JockeyNameE="R Kingscote" JockeyNameC="金誠剛"/>
-<Tip Position="4" RunnerNumber="9" NameE="LESLIE" NameC="風繼續吹" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
+<Tip Position="3" RunnerNumber="9" NameE="LESLIE" NameC="風繼續吹" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
+<Tip Position="4" RunnerNumber="7" NameE="CHILL KAKA" NameC="超加加" JockeyNameE="R Kingscote" JockeyNameC="金誠剛"/>
 </race>
 <race num="7">
 <Tip Position="1" RunnerNumber="8" NameE="MEGASTAR HEART" NameC="正本巨星" JockeyNameE="L Ferraris" JockeyNameC="霍宏聲"/>
@@ -51,8 +51,8 @@
 </race>
 <race num="9">
 <Tip Position="1" RunnerNumber="9" NameE="POSITIVE SMILE" NameC="心雄雄" JockeyNameE="M Chadwick" JockeyNameC="蔡明紹"/>
-<Tip Position="2" RunnerNumber="1" NameE="GULU GOGO" NameC="咕嚕快跑" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
-<Tip Position="3" RunnerNumber="4" NameE="SOLID CAR" NameC="實力加" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
+<Tip Position="2" RunnerNumber="4" NameE="SOLID CAR" NameC="實力加" JockeyNameE="B Avdulla" JockeyNameC="艾道拿"/>
+<Tip Position="3" RunnerNumber="1" NameE="GULU GOGO" NameC="咕嚕快跑" JockeyNameE="K C Leung" JockeyNameC="梁家俊"/>
 <Tip Position="4" RunnerNumber="2" NameE="TANG HEART" NameC="正本唐心" JockeyNameE="E C W Wong" JockeyNameC="黃智弘"/>
 </race>
 <race num="10">
