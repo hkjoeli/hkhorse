@@ -33,9 +33,9 @@
 </race>
 <race num="6">
 <Tip Position="1" RunnerNumber="2" NameE="GEORGIAN SIGMA" NameC="佐治傳奇" JockeyNameE="Z Purton" JockeyNameC="潘頓"/>
-<Tip Position="2" RunnerNumber="7" NameE="COUNTRY PRIDE" NameC="鄉村威龍" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
-<Tip Position="3" RunnerNumber="4" NameE="MASTER RESOLUTE" NameC="多多好馬" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
-<Tip Position="4" RunnerNumber="8" NameE="LOOKING BRIGHT" NameC="路路勁" JockeyNameE="M F Poon" JockeyNameC="潘明輝"/>
+<Tip Position="2" RunnerNumber="1" NameE="SUPERB KING" NameC="巴閉王" JockeyNameE="H Y Yuen" JockeyNameC="袁幸堯"/>
+<Tip Position="3" RunnerNumber="7" NameE="COUNTRY PRIDE" NameC="鄉村威龍" JockeyNameE="K Teetan" JockeyNameC="田泰安"/>
+<Tip Position="4" RunnerNumber="3" NameE="PERFECT ONE" NameC="通情達理" JockeyNameE="C Y Ho" JockeyNameC="何澤堯"/>
 </race>
 <race num="7">
 <Tip Position="1" RunnerNumber="1" NameE="MY DAY MY WAY" NameC="好節拍" JockeyNameE="C L Chau" JockeyNameC="周俊樂"/>
